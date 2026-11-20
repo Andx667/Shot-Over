@@ -32,7 +32,7 @@ if (_guns isEqualTo []) exitWith {
 };
 private _gun = _guns select 0;
 
-if (magazines _gun isNotEqualTo [] || {abs ((_gun animationSourcePhase BREECH_SOURCE) - BREECH_OPEN) > 0.01}) exitWith {
+if !(BREECH_IS_READY_TO_LOAD(_gun)) exitWith {
     hint LLSTRING(Hint_BreechNotEmpty);
     false
 };

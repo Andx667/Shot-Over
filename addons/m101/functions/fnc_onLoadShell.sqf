@@ -25,7 +25,7 @@ params [["_gun", objNull, [objNull]], ["_magazine", "", [""]], ["_shellClass", "
 
 if (!local _gun || {!alive _gun}) exitWith {};
 
-if (magazines _gun isNotEqualTo [] || {abs ((_gun animationSourcePhase BREECH_SOURCE) - BREECH_OPEN) > 0.01}) exitWith {
+if !(BREECH_IS_READY_TO_LOAD(_gun)) exitWith {
     private _shell = createVehicle [_shellClass, _gun modelToWorld ([_gun, BREECH_OFFSET] call FUNC(posAlongRecoilAxis)), [], 0, "CAN_COLLIDE"];
     _shell setVariable ["shto_charge", _charge, true];
 };
