@@ -23,12 +23,12 @@ _action = ["SHTO_FDC_Notebook", LLSTRING(Action_OpenNotebook), NOTEBOOK_ICON, {
 _action = ["SHTO_FDC_Notebook_hide", LLSTRING(Action_HideNotebook), NOTEBOOK_ICON, {
     MINIMIZED_LAYER cutText ["", "PLAIN"];
 }, {
-    !isNull (uiNamespace getVariable ["shto_fcs_dialog", displayNull])
+    !isNull (uiNamespace getVariable [QGVAR(dialog), displayNull])
 }] call ace_interact_menu_fnc_createAction;
 ["Man", 1, ["ACE_SelfActions", "ACE_Equipment"], _action, true] call ace_interact_menu_fnc_addActionToClass;
 
 [
-    "Shot, Over!",
+    KEYBIND_CATEGORY,
     "shto_keybind_togglenotebook",
     LLSTRING(Keybind_ToggleNotebook),
     {},
@@ -44,12 +44,12 @@ _action = ["SHTO_FDC_Notebook_hide", LLSTRING(Action_HideNotebook), NOTEBOOK_ICO
 ] call CBA_fnc_addKeybind;
 
 [
-    "Shot, Over!",
+    KEYBIND_CATEGORY,
     "shto_keybind_closenotebook",
     LLSTRING(Keybind_CloseNotebook),
     {},
     {
-        if (isNull (uiNamespace getVariable ["shto_fcs_dialog", displayNull])) exitWith {};
+        if (isNull (uiNamespace getVariable [QGVAR(dialog), displayNull])) exitWith {};
         if (dialog) then {
             closeDialog 2;
         } else {

@@ -27,7 +27,7 @@ if (!local _gun || {!alive _gun}) exitWith {};
 
 if !(BREECH_IS_READY_TO_LOAD(_gun)) exitWith {
     private _shell = createVehicle [_shellClass, _gun modelToWorld ([_gun, BREECH_OFFSET] call FUNC(posAlongRecoilAxis)), [], 0, "CAN_COLLIDE"];
-    _shell setVariable ["shto_charge", _charge, true];
+    _shell setVariable [CHARGE_VAR, _charge, true];
 };
 
 // the original mod's sequence, unchanged: the weapon only takes the new magazine once it is added again

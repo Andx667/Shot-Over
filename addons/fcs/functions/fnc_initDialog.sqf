@@ -3,7 +3,7 @@
 /*
  * Author: YannikH, toadball, Andx
  * Fills the FDC notebook, or its minimized view, with a fire mission page and works it out
- * (fnc_calculateFromNotebook). Pages are kept per player in shto_fcs_pages; a new page takes the firing unit's
+ * (fnc_calculateFromNotebook). Pages are kept per player in GVAR(pages); a new page takes the firing unit's
  * grid and elevation from the last one. Called by the dialogs' onLoad and by the page buttons.
  *
  * Arguments:
@@ -26,14 +26,14 @@ if (!_minimized) then {
     MINIMIZED_LAYER cutText ["", "PLAIN"];
 };
 if (isNull _dialog) then {
-    _dialog = uiNamespace getVariable ["shto_fcs_dialog", displayNull];
+    _dialog = uiNamespace getVariable [QGVAR(dialog), displayNull];
 } else {
-    uiNamespace setVariable ["shto_fcs_dialog", _dialog];
+    uiNamespace setVariable [QGVAR(dialog), _dialog];
 };
 if (isNull _dialog) exitWith {};
 
-private _openPage = ((missionNamespace getVariable ["shto_fcs_currentPage", 0]) + _pageChange) max 0;
-private _pages = missionNamespace getVariable ["shto_fcs_pages", []];
+private _openPage = ((missionNamespace getVariable [QGVAR(currentPage), 0]) + _pageChange) max 0;
+private _pages = missionNamespace getVariable [QGVAR(pages), []];
 private _page = if (_openPage < count _pages) then {
     _pages select _openPage
 } else {
@@ -57,6 +57,6 @@ lbClear _shellList;
 _shellList lbSetCurSel (_page select 5);
 
 (_dialog displayCtrl IDC_TITLE) ctrlSetText format [LLSTRING(Firemission), _openPage + 1, count _pages max (_openPage + 1)];
-missionNamespace setVariable ["shto_fcs_currentPage", _openPage];
+missionNamespace setVariable [QGVAR(currentPage), _openPage];
 
 [_minimized] call FUNC(calculateFromNotebook);

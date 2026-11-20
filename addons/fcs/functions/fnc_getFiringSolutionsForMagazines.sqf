@@ -38,7 +38,7 @@ if (_distance <= 0) exitWith {_solutions};
                 // -1 gives the low angle, 1 the high angle
                 private _elevation = atan ((_distance + _x * sqrt _discriminant) / (2 * _a));
                 if (_elevation >= MIN_ELEVATION && {_elevation <= MAX_ELEVATION}) then {
-                    _solutions pushBack [_charge, _elevation * 6400 / 360, _distance / (_speed * cos _elevation)];
+                    _solutions pushBack [_charge, _elevation * MILS_PER_DEGREE, _distance / (_speed * cos _elevation)];
                 };
             } forEach ([[-1], [-1, 1]] select (_discriminant > 0)); // at maximum range both are the same
         };

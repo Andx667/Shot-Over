@@ -25,7 +25,7 @@ params [["_unit", objNull, [objNull]], ["_shell", objNull, [objNull]]];
 
 if (!local _unit || {isNull _shell}) exitWith {false};
 
-private _guns = nearestObjects [_unit, ["shto_vn_static_m101_02_base"], GUN_SEARCH_DISTANCE];
+private _guns = nearestObjects [_unit, [GUN_CLASS], GUN_SEARCH_DISTANCE];
 if (_guns isEqualTo []) exitWith {
     hint LELSTRING(logistics,Hint_NoHowitzer);
     false
@@ -45,7 +45,7 @@ if (_shell distance _breech > LOAD_DISTANCE) exitWith {
 
 private _magazine = [_shell] call FUNC(getMagazineFromShell);
 private _shellClass = typeOf _shell;
-private _charge = _shell getVariable ["shto_charge", 1];
+private _charge = _shell getVariable [CHARGE_VAR, 1];
 
 deleteVehicle _shell;
 

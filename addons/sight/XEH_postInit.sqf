@@ -40,7 +40,7 @@ _action = [QGVAR(close), LLSTRING(Action_Close), "", {
 [GUN_CLASS, 1, ["ACE_SelfActions"], _action, true] call ace_interact_menu_fnc_addActionToClass;
 
 [
-    "Shot, Over!",
+    KEYBIND_CATEGORY,
     "shto_keybind_togglesight",
     LLSTRING(Keybind_Toggle),
     {
@@ -59,7 +59,7 @@ _action = [QGVAR(close), LLSTRING(Action_Close), "", {
 {
     _x params ["_id", "_name", "_dial", "_direction", "_key"];
     [
-        "Shot, Over!",
+        KEYBIND_CATEGORY,
         _id,
         _name,
         compile format ['

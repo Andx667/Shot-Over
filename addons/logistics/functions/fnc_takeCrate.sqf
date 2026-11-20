@@ -23,20 +23,20 @@ params [["_source", objNull, [objNull]], ["_unit", objNull, [objNull]]];
 
 if (!isServer || {isNull _source} || {isNull _unit}) exitWith {};
 
-private _left = _source getVariable ["shto_cratesleft", 0];
+private _left = _source getVariable [CRATES_LEFT_VAR, 0];
 if (_left <= 0) exitWith {};
 
 if (_source isKindOf "shto_vn_m101_pallet_base") then {
-    private _crates = _source getVariable ["shto_crateList", []];
+    private _crates = _source getVariable [CRATE_LIST_VAR, []];
     if (_crates isNotEqualTo []) then {
         deleteVehicle (_crates deleteAt (count _crates - 1));
     };
     _left = count _crates;
-    _source setVariable ["shto_crateList", _crates, true];
+    _source setVariable [CRATE_LIST_VAR, _crates, true];
     [_source, PALLET_CARGO_SIZE(_left)] call ace_cargo_fnc_setSize;
 } else {
     _left = _left - 1;
 };
-_source setVariable ["shto_cratesleft", _left, true];
+_source setVariable [CRATES_LEFT_VAR, _left, true];
 
 createVehicle [getText (configOf _source >> "crateClass"), _unit getRelPos [1, 0], [], 0, "NONE"];

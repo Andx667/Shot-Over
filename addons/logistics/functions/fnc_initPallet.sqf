@@ -26,7 +26,7 @@ if (!isServer || {isNull _pallet}) exitWith {};
 
 {
     deleteVehicle _x;
-} forEach (_pallet getVariable ["shto_crateList", []]);
+} forEach (_pallet getVariable [CRATE_LIST_VAR, []]);
 
 private _config = configOf _pallet;
 if (_crateCount < 0) then {
@@ -51,6 +51,6 @@ for "_index" from 0 to _crateCount - 1 do {
     _crates pushBack _crate;
 };
 
-_pallet setVariable ["shto_crateList", _crates, true];
-_pallet setVariable ["shto_cratesleft", count _crates, true];
+_pallet setVariable [CRATE_LIST_VAR, _crates, true];
+_pallet setVariable [CRATES_LEFT_VAR, count _crates, true];
 [_pallet, PALLET_CARGO_SIZE(count _crates)] call ace_cargo_fnc_setSize;

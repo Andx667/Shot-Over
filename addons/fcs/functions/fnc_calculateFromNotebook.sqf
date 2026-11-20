@@ -4,8 +4,9 @@
  * Author: YannikH, toadball, Andx
  * Works out the open fire mission of the FDC notebook: direction and distance from the firing unit to the target,
  * the nearest place names, and a solution (charge, elevation, time of flight) per charge and angle for the
- * selected shell type (fnc_getFiringSolutionsForMagazines). Reads the notebook's fields, or in the minimized
- * notebook the saved page. Invalid or missing grids leave the solutions empty.
+ * selected shell type (fnc_getFiringSolutionsForMagazines). Saves the notebook's fields first (fnc_saveView), then
+ * works out the saved page, which is all the minimized notebook has. Invalid or missing grids leave the solutions
+ * empty.
  *
  * Arguments:
  * 0: The notebook is minimized (default: false) <BOOL>
@@ -21,22 +22,14 @@
 
 params [["_minimized", false, [false]]];
 
-private _dialog = uiNamespace getVariable ["shto_fcs_dialog", displayNull];
+private _dialog = uiNamespace getVariable [QGVAR(dialog), displayNull];
 if (isNull _dialog) exitWith {};
 
-private _page = if (_minimized) then {
-    (missionNamespace getVariable ["shto_fcs_pages", []]) param [missionNamespace getVariable ["shto_fcs_currentPage", 0], []]
-} else {
-    [
-        ctrlText (_dialog displayCtrl IDC_OWN_GRID),
-        ctrlText (_dialog displayCtrl IDC_OWN_ELEVATION),
-        ctrlText (_dialog displayCtrl IDC_TARGET_GRID),
-        ctrlText (_dialog displayCtrl IDC_TARGET_ELEVATION),
-        ctrlText (_dialog displayCtrl IDC_NOTES),
-        lbCurSel (_dialog displayCtrl IDC_SHELL_TYPE),
-        ctrlText (_dialog displayCtrl IDC_AZIMUTH_OF_LAY)
-    ]
+// the open notebook's fields are saved first, so both views work out the saved page
+if (!_minimized) then {
+    [_dialog] call FUNC(saveView);
 };
+private _page = (missionNamespace getVariable [QGVAR(pages), []]) param [missionNamespace getVariable [QGVAR(currentPage), 0], []];
 _page params [["_ownGrid", "", [""]], ["_ownElevation", "", [""]], ["_targetGrid", "", [""]], ["_targetElevation", "", [""]], "", ["_shellType", 0, [0]], ["_azimuthOfLay", "", [""]]];
 
 private _solutionsCtrl = _dialog displayCtrl IDC_SOLUTIONS;
@@ -80,7 +73,7 @@ private _magazines = CHARGES apply {format [MAGAZINE_FORMAT, _shell, _x]};
     _linesCtrl lnbAddRow ["____", "____", "____"];
 } forEach ([_magazines, _distance, _height] call FUNC(getFiringSolutionsForMagazines));
 
-private _direction = round ((_ownPos getDir _targetPos) * 6400 / 360) % 6400;
+private _direction = round ((_ownPos getDir _targetPos) * MILS_PER_DEGREE) % 6400;
 (_dialog displayCtrl IDC_DIRECTION) ctrlSetText format [LLSTRING(Format_Mils), _direction];
 (_dialog displayCtrl IDC_DISTANCE) ctrlSetText format [LLSTRING(Format_Meters), round _distance];
 

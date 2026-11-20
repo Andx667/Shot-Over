@@ -4,6 +4,11 @@
 
 #include "\z\shot_over\addons\main\script_macros.hpp"
 
+// Object variables of crates, pallets and containers, with the original mod's names (see main\script_macros.hpp)
+#define CRATES_LEFT_VAR "shto_cratesleft"
+#define CRATE_LIST_VAR "shto_crateList"
+#define CRATE_IS_OPEN_VAR "shto_crateIsOpen"
+
 // ACE action distance (m) of the shell, crate, pallet and container actions
 #define INTERACTION_DISTANCE 5
 // ACE cargo size of a pallet per started 21 crates (a full x42 pallet)
