@@ -58,13 +58,13 @@ _action = ["M101 Shell", LLSTRING(Action_Shell), "", {}, {true}, nil, nil, [0, 0
 }] call ace_interact_menu_fnc_createAction;
 [SHELL_CLASS, 0, ["ACE_MainActions"], _action, true] call ace_interact_menu_fnc_addActionToClass;
 
-_action = ["Set Charge", LLSTRING(Action_SetCharge), "", {}, {true}, nil, nil, [0, 0, 0], INTERACTION_DISTANCE, [false, false, false, false, false]] call ace_interact_menu_fnc_createAction;
+_action = ["Set Charge", LLSTRING(Action_SetCharge), "", {}, {true}, nil, nil, [0, 0, 0], INTERACTION_DISTANCE] call ace_interact_menu_fnc_createAction;
 [SHELL_CLASS, 0, ["ACE_MainActions", "M101 Shell"], _action, true] call ace_interact_menu_fnc_addActionToClass;
 
 for "_charge" from 1 to 5 do {
     _action = [format ["Charge %1", _charge], format [LLSTRING(Action_Charge), _charge], "", {
         params ["_target", "", "_charge"];
         _target setVariable [CHARGE_VAR, _charge, true];
-    }, {true}, nil, _charge, [0, 0, 0], INTERACTION_DISTANCE, [false, false, false, false, false]] call ace_interact_menu_fnc_createAction;
+    }, {true}, nil, _charge, [0, 0, 0], INTERACTION_DISTANCE] call ace_interact_menu_fnc_createAction;
     [SHELL_CLASS, 0, ["ACE_MainActions", "M101 Shell", "Set Charge"], _action, true] call ace_interact_menu_fnc_addActionToClass;
 };
