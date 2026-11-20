@@ -10,6 +10,12 @@
 #define BREECH_OPEN 0.7
 #define BREECH_LOADED 0.3
 #define BREECH_FIRED 0.9
+// How far (phase) the breech may be from a phase and still count as at it
+#define BREECH_TOLERANCE 0.01
+// The breech can be opened once the gun fired: from the recoil (phase 1) until it ran out to BREECH_FIRED
+#define BREECH_IS_FIRED(gun) (((gun) animationSourcePhase BREECH_SOURCE) > BREECH_FIRED - 0.05)
+// The breech is open and the gun empty: a shell can be loaded
+#define BREECH_IS_READY_TO_LOAD(gun) (magazines (gun) isEqualTo [] && {abs (((gun) animationSourcePhase BREECH_SOURCE) - BREECH_OPEN) <= BREECH_TOLERANCE})
 
 // ACE action distance (m) to the gun's action points
 #define INTERACTION_DISTANCE 3
