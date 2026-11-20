@@ -24,7 +24,7 @@
 params [["_display", displayNull, [displayNull]], ["_key", -1, [0]], ["_shift", false, [false]], ["_ctrl", false, [false]], ["_alt", false, [false]]];
 
 private _isKeybind = ["shto_keybind_togglenotebook", "shto_keybind_closenotebook"] findIf {
-    private _keybind = ["Shot, Over!", _x] call CBA_fnc_getKeybind;
+    private _keybind = [KEYBIND_CATEGORY, _x] call CBA_fnc_getKeybind;
     !isNil "_keybind" && {(_keybind select 5) isEqualTo [_key, [_shift, _ctrl, _alt]]}
 } != -1;
 if (!_isKeybind) exitWith {false};

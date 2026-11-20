@@ -20,14 +20,14 @@
 
 params [["_crate", objNull, [objNull]]];
 
-if (!isServer || {isNull _crate} || {_crate getVariable ["shto_crateIsOpen", false]}) exitWith {};
+if (!isServer || {isNull _crate} || {_crate getVariable [CRATE_IS_OPEN_VAR, false]}) exitWith {};
 
-_crate setVariable ["shto_crateIsOpen", true, true];
+_crate setVariable [CRATE_IS_OPEN_VAR, true, true];
 _crate hideObjectGlobal true;
 
 private _openCrateClass = getText (configOf _crate >> "openVariant");
 private _openCrate = createVehicle [_openCrateClass, [0, 0, 100], [], 0, "CAN_COLLIDE"];
-_openCrate setVariable ["shto_crateIsOpen", true, true];
+_openCrate setVariable [CRATE_IS_OPEN_VAR, true, true];
 
 private _shellClass = getText (configFile >> "CfgVehicles" >> _openCrateClass >> "shellType");
 {

@@ -17,9 +17,9 @@
 class shto_calculator {
     idd = 20001;
     movingEnable = 1;
-    onLoad = "_this call shot_over_fcs_fnc_initDialog";
-    onUnload = "[_this select 0] call shot_over_fcs_fnc_saveView; call shot_over_fcs_fnc_openMinimized;";
-    onKeyUp = "_this call shot_over_fcs_fnc_dialogKeyUp;";
+    onLoad = QUOTE(_this call FUNC(initDialog));
+    onUnload = QUOTE([_this select 0] call FUNC(saveView); call FUNC(openMinimized));
+    onKeyUp = QUOTE(_this call FUNC(dialogKeyUp));
     class Controls {
         ////////////////////////////////////////////////////////
         // GUI EDITOR OUTPUT START (by Yax, v1.063, #Corono)
@@ -167,7 +167,7 @@ class shto_calculator {
             colorFocused[] = {0,0,0,0};
             colorShadow[] = {0,0,0,0};
             colorBorder[] = {0,0,0,0};
-            onButtonClick="[] call shot_over_fcs_fnc_saveView; [nil, -1] call shot_over_fcs_fnc_initDialog";
+            onButtonClick = QUOTE([] call FUNC(saveView); [ARR_2(nil,-1)] call FUNC(initDialog));
         };
         class RscText_1012: ButtonBase
         {
@@ -177,7 +177,7 @@ class shto_calculator {
             y = QUOTE(0.698 * safezoneH + safezoneY);
             w = QUOTE(0.0368605 * RELWIDTH);
             h = QUOTE(0.022 * safezoneH);
-            onButtonClick="[] call shot_over_fcs_fnc_saveView; [nil, 1] call shot_over_fcs_fnc_initDialog";
+            onButtonClick = QUOTE([] call FUNC(saveView); [ARR_2(nil,1)] call FUNC(initDialog));
         };
         class RscText_1009: ButtonBase
         {
@@ -187,7 +187,7 @@ class shto_calculator {
             y = QUOTE(0.653 * safezoneH + safezoneY);
             w = QUOTE(0.0303954 * RELWIDTH);
             h = QUOTE(0.022 * safezoneH);
-            onButtonClick="[false] call shot_over_fcs_fnc_calculateFromNotebook";
+            onButtonClick = QUOTE([false] call FUNC(calculateFromNotebook));
         };
         class BaseTextField: RscEdit
         {
@@ -384,7 +384,7 @@ class shto_calculator {
 class RscTitles {
     class shto_calculator_minimized {
         idd = 20001;
-        onLoad = "[_this # 0, 0, true] call shot_over_fcs_fnc_initDialog";
+        onLoad = QUOTE([ARR_3(_this select 0,0,true)] call FUNC(initDialog));
         //onLoad = "";
         movingEnable = 1;
         duration = 9999999;

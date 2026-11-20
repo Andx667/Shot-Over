@@ -23,6 +23,6 @@ params [["_display", displayNull, [displayNull]], ["_button", -1, [0]]];
 if (_button != 1) exitWith {};
 
 private _shell = ace_player getVariable ["ace_dragging_carriedObject", objNull];
-if (isNull _shell || {!(_shell isKindOf "shto_vn_m101_shell")}) exitWith {};
+if (isNull _shell || {!(_shell isKindOf SHELL_CLASS)}) exitWith {};
 
 [ace_player, _shell] call EFUNC(m101,loadShell);

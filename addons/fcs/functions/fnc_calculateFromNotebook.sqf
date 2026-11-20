@@ -21,11 +21,11 @@
 
 params [["_minimized", false, [false]]];
 
-private _dialog = uiNamespace getVariable ["shto_fcs_dialog", displayNull];
+private _dialog = uiNamespace getVariable [QGVAR(dialog), displayNull];
 if (isNull _dialog) exitWith {};
 
 private _page = if (_minimized) then {
-    (missionNamespace getVariable ["shto_fcs_pages", []]) param [missionNamespace getVariable ["shto_fcs_currentPage", 0], []]
+    (missionNamespace getVariable [QGVAR(pages), []]) param [missionNamespace getVariable [QGVAR(currentPage), 0], []]
 } else {
     [
         ctrlText (_dialog displayCtrl IDC_OWN_GRID),
@@ -80,7 +80,7 @@ private _magazines = CHARGES apply {format [MAGAZINE_FORMAT, _shell, _x]};
     _linesCtrl lnbAddRow ["____", "____", "____"];
 } forEach ([_magazines, _distance, _height] call FUNC(getFiringSolutionsForMagazines));
 
-private _direction = round ((_ownPos getDir _targetPos) * 6400 / 360) % 6400;
+private _direction = round ((_ownPos getDir _targetPos) * MILS_PER_DEGREE) % 6400;
 (_dialog displayCtrl IDC_DIRECTION) ctrlSetText format [LLSTRING(Format_Mils), _direction];
 (_dialog displayCtrl IDC_DISTANCE) ctrlSetText format [LLSTRING(Format_Meters), round _distance];
 

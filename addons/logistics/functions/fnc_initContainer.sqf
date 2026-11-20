@@ -22,4 +22,4 @@ params [["_container", objNull, [objNull]]];
 
 if (!isServer || {isNull _container}) exitWith {};
 
-_container setVariable ["shto_cratesleft", getNumber (configOf _container >> "crateCount"), true];
+_container setVariable [CRATES_LEFT_VAR, getNumber (configOf _container >> "crateCount"), true];

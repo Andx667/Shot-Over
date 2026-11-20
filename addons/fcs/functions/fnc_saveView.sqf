@@ -3,7 +3,7 @@
 /*
  * Author: YannikH, toadball, Andx
  * Saves the open page of the FDC notebook (grids, elevations, notes, shell type, azimuth of lay) into
- * shto_fcs_pages, before a page is turned or the notebook is closed. Does nothing for the minimized notebook, which
+ * GVAR(pages), before a page is turned or the notebook is closed. Does nothing for the minimized notebook, which
  * has no fields.
  *
  * Arguments:
@@ -21,12 +21,12 @@
 params [["_dialog", displayNull, [displayNull]]];
 
 if (isNull _dialog) then {
-    _dialog = uiNamespace getVariable ["shto_fcs_dialog", displayNull];
+    _dialog = uiNamespace getVariable [QGVAR(dialog), displayNull];
 };
 if (isNull (_dialog displayCtrl IDC_OWN_GRID)) exitWith {};
 
-private _pages = missionNamespace getVariable ["shto_fcs_pages", []];
-_pages set [missionNamespace getVariable ["shto_fcs_currentPage", 0], [
+private _pages = missionNamespace getVariable [QGVAR(pages), []];
+_pages set [missionNamespace getVariable [QGVAR(currentPage), 0], [
     ctrlText (_dialog displayCtrl IDC_OWN_GRID),
     ctrlText (_dialog displayCtrl IDC_OWN_ELEVATION),
     ctrlText (_dialog displayCtrl IDC_TARGET_GRID),
@@ -35,4 +35,4 @@ _pages set [missionNamespace getVariable ["shto_fcs_currentPage", 0], [
     lbCurSel (_dialog displayCtrl IDC_SHELL_TYPE),
     ctrlText (_dialog displayCtrl IDC_AZIMUTH_OF_LAY)
 ]];
-missionNamespace setVariable ["shto_fcs_pages", _pages];
+missionNamespace setVariable [QGVAR(pages), _pages];

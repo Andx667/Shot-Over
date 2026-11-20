@@ -20,6 +20,6 @@
 params [["_shell", objNull, [objNull]]];
 
 private _magazineBase = getText (configOf _shell >> "magazineBase");
-private _charge = _shell getVariable ["shto_charge", 1];
+private _charge = _shell getVariable [CHARGE_VAR, 1];
 
 format ["%1%2", _magazineBase, _charge]
