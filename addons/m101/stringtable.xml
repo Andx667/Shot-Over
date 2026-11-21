@@ -434,22 +434,22 @@
             <Ukrainian>105 мм HE Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c1_DisplayName">
-            <English>M314 105mm ICM</English>
-            <Czech>M314 105mm ICM</Czech>
-            <French>M314 105mm ICM</French>
-            <Spanish>M314 105mm ICM</Spanish>
-            <Italian>M314 105mm ICM</Italian>
-            <Polish>M314 105mm ICM</Polish>
-            <Portuguese>M314 105mm ICM</Portuguese>
-            <Russian>M314 105 мм ICM</Russian>
-            <German>M314 105mm ICM</German>
-            <Korean>M314 105mm ICM</Korean>
-            <Japanese>M314 105mm ICM</Japanese>
-            <Chinese>M314 105mm ICM</Chinese>
-            <Chinesesimp>M314 105mm ICM</Chinesesimp>
-            <Turkish>M314 105mm ICM</Turkish>
-            <Hungarian>M314 105mm ICM</Hungarian>
-            <Ukrainian>M314 105 мм ICM</Ukrainian>
+            <English>M444 105mm ICM</English>
+            <Czech>M444 105mm ICM</Czech>
+            <French>M444 105mm ICM</French>
+            <Spanish>M444 105mm ICM</Spanish>
+            <Italian>M444 105mm ICM</Italian>
+            <Polish>M444 105mm ICM</Polish>
+            <Portuguese>M444 105mm ICM</Portuguese>
+            <Russian>M444 105 мм ICM</Russian>
+            <German>M444 105mm ICM</German>
+            <Korean>M444 105mm ICM</Korean>
+            <Japanese>M444 105mm ICM</Japanese>
+            <Chinese>M444 105mm ICM</Chinese>
+            <Chinesesimp>M444 105mm ICM</Chinesesimp>
+            <Turkish>M444 105mm ICM</Turkish>
+            <Hungarian>M444 105mm ICM</Hungarian>
+            <Ukrainian>M444 105 мм ICM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c1_DisplayNameShort">
             <English>105mm ICM Chg. 1</English>
