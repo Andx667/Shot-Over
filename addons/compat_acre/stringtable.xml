@@ -3,9 +3,39 @@
     <Package name="compat_acre">
         <Key ID="STR_shot_over_compat_acre_Rack_DisplayName">
             <English>Radio</English>
+            <Czech>Radiostanice</Czech>
+            <French>Radio</French>
+            <Spanish>Radio</Spanish>
+            <Italian>Radio</Italian>
+            <Polish>Radiostacja</Polish>
+            <Portuguese>Rádio</Portuguese>
+            <Russian>Радиостанция</Russian>
+            <German>Funkgerät</German>
+            <Korean>무전기</Korean>
+            <Japanese>無線機</Japanese>
+            <Chinese>無線電</Chinese>
+            <Chinesesimp>无线电</Chinesesimp>
+            <Turkish>Telsiz</Turkish>
+            <Hungarian>Rádió</Hungarian>
+            <Ukrainian>Радіостанція</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_compat_acre_Rack_ShortName">
             <English>Radio</English>
+            <Czech>Radiostanice</Czech>
+            <French>Radio</French>
+            <Spanish>Radio</Spanish>
+            <Italian>Radio</Italian>
+            <Polish>Radiostacja</Polish>
+            <Portuguese>Rádio</Portuguese>
+            <Russian>Радиостанция</Russian>
+            <German>Funkgerät</German>
+            <Korean>무전기</Korean>
+            <Japanese>無線機</Japanese>
+            <Chinese>無線電</Chinese>
+            <Chinesesimp>无线电</Chinesesimp>
+            <Turkish>Telsiz</Turkish>
+            <Hungarian>Rádió</Hungarian>
+            <Ukrainian>Радіостанція</Ukrainian>
         </Key>
     </Package>
 </Project>

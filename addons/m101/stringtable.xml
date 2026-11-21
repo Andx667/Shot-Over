@@ -3,165 +3,975 @@
     <Package name="m101">
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c1_DisplayName">
             <English>M1 105mm AB</English>
+            <Czech>M1 105mm AB</Czech>
+            <French>M1 105mm AB</French>
+            <Spanish>M1 105mm AB</Spanish>
+            <Italian>M1 105mm AB</Italian>
+            <Polish>M1 105mm AB</Polish>
+            <Portuguese>M1 105mm AB</Portuguese>
+            <Russian>M1 105 мм AB</Russian>
+            <German>M1 105mm AB</German>
+            <Korean>M1 105mm AB</Korean>
+            <Japanese>M1 105mm AB</Japanese>
+            <Chinese>M1 105mm AB</Chinese>
+            <Chinesesimp>M1 105mm AB</Chinesesimp>
+            <Turkish>M1 105mm AB</Turkish>
+            <Hungarian>M1 105mm AB</Hungarian>
+            <Ukrainian>M1 105 мм AB</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c1_DisplayNameShort">
             <English>105mm AB Chg. 1</English>
+            <Czech>105mm AB Npl. 1</Czech>
+            <French>105mm AB Ch. 1</French>
+            <Spanish>105mm AB Cg. 1</Spanish>
+            <Italian>105mm AB Car. 1</Italian>
+            <Polish>105mm AB Ład. 1</Polish>
+            <Portuguese>105mm AB Cg. 1</Portuguese>
+            <Russian>105 мм AB Зар. 1</Russian>
+            <German>105mm AB Ldg. 1</German>
+            <Korean>105mm AB 장약 1</Korean>
+            <Japanese>105mm AB 装薬 1</Japanese>
+            <Chinese>105mm AB 裝藥 1</Chinese>
+            <Chinesesimp>105mm AB 装药 1</Chinesesimp>
+            <Turkish>105mm AB Şrj. 1</Turkish>
+            <Hungarian>105mm AB Tölt. 1</Hungarian>
+            <Ukrainian>105 мм AB Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c2_DisplayNameShort">
             <English>105mm AB Chg. 2</English>
+            <Czech>105mm AB Npl. 2</Czech>
+            <French>105mm AB Ch. 2</French>
+            <Spanish>105mm AB Cg. 2</Spanish>
+            <Italian>105mm AB Car. 2</Italian>
+            <Polish>105mm AB Ład. 2</Polish>
+            <Portuguese>105mm AB Cg. 2</Portuguese>
+            <Russian>105 мм AB Зар. 2</Russian>
+            <German>105mm AB Ldg. 2</German>
+            <Korean>105mm AB 장약 2</Korean>
+            <Japanese>105mm AB 装薬 2</Japanese>
+            <Chinese>105mm AB 裝藥 2</Chinese>
+            <Chinesesimp>105mm AB 装药 2</Chinesesimp>
+            <Turkish>105mm AB Şrj. 2</Turkish>
+            <Hungarian>105mm AB Tölt. 2</Hungarian>
+            <Ukrainian>105 мм AB Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c3_DisplayNameShort">
             <English>105mm AB Chg. 3</English>
+            <Czech>105mm AB Npl. 3</Czech>
+            <French>105mm AB Ch. 3</French>
+            <Spanish>105mm AB Cg. 3</Spanish>
+            <Italian>105mm AB Car. 3</Italian>
+            <Polish>105mm AB Ład. 3</Polish>
+            <Portuguese>105mm AB Cg. 3</Portuguese>
+            <Russian>105 мм AB Зар. 3</Russian>
+            <German>105mm AB Ldg. 3</German>
+            <Korean>105mm AB 장약 3</Korean>
+            <Japanese>105mm AB 装薬 3</Japanese>
+            <Chinese>105mm AB 裝藥 3</Chinese>
+            <Chinesesimp>105mm AB 装药 3</Chinesesimp>
+            <Turkish>105mm AB Şrj. 3</Turkish>
+            <Hungarian>105mm AB Tölt. 3</Hungarian>
+            <Ukrainian>105 мм AB Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c4_DisplayNameShort">
             <English>105mm AB Chg. 4</English>
+            <Czech>105mm AB Npl. 4</Czech>
+            <French>105mm AB Ch. 4</French>
+            <Spanish>105mm AB Cg. 4</Spanish>
+            <Italian>105mm AB Car. 4</Italian>
+            <Polish>105mm AB Ład. 4</Polish>
+            <Portuguese>105mm AB Cg. 4</Portuguese>
+            <Russian>105 мм AB Зар. 4</Russian>
+            <German>105mm AB Ldg. 4</German>
+            <Korean>105mm AB 장약 4</Korean>
+            <Japanese>105mm AB 装薬 4</Japanese>
+            <Chinese>105mm AB 裝藥 4</Chinese>
+            <Chinesesimp>105mm AB 装药 4</Chinesesimp>
+            <Turkish>105mm AB Şrj. 4</Turkish>
+            <Hungarian>105mm AB Tölt. 4</Hungarian>
+            <Ukrainian>105 мм AB Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_ab_x1_c5_DisplayNameShort">
             <English>105mm AB Chg. 5</English>
+            <Czech>105mm AB Npl. 5</Czech>
+            <French>105mm AB Ch. 5</French>
+            <Spanish>105mm AB Cg. 5</Spanish>
+            <Italian>105mm AB Car. 5</Italian>
+            <Polish>105mm AB Ład. 5</Polish>
+            <Portuguese>105mm AB Cg. 5</Portuguese>
+            <Russian>105 мм AB Зар. 5</Russian>
+            <German>105mm AB Ldg. 5</German>
+            <Korean>105mm AB 장약 5</Korean>
+            <Japanese>105mm AB 装薬 5</Japanese>
+            <Chinese>105mm AB 裝藥 5</Chinese>
+            <Chinesesimp>105mm AB 装药 5</Chinesesimp>
+            <Turkish>105mm AB Şrj. 5</Turkish>
+            <Hungarian>105mm AB Tölt. 5</Hungarian>
+            <Ukrainian>105 мм AB Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c1_DisplayName">
             <English>M60 105mm Smoke</English>
+            <Czech>M60 105mm Dýmový</Czech>
+            <French>M60 105mm Fumigène</French>
+            <Spanish>M60 105mm Humo</Spanish>
+            <Italian>M60 105mm Fumogeno</Italian>
+            <Polish>M60 105mm Dymny</Polish>
+            <Portuguese>M60 105mm Fumaça</Portuguese>
+            <Russian>M60 105 мм дымовой</Russian>
+            <German>M60 105mm Nebel</German>
+            <Korean>M60 105mm 연막</Korean>
+            <Japanese>M60 105mm 発煙</Japanese>
+            <Chinese>M60 105mm 煙幕</Chinese>
+            <Chinesesimp>M60 105mm 烟幕</Chinesesimp>
+            <Turkish>M60 105mm Sis</Turkish>
+            <Hungarian>M60 105mm Füst</Hungarian>
+            <Ukrainian>M60 105 мм димовий</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c1_DisplayNameShort">
             <English>105mm Smoke Chg. 1</English>
+            <Czech>105mm Dýmový Npl. 1</Czech>
+            <French>105mm Fumigène Ch. 1</French>
+            <Spanish>105mm Humo Cg. 1</Spanish>
+            <Italian>105mm Fumogeno Car. 1</Italian>
+            <Polish>105mm Dymny Ład. 1</Polish>
+            <Portuguese>105mm Fumaça Cg. 1</Portuguese>
+            <Russian>105 мм дымовой Зар. 1</Russian>
+            <German>105mm Nebel Ldg. 1</German>
+            <Korean>105mm 연막 장약 1</Korean>
+            <Japanese>105mm 発煙 装薬 1</Japanese>
+            <Chinese>105mm 煙幕 裝藥 1</Chinese>
+            <Chinesesimp>105mm 烟幕 装药 1</Chinesesimp>
+            <Turkish>105mm Sis Şrj. 1</Turkish>
+            <Hungarian>105mm Füst Tölt. 1</Hungarian>
+            <Ukrainian>105 мм димовий Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c2_DisplayNameShort">
             <English>105mm Smoke CHG. 2</English>
+            <Czech>105mm Dýmový Npl. 2</Czech>
+            <French>105mm Fumigène Ch. 2</French>
+            <Spanish>105mm Humo Cg. 2</Spanish>
+            <Italian>105mm Fumogeno Car. 2</Italian>
+            <Polish>105mm Dymny Ład. 2</Polish>
+            <Portuguese>105mm Fumaça Cg. 2</Portuguese>
+            <Russian>105 мм дымовой Зар. 2</Russian>
+            <German>105mm Nebel Ldg. 2</German>
+            <Korean>105mm 연막 장약 2</Korean>
+            <Japanese>105mm 発煙 装薬 2</Japanese>
+            <Chinese>105mm 煙幕 裝藥 2</Chinese>
+            <Chinesesimp>105mm 烟幕 装药 2</Chinesesimp>
+            <Turkish>105mm Sis Şrj. 2</Turkish>
+            <Hungarian>105mm Füst Tölt. 2</Hungarian>
+            <Ukrainian>105 мм димовий Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c3_DisplayNameShort">
             <English>105mm Smoke CHG. 3</English>
+            <Czech>105mm Dýmový Npl. 3</Czech>
+            <French>105mm Fumigène Ch. 3</French>
+            <Spanish>105mm Humo Cg. 3</Spanish>
+            <Italian>105mm Fumogeno Car. 3</Italian>
+            <Polish>105mm Dymny Ład. 3</Polish>
+            <Portuguese>105mm Fumaça Cg. 3</Portuguese>
+            <Russian>105 мм дымовой Зар. 3</Russian>
+            <German>105mm Nebel Ldg. 3</German>
+            <Korean>105mm 연막 장약 3</Korean>
+            <Japanese>105mm 発煙 装薬 3</Japanese>
+            <Chinese>105mm 煙幕 裝藥 3</Chinese>
+            <Chinesesimp>105mm 烟幕 装药 3</Chinesesimp>
+            <Turkish>105mm Sis Şrj. 3</Turkish>
+            <Hungarian>105mm Füst Tölt. 3</Hungarian>
+            <Ukrainian>105 мм димовий Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c4_DisplayNameShort">
             <English>105mm Smoke CHG. 4</English>
+            <Czech>105mm Dýmový Npl. 4</Czech>
+            <French>105mm Fumigène Ch. 4</French>
+            <Spanish>105mm Humo Cg. 4</Spanish>
+            <Italian>105mm Fumogeno Car. 4</Italian>
+            <Polish>105mm Dymny Ład. 4</Polish>
+            <Portuguese>105mm Fumaça Cg. 4</Portuguese>
+            <Russian>105 мм дымовой Зар. 4</Russian>
+            <German>105mm Nebel Ldg. 4</German>
+            <Korean>105mm 연막 장약 4</Korean>
+            <Japanese>105mm 発煙 装薬 4</Japanese>
+            <Chinese>105mm 煙幕 裝藥 4</Chinese>
+            <Chinesesimp>105mm 烟幕 装药 4</Chinesesimp>
+            <Turkish>105mm Sis Şrj. 4</Turkish>
+            <Hungarian>105mm Füst Tölt. 4</Hungarian>
+            <Ukrainian>105 мм димовий Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_chem_x1_c5_DisplayNameShort">
             <English>105mm Smoke CHG. 5</English>
+            <Czech>105mm Dýmový Npl. 5</Czech>
+            <French>105mm Fumigène Ch. 5</French>
+            <Spanish>105mm Humo Cg. 5</Spanish>
+            <Italian>105mm Fumogeno Car. 5</Italian>
+            <Polish>105mm Dymny Ład. 5</Polish>
+            <Portuguese>105mm Fumaça Cg. 5</Portuguese>
+            <Russian>105 мм дымовой Зар. 5</Russian>
+            <German>105mm Nebel Ldg. 5</German>
+            <Korean>105mm 연막 장약 5</Korean>
+            <Japanese>105mm 発煙 装薬 5</Japanese>
+            <Chinese>105mm 煙幕 裝藥 5</Chinese>
+            <Chinesesimp>105mm 烟幕 装药 5</Chinesesimp>
+            <Turkish>105mm Sis Şrj. 5</Turkish>
+            <Hungarian>105mm Füst Tölt. 5</Hungarian>
+            <Ukrainian>105 мм димовий Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c1_DisplayName">
             <English>M546 105mm FRAG</English>
+            <Czech>M546 105mm FRAG</Czech>
+            <French>M546 105mm FRAG</French>
+            <Spanish>M546 105mm FRAG</Spanish>
+            <Italian>M546 105mm FRAG</Italian>
+            <Polish>M546 105mm FRAG</Polish>
+            <Portuguese>M546 105mm FRAG</Portuguese>
+            <Russian>M546 105 мм FRAG</Russian>
+            <German>M546 105mm FRAG</German>
+            <Korean>M546 105mm FRAG</Korean>
+            <Japanese>M546 105mm FRAG</Japanese>
+            <Chinese>M546 105mm FRAG</Chinese>
+            <Chinesesimp>M546 105mm FRAG</Chinesesimp>
+            <Turkish>M546 105mm FRAG</Turkish>
+            <Hungarian>M546 105mm FRAG</Hungarian>
+            <Ukrainian>M546 105 мм FRAG</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c1_DisplayNameShort">
             <English>105mm FRAG Chg. 1</English>
+            <Czech>105mm FRAG Npl. 1</Czech>
+            <French>105mm FRAG Ch. 1</French>
+            <Spanish>105mm FRAG Cg. 1</Spanish>
+            <Italian>105mm FRAG Car. 1</Italian>
+            <Polish>105mm FRAG Ład. 1</Polish>
+            <Portuguese>105mm FRAG Cg. 1</Portuguese>
+            <Russian>105 мм FRAG Зар. 1</Russian>
+            <German>105mm FRAG Ldg. 1</German>
+            <Korean>105mm FRAG 장약 1</Korean>
+            <Japanese>105mm FRAG 装薬 1</Japanese>
+            <Chinese>105mm FRAG 裝藥 1</Chinese>
+            <Chinesesimp>105mm FRAG 装药 1</Chinesesimp>
+            <Turkish>105mm FRAG Şrj. 1</Turkish>
+            <Hungarian>105mm FRAG Tölt. 1</Hungarian>
+            <Ukrainian>105 мм FRAG Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c2_DisplayNameShort">
             <English>105mm FRAG Chg. 2</English>
+            <Czech>105mm FRAG Npl. 2</Czech>
+            <French>105mm FRAG Ch. 2</French>
+            <Spanish>105mm FRAG Cg. 2</Spanish>
+            <Italian>105mm FRAG Car. 2</Italian>
+            <Polish>105mm FRAG Ład. 2</Polish>
+            <Portuguese>105mm FRAG Cg. 2</Portuguese>
+            <Russian>105 мм FRAG Зар. 2</Russian>
+            <German>105mm FRAG Ldg. 2</German>
+            <Korean>105mm FRAG 장약 2</Korean>
+            <Japanese>105mm FRAG 装薬 2</Japanese>
+            <Chinese>105mm FRAG 裝藥 2</Chinese>
+            <Chinesesimp>105mm FRAG 装药 2</Chinesesimp>
+            <Turkish>105mm FRAG Şrj. 2</Turkish>
+            <Hungarian>105mm FRAG Tölt. 2</Hungarian>
+            <Ukrainian>105 мм FRAG Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c3_DisplayNameShort">
             <English>105mm FRAG Chg. 3</English>
+            <Czech>105mm FRAG Npl. 3</Czech>
+            <French>105mm FRAG Ch. 3</French>
+            <Spanish>105mm FRAG Cg. 3</Spanish>
+            <Italian>105mm FRAG Car. 3</Italian>
+            <Polish>105mm FRAG Ład. 3</Polish>
+            <Portuguese>105mm FRAG Cg. 3</Portuguese>
+            <Russian>105 мм FRAG Зар. 3</Russian>
+            <German>105mm FRAG Ldg. 3</German>
+            <Korean>105mm FRAG 장약 3</Korean>
+            <Japanese>105mm FRAG 装薬 3</Japanese>
+            <Chinese>105mm FRAG 裝藥 3</Chinese>
+            <Chinesesimp>105mm FRAG 装药 3</Chinesesimp>
+            <Turkish>105mm FRAG Şrj. 3</Turkish>
+            <Hungarian>105mm FRAG Tölt. 3</Hungarian>
+            <Ukrainian>105 мм FRAG Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c4_DisplayNameShort">
             <English>105mm FRAG Chg. 4</English>
+            <Czech>105mm FRAG Npl. 4</Czech>
+            <French>105mm FRAG Ch. 4</French>
+            <Spanish>105mm FRAG Cg. 4</Spanish>
+            <Italian>105mm FRAG Car. 4</Italian>
+            <Polish>105mm FRAG Ład. 4</Polish>
+            <Portuguese>105mm FRAG Cg. 4</Portuguese>
+            <Russian>105 мм FRAG Зар. 4</Russian>
+            <German>105mm FRAG Ldg. 4</German>
+            <Korean>105mm FRAG 장약 4</Korean>
+            <Japanese>105mm FRAG 装薬 4</Japanese>
+            <Chinese>105mm FRAG 裝藥 4</Chinese>
+            <Chinesesimp>105mm FRAG 装药 4</Chinesesimp>
+            <Turkish>105mm FRAG Şrj. 4</Turkish>
+            <Hungarian>105mm FRAG Tölt. 4</Hungarian>
+            <Ukrainian>105 мм FRAG Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_frag_x1_c5_DisplayNameShort">
             <English>105mm FRAG Chg. 5</English>
+            <Czech>105mm FRAG Npl. 5</Czech>
+            <French>105mm FRAG Ch. 5</French>
+            <Spanish>105mm FRAG Cg. 5</Spanish>
+            <Italian>105mm FRAG Car. 5</Italian>
+            <Polish>105mm FRAG Ład. 5</Polish>
+            <Portuguese>105mm FRAG Cg. 5</Portuguese>
+            <Russian>105 мм FRAG Зар. 5</Russian>
+            <German>105mm FRAG Ldg. 5</German>
+            <Korean>105mm FRAG 장약 5</Korean>
+            <Japanese>105mm FRAG 装薬 5</Japanese>
+            <Chinese>105mm FRAG 裝藥 5</Chinese>
+            <Chinesesimp>105mm FRAG 装药 5</Chinesesimp>
+            <Turkish>105mm FRAG Şrj. 5</Turkish>
+            <Hungarian>105mm FRAG Tölt. 5</Hungarian>
+            <Ukrainian>105 мм FRAG Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c1_DisplayName">
             <English>M1 105mm HE</English>
+            <Czech>M1 105mm HE</Czech>
+            <French>M1 105mm HE</French>
+            <Spanish>M1 105mm HE</Spanish>
+            <Italian>M1 105mm HE</Italian>
+            <Polish>M1 105mm HE</Polish>
+            <Portuguese>M1 105mm HE</Portuguese>
+            <Russian>M1 105 мм HE</Russian>
+            <German>M1 105mm HE</German>
+            <Korean>M1 105mm HE</Korean>
+            <Japanese>M1 105mm HE</Japanese>
+            <Chinese>M1 105mm HE</Chinese>
+            <Chinesesimp>M1 105mm HE</Chinesesimp>
+            <Turkish>M1 105mm HE</Turkish>
+            <Hungarian>M1 105mm HE</Hungarian>
+            <Ukrainian>M1 105 мм HE</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c1_DisplayNameShort">
             <English>105mm HE Chg. 1</English>
+            <Czech>105mm HE Npl. 1</Czech>
+            <French>105mm HE Ch. 1</French>
+            <Spanish>105mm HE Cg. 1</Spanish>
+            <Italian>105mm HE Car. 1</Italian>
+            <Polish>105mm HE Ład. 1</Polish>
+            <Portuguese>105mm HE Cg. 1</Portuguese>
+            <Russian>105 мм HE Зар. 1</Russian>
+            <German>105mm HE Ldg. 1</German>
+            <Korean>105mm HE 장약 1</Korean>
+            <Japanese>105mm HE 装薬 1</Japanese>
+            <Chinese>105mm HE 裝藥 1</Chinese>
+            <Chinesesimp>105mm HE 装药 1</Chinesesimp>
+            <Turkish>105mm HE Şrj. 1</Turkish>
+            <Hungarian>105mm HE Tölt. 1</Hungarian>
+            <Ukrainian>105 мм HE Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c2_DisplayNameShort">
             <English>105mm HE Chg. 2</English>
+            <Czech>105mm HE Npl. 2</Czech>
+            <French>105mm HE Ch. 2</French>
+            <Spanish>105mm HE Cg. 2</Spanish>
+            <Italian>105mm HE Car. 2</Italian>
+            <Polish>105mm HE Ład. 2</Polish>
+            <Portuguese>105mm HE Cg. 2</Portuguese>
+            <Russian>105 мм HE Зар. 2</Russian>
+            <German>105mm HE Ldg. 2</German>
+            <Korean>105mm HE 장약 2</Korean>
+            <Japanese>105mm HE 装薬 2</Japanese>
+            <Chinese>105mm HE 裝藥 2</Chinese>
+            <Chinesesimp>105mm HE 装药 2</Chinesesimp>
+            <Turkish>105mm HE Şrj. 2</Turkish>
+            <Hungarian>105mm HE Tölt. 2</Hungarian>
+            <Ukrainian>105 мм HE Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c3_DisplayNameShort">
             <English>105mm HE Chg. 3</English>
+            <Czech>105mm HE Npl. 3</Czech>
+            <French>105mm HE Ch. 3</French>
+            <Spanish>105mm HE Cg. 3</Spanish>
+            <Italian>105mm HE Car. 3</Italian>
+            <Polish>105mm HE Ład. 3</Polish>
+            <Portuguese>105mm HE Cg. 3</Portuguese>
+            <Russian>105 мм HE Зар. 3</Russian>
+            <German>105mm HE Ldg. 3</German>
+            <Korean>105mm HE 장약 3</Korean>
+            <Japanese>105mm HE 装薬 3</Japanese>
+            <Chinese>105mm HE 裝藥 3</Chinese>
+            <Chinesesimp>105mm HE 装药 3</Chinesesimp>
+            <Turkish>105mm HE Şrj. 3</Turkish>
+            <Hungarian>105mm HE Tölt. 3</Hungarian>
+            <Ukrainian>105 мм HE Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c4_DisplayNameShort">
             <English>105mm HE Chg. 4</English>
+            <Czech>105mm HE Npl. 4</Czech>
+            <French>105mm HE Ch. 4</French>
+            <Spanish>105mm HE Cg. 4</Spanish>
+            <Italian>105mm HE Car. 4</Italian>
+            <Polish>105mm HE Ład. 4</Polish>
+            <Portuguese>105mm HE Cg. 4</Portuguese>
+            <Russian>105 мм HE Зар. 4</Russian>
+            <German>105mm HE Ldg. 4</German>
+            <Korean>105mm HE 장약 4</Korean>
+            <Japanese>105mm HE 装薬 4</Japanese>
+            <Chinese>105mm HE 裝藥 4</Chinese>
+            <Chinesesimp>105mm HE 装药 4</Chinesesimp>
+            <Turkish>105mm HE Şrj. 4</Turkish>
+            <Hungarian>105mm HE Tölt. 4</Hungarian>
+            <Ukrainian>105 мм HE Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_he_x1_c5_DisplayNameShort">
             <English>105mm HE Chg. 5</English>
+            <Czech>105mm HE Npl. 5</Czech>
+            <French>105mm HE Ch. 5</French>
+            <Spanish>105mm HE Cg. 5</Spanish>
+            <Italian>105mm HE Car. 5</Italian>
+            <Polish>105mm HE Ład. 5</Polish>
+            <Portuguese>105mm HE Cg. 5</Portuguese>
+            <Russian>105 мм HE Зар. 5</Russian>
+            <German>105mm HE Ldg. 5</German>
+            <Korean>105mm HE 장약 5</Korean>
+            <Japanese>105mm HE 装薬 5</Japanese>
+            <Chinese>105mm HE 裝藥 5</Chinese>
+            <Chinesesimp>105mm HE 装药 5</Chinesesimp>
+            <Turkish>105mm HE Şrj. 5</Turkish>
+            <Hungarian>105mm HE Tölt. 5</Hungarian>
+            <Ukrainian>105 мм HE Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c1_DisplayName">
             <English>M314 105mm ICM</English>
+            <Czech>M314 105mm ICM</Czech>
+            <French>M314 105mm ICM</French>
+            <Spanish>M314 105mm ICM</Spanish>
+            <Italian>M314 105mm ICM</Italian>
+            <Polish>M314 105mm ICM</Polish>
+            <Portuguese>M314 105mm ICM</Portuguese>
+            <Russian>M314 105 мм ICM</Russian>
+            <German>M314 105mm ICM</German>
+            <Korean>M314 105mm ICM</Korean>
+            <Japanese>M314 105mm ICM</Japanese>
+            <Chinese>M314 105mm ICM</Chinese>
+            <Chinesesimp>M314 105mm ICM</Chinesesimp>
+            <Turkish>M314 105mm ICM</Turkish>
+            <Hungarian>M314 105mm ICM</Hungarian>
+            <Ukrainian>M314 105 мм ICM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c1_DisplayNameShort">
             <English>105mm ICM Chg. 1</English>
+            <Czech>105mm ICM Npl. 1</Czech>
+            <French>105mm ICM Ch. 1</French>
+            <Spanish>105mm ICM Cg. 1</Spanish>
+            <Italian>105mm ICM Car. 1</Italian>
+            <Polish>105mm ICM Ład. 1</Polish>
+            <Portuguese>105mm ICM Cg. 1</Portuguese>
+            <Russian>105 мм ICM Зар. 1</Russian>
+            <German>105mm ICM Ldg. 1</German>
+            <Korean>105mm ICM 장약 1</Korean>
+            <Japanese>105mm ICM 装薬 1</Japanese>
+            <Chinese>105mm ICM 裝藥 1</Chinese>
+            <Chinesesimp>105mm ICM 装药 1</Chinesesimp>
+            <Turkish>105mm ICM Şrj. 1</Turkish>
+            <Hungarian>105mm ICM Tölt. 1</Hungarian>
+            <Ukrainian>105 мм ICM Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c2_DisplayNameShort">
             <English>105mm ICM Chg. 2</English>
+            <Czech>105mm ICM Npl. 2</Czech>
+            <French>105mm ICM Ch. 2</French>
+            <Spanish>105mm ICM Cg. 2</Spanish>
+            <Italian>105mm ICM Car. 2</Italian>
+            <Polish>105mm ICM Ład. 2</Polish>
+            <Portuguese>105mm ICM Cg. 2</Portuguese>
+            <Russian>105 мм ICM Зар. 2</Russian>
+            <German>105mm ICM Ldg. 2</German>
+            <Korean>105mm ICM 장약 2</Korean>
+            <Japanese>105mm ICM 装薬 2</Japanese>
+            <Chinese>105mm ICM 裝藥 2</Chinese>
+            <Chinesesimp>105mm ICM 装药 2</Chinesesimp>
+            <Turkish>105mm ICM Şrj. 2</Turkish>
+            <Hungarian>105mm ICM Tölt. 2</Hungarian>
+            <Ukrainian>105 мм ICM Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c3_DisplayNameShort">
             <English>105mm ICM Chg. 3</English>
+            <Czech>105mm ICM Npl. 3</Czech>
+            <French>105mm ICM Ch. 3</French>
+            <Spanish>105mm ICM Cg. 3</Spanish>
+            <Italian>105mm ICM Car. 3</Italian>
+            <Polish>105mm ICM Ład. 3</Polish>
+            <Portuguese>105mm ICM Cg. 3</Portuguese>
+            <Russian>105 мм ICM Зар. 3</Russian>
+            <German>105mm ICM Ldg. 3</German>
+            <Korean>105mm ICM 장약 3</Korean>
+            <Japanese>105mm ICM 装薬 3</Japanese>
+            <Chinese>105mm ICM 裝藥 3</Chinese>
+            <Chinesesimp>105mm ICM 装药 3</Chinesesimp>
+            <Turkish>105mm ICM Şrj. 3</Turkish>
+            <Hungarian>105mm ICM Tölt. 3</Hungarian>
+            <Ukrainian>105 мм ICM Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c4_DisplayNameShort">
             <English>105mm ICM Chg. 4</English>
+            <Czech>105mm ICM Npl. 4</Czech>
+            <French>105mm ICM Ch. 4</French>
+            <Spanish>105mm ICM Cg. 4</Spanish>
+            <Italian>105mm ICM Car. 4</Italian>
+            <Polish>105mm ICM Ład. 4</Polish>
+            <Portuguese>105mm ICM Cg. 4</Portuguese>
+            <Russian>105 мм ICM Зар. 4</Russian>
+            <German>105mm ICM Ldg. 4</German>
+            <Korean>105mm ICM 장약 4</Korean>
+            <Japanese>105mm ICM 装薬 4</Japanese>
+            <Chinese>105mm ICM 裝藥 4</Chinese>
+            <Chinesesimp>105mm ICM 装药 4</Chinesesimp>
+            <Turkish>105mm ICM Şrj. 4</Turkish>
+            <Hungarian>105mm ICM Tölt. 4</Hungarian>
+            <Ukrainian>105 мм ICM Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_icm_x1_c5_DisplayNameShort">
             <English>105mm ICM Chg. 5</English>
+            <Czech>105mm ICM Npl. 5</Czech>
+            <French>105mm ICM Ch. 5</French>
+            <Spanish>105mm ICM Cg. 5</Spanish>
+            <Italian>105mm ICM Car. 5</Italian>
+            <Polish>105mm ICM Ład. 5</Polish>
+            <Portuguese>105mm ICM Cg. 5</Portuguese>
+            <Russian>105 мм ICM Зар. 5</Russian>
+            <German>105mm ICM Ldg. 5</German>
+            <Korean>105mm ICM 장약 5</Korean>
+            <Japanese>105mm ICM 装薬 5</Japanese>
+            <Chinese>105mm ICM 裝藥 5</Chinese>
+            <Chinesesimp>105mm ICM 装药 5</Chinesesimp>
+            <Turkish>105mm ICM Şrj. 5</Turkish>
+            <Hungarian>105mm ICM Tölt. 5</Hungarian>
+            <Ukrainian>105 мм ICM Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c1_DisplayName">
-            <English>M314 105mm LUME</English>
+            <English>M314 105mm ILLUM</English>
+            <Czech>M314 105mm ILLUM</Czech>
+            <French>M314 105mm ILLUM</French>
+            <Spanish>M314 105mm ILLUM</Spanish>
+            <Italian>M314 105mm ILLUM</Italian>
+            <Polish>M314 105mm ILLUM</Polish>
+            <Portuguese>M314 105mm ILLUM</Portuguese>
+            <Russian>M314 105 мм ILLUM</Russian>
+            <German>M314 105mm ILLUM</German>
+            <Korean>M314 105mm ILLUM</Korean>
+            <Japanese>M314 105mm ILLUM</Japanese>
+            <Chinese>M314 105mm ILLUM</Chinese>
+            <Chinesesimp>M314 105mm ILLUM</Chinesesimp>
+            <Turkish>M314 105mm ILLUM</Turkish>
+            <Hungarian>M314 105mm ILLUM</Hungarian>
+            <Ukrainian>M314 105 мм ILLUM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c1_DisplayNameShort">
-            <English>105mm LUME Chg. 1</English>
+            <English>105mm ILLUM Chg. 1</English>
+            <Czech>105mm ILLUM Npl. 1</Czech>
+            <French>105mm ILLUM Ch. 1</French>
+            <Spanish>105mm ILLUM Cg. 1</Spanish>
+            <Italian>105mm ILLUM Car. 1</Italian>
+            <Polish>105mm ILLUM Ład. 1</Polish>
+            <Portuguese>105mm ILLUM Cg. 1</Portuguese>
+            <Russian>105 мм ILLUM Зар. 1</Russian>
+            <German>105mm ILLUM Ldg. 1</German>
+            <Korean>105mm ILLUM 장약 1</Korean>
+            <Japanese>105mm ILLUM 装薬 1</Japanese>
+            <Chinese>105mm ILLUM 裝藥 1</Chinese>
+            <Chinesesimp>105mm ILLUM 装药 1</Chinesesimp>
+            <Turkish>105mm ILLUM Şrj. 1</Turkish>
+            <Hungarian>105mm ILLUM Tölt. 1</Hungarian>
+            <Ukrainian>105 мм ILLUM Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c2_DisplayNameShort">
-            <English>105mm LUME Chg. 2</English>
+            <English>105mm ILLUM Chg. 2</English>
+            <Czech>105mm ILLUM Npl. 2</Czech>
+            <French>105mm ILLUM Ch. 2</French>
+            <Spanish>105mm ILLUM Cg. 2</Spanish>
+            <Italian>105mm ILLUM Car. 2</Italian>
+            <Polish>105mm ILLUM Ład. 2</Polish>
+            <Portuguese>105mm ILLUM Cg. 2</Portuguese>
+            <Russian>105 мм ILLUM Зар. 2</Russian>
+            <German>105mm ILLUM Ldg. 2</German>
+            <Korean>105mm ILLUM 장약 2</Korean>
+            <Japanese>105mm ILLUM 装薬 2</Japanese>
+            <Chinese>105mm ILLUM 裝藥 2</Chinese>
+            <Chinesesimp>105mm ILLUM 装药 2</Chinesesimp>
+            <Turkish>105mm ILLUM Şrj. 2</Turkish>
+            <Hungarian>105mm ILLUM Tölt. 2</Hungarian>
+            <Ukrainian>105 мм ILLUM Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c3_DisplayNameShort">
-            <English>105mm LUME Chg. 3</English>
+            <English>105mm ILLUM Chg. 3</English>
+            <Czech>105mm ILLUM Npl. 3</Czech>
+            <French>105mm ILLUM Ch. 3</French>
+            <Spanish>105mm ILLUM Cg. 3</Spanish>
+            <Italian>105mm ILLUM Car. 3</Italian>
+            <Polish>105mm ILLUM Ład. 3</Polish>
+            <Portuguese>105mm ILLUM Cg. 3</Portuguese>
+            <Russian>105 мм ILLUM Зар. 3</Russian>
+            <German>105mm ILLUM Ldg. 3</German>
+            <Korean>105mm ILLUM 장약 3</Korean>
+            <Japanese>105mm ILLUM 装薬 3</Japanese>
+            <Chinese>105mm ILLUM 裝藥 3</Chinese>
+            <Chinesesimp>105mm ILLUM 装药 3</Chinesesimp>
+            <Turkish>105mm ILLUM Şrj. 3</Turkish>
+            <Hungarian>105mm ILLUM Tölt. 3</Hungarian>
+            <Ukrainian>105 мм ILLUM Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c4_DisplayNameShort">
-            <English>105mm LUME Chg. 4</English>
+            <English>105mm ILLUM Chg. 4</English>
+            <Czech>105mm ILLUM Npl. 4</Czech>
+            <French>105mm ILLUM Ch. 4</French>
+            <Spanish>105mm ILLUM Cg. 4</Spanish>
+            <Italian>105mm ILLUM Car. 4</Italian>
+            <Polish>105mm ILLUM Ład. 4</Polish>
+            <Portuguese>105mm ILLUM Cg. 4</Portuguese>
+            <Russian>105 мм ILLUM Зар. 4</Russian>
+            <German>105mm ILLUM Ldg. 4</German>
+            <Korean>105mm ILLUM 장약 4</Korean>
+            <Japanese>105mm ILLUM 装薬 4</Japanese>
+            <Chinese>105mm ILLUM 裝藥 4</Chinese>
+            <Chinesesimp>105mm ILLUM 装药 4</Chinesesimp>
+            <Turkish>105mm ILLUM Şrj. 4</Turkish>
+            <Hungarian>105mm ILLUM Tölt. 4</Hungarian>
+            <Ukrainian>105 мм ILLUM Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_lume_x1_c5_DisplayNameShort">
-            <English>105mm LUME Chg. 5</English>
+            <English>105mm ILLUM Chg. 5</English>
+            <Czech>105mm ILLUM Npl. 5</Czech>
+            <French>105mm ILLUM Ch. 5</French>
+            <Spanish>105mm ILLUM Cg. 5</Spanish>
+            <Italian>105mm ILLUM Car. 5</Italian>
+            <Polish>105mm ILLUM Ład. 5</Polish>
+            <Portuguese>105mm ILLUM Cg. 5</Portuguese>
+            <Russian>105 мм ILLUM Зар. 5</Russian>
+            <German>105mm ILLUM Ldg. 5</German>
+            <Korean>105mm ILLUM 장약 5</Korean>
+            <Japanese>105mm ILLUM 装薬 5</Japanese>
+            <Chinese>105mm ILLUM 裝藥 5</Chinese>
+            <Chinesesimp>105mm ILLUM 装药 5</Chinesesimp>
+            <Turkish>105mm ILLUM Şrj. 5</Turkish>
+            <Hungarian>105mm ILLUM Tölt. 5</Hungarian>
+            <Ukrainian>105 мм ILLUM Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c1_DisplayName">
             <English>M60 105mm WP</English>
+            <Czech>M60 105mm WP</Czech>
+            <French>M60 105mm WP</French>
+            <Spanish>M60 105mm WP</Spanish>
+            <Italian>M60 105mm WP</Italian>
+            <Polish>M60 105mm WP</Polish>
+            <Portuguese>M60 105mm WP</Portuguese>
+            <Russian>M60 105 мм WP</Russian>
+            <German>M60 105mm WP</German>
+            <Korean>M60 105mm WP</Korean>
+            <Japanese>M60 105mm WP</Japanese>
+            <Chinese>M60 105mm WP</Chinese>
+            <Chinesesimp>M60 105mm WP</Chinesesimp>
+            <Turkish>M60 105mm WP</Turkish>
+            <Hungarian>M60 105mm WP</Hungarian>
+            <Ukrainian>M60 105 мм WP</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c1_DisplayNameShort">
             <English>105mm WP Chg. 1</English>
+            <Czech>105mm WP Npl. 1</Czech>
+            <French>105mm WP Ch. 1</French>
+            <Spanish>105mm WP Cg. 1</Spanish>
+            <Italian>105mm WP Car. 1</Italian>
+            <Polish>105mm WP Ład. 1</Polish>
+            <Portuguese>105mm WP Cg. 1</Portuguese>
+            <Russian>105 мм WP Зар. 1</Russian>
+            <German>105mm WP Ldg. 1</German>
+            <Korean>105mm WP 장약 1</Korean>
+            <Japanese>105mm WP 装薬 1</Japanese>
+            <Chinese>105mm WP 裝藥 1</Chinese>
+            <Chinesesimp>105mm WP 装药 1</Chinesesimp>
+            <Turkish>105mm WP Şrj. 1</Turkish>
+            <Hungarian>105mm WP Tölt. 1</Hungarian>
+            <Ukrainian>105 мм WP Зар. 1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c2_DisplayNameShort">
             <English>105mm WP CHG. 2</English>
+            <Czech>105mm WP Npl. 2</Czech>
+            <French>105mm WP Ch. 2</French>
+            <Spanish>105mm WP Cg. 2</Spanish>
+            <Italian>105mm WP Car. 2</Italian>
+            <Polish>105mm WP Ład. 2</Polish>
+            <Portuguese>105mm WP Cg. 2</Portuguese>
+            <Russian>105 мм WP Зар. 2</Russian>
+            <German>105mm WP Ldg. 2</German>
+            <Korean>105mm WP 장약 2</Korean>
+            <Japanese>105mm WP 装薬 2</Japanese>
+            <Chinese>105mm WP 裝藥 2</Chinese>
+            <Chinesesimp>105mm WP 装药 2</Chinesesimp>
+            <Turkish>105mm WP Şrj. 2</Turkish>
+            <Hungarian>105mm WP Tölt. 2</Hungarian>
+            <Ukrainian>105 мм WP Зар. 2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c3_DisplayNameShort">
             <English>105mm WP CHG. 3</English>
+            <Czech>105mm WP Npl. 3</Czech>
+            <French>105mm WP Ch. 3</French>
+            <Spanish>105mm WP Cg. 3</Spanish>
+            <Italian>105mm WP Car. 3</Italian>
+            <Polish>105mm WP Ład. 3</Polish>
+            <Portuguese>105mm WP Cg. 3</Portuguese>
+            <Russian>105 мм WP Зар. 3</Russian>
+            <German>105mm WP Ldg. 3</German>
+            <Korean>105mm WP 장약 3</Korean>
+            <Japanese>105mm WP 装薬 3</Japanese>
+            <Chinese>105mm WP 裝藥 3</Chinese>
+            <Chinesesimp>105mm WP 装药 3</Chinesesimp>
+            <Turkish>105mm WP Şrj. 3</Turkish>
+            <Hungarian>105mm WP Tölt. 3</Hungarian>
+            <Ukrainian>105 мм WP Зар. 3</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c4_DisplayNameShort">
             <English>105mm WP CHG. 4</English>
+            <Czech>105mm WP Npl. 4</Czech>
+            <French>105mm WP Ch. 4</French>
+            <Spanish>105mm WP Cg. 4</Spanish>
+            <Italian>105mm WP Car. 4</Italian>
+            <Polish>105mm WP Ład. 4</Polish>
+            <Portuguese>105mm WP Cg. 4</Portuguese>
+            <Russian>105 мм WP Зар. 4</Russian>
+            <German>105mm WP Ldg. 4</German>
+            <Korean>105mm WP 장약 4</Korean>
+            <Japanese>105mm WP 装薬 4</Japanese>
+            <Chinese>105mm WP 裝藥 4</Chinese>
+            <Chinesesimp>105mm WP 装药 4</Chinesesimp>
+            <Turkish>105mm WP Şrj. 4</Turkish>
+            <Hungarian>105mm WP Tölt. 4</Hungarian>
+            <Ukrainian>105 мм WP Зар. 4</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_105mm_mag_wp_x1_c5_DisplayNameShort">
             <English>105mm WP CHG. 5</English>
+            <Czech>105mm WP Npl. 5</Czech>
+            <French>105mm WP Ch. 5</French>
+            <Spanish>105mm WP Cg. 5</Spanish>
+            <Italian>105mm WP Car. 5</Italian>
+            <Polish>105mm WP Ład. 5</Polish>
+            <Portuguese>105mm WP Cg. 5</Portuguese>
+            <Russian>105 мм WP Зар. 5</Russian>
+            <German>105mm WP Ldg. 5</German>
+            <Korean>105mm WP 장약 5</Korean>
+            <Japanese>105mm WP 装薬 5</Japanese>
+            <Chinese>105mm WP 裝藥 5</Chinese>
+            <Chinesesimp>105mm WP 装药 5</Chinesesimp>
+            <Turkish>105mm WP Şrj. 5</Turkish>
+            <Hungarian>105mm WP Tölt. 5</Hungarian>
+            <Ukrainian>105 мм WP Зар. 5</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Action_CloseBreech">
             <English>Close Breech</English>
+            <Czech>Zavřít závěr</Czech>
+            <French>Fermer la culasse</French>
+            <Spanish>Cerrar cierre</Spanish>
+            <Italian>Chiudi otturatore</Italian>
+            <Polish>Zamknij zamek</Polish>
+            <Portuguese>Fechar culatra</Portuguese>
+            <Russian>Закрыть затвор</Russian>
+            <German>Verschluss schließen</German>
+            <Korean>폐쇄기 폐쇄</Korean>
+            <Japanese>閉鎖機を閉じる</Japanese>
+            <Chinese>關閉砲閂</Chinese>
+            <Chinesesimp>关闭炮闩</Chinesesimp>
+            <Turkish>Kamayı Kapat</Turkish>
+            <Hungarian>Zár bezárása</Hungarian>
+            <Ukrainian>Закрити затвор</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Action_ElevateTurret">
             <English>Elevate Turret</English>
+            <Czech>Náměr hlavně</Czech>
+            <French>Hausse du tube</French>
+            <Spanish>Elevación del tubo</Spanish>
+            <Italian>Alzo della canna</Italian>
+            <Polish>Podniesienie lufy</Polish>
+            <Portuguese>Elevação do tubo</Portuguese>
+            <Russian>Угол возвышения</Russian>
+            <German>Rohrerhöhung</German>
+            <Korean>포신 사각</Korean>
+            <Japanese>砲身仰角</Japanese>
+            <Chinese>砲管仰角</Chinese>
+            <Chinesesimp>炮管仰角</Chinesesimp>
+            <Turkish>Namlu Yükselişi</Turkish>
+            <Hungarian>Csőemelés</Hungarian>
+            <Ukrainian>Кут підвищення</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Action_LoadShell">
             <English>Load Shell</English>
+            <Czech>Nabít granát</Czech>
+            <French>Charger l'obus</French>
+            <Spanish>Cargar proyectil</Spanish>
+            <Italian>Carica proietto</Italian>
+            <Polish>Załaduj pocisk</Polish>
+            <Portuguese>Carregar projétil</Portuguese>
+            <Russian>Зарядить снаряд</Russian>
+            <German>Granate laden</German>
+            <Korean>포탄 장전</Korean>
+            <Japanese>砲弾を装填</Japanese>
+            <Chinese>裝填砲彈</Chinese>
+            <Chinesesimp>装填炮弹</Chinesesimp>
+            <Turkish>Mermiyi Yükle</Turkish>
+            <Hungarian>Lövedék betöltése</Hungarian>
+            <Ukrainian>Зарядити снаряд</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Action_OpenBreech">
             <English>Open Breech</English>
+            <Czech>Otevřít závěr</Czech>
+            <French>Ouvrir la culasse</French>
+            <Spanish>Abrir cierre</Spanish>
+            <Italian>Apri otturatore</Italian>
+            <Polish>Otwórz zamek</Polish>
+            <Portuguese>Abrir culatra</Portuguese>
+            <Russian>Открыть затвор</Russian>
+            <German>Verschluss öffnen</German>
+            <Korean>폐쇄기 개방</Korean>
+            <Japanese>閉鎖機を開く</Japanese>
+            <Chinese>開啟砲閂</Chinese>
+            <Chinesesimp>打开炮闩</Chinesesimp>
+            <Turkish>Kamayı Aç</Turkish>
+            <Hungarian>Zár nyitása</Hungarian>
+            <Ukrainian>Відкрити затвор</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Hint_BreechNotEmpty">
             <English>The breech isn't empty</English>
+            <Czech>Závěr není prázdný</Czech>
+            <French>La culasse n'est pas vide</French>
+            <Spanish>El cierre no está vacío</Spanish>
+            <Italian>L'otturatore non è vuoto</Italian>
+            <Polish>Zamek nie jest pusty</Polish>
+            <Portuguese>A culatra não está vazia</Portuguese>
+            <Russian>Затвор не пуст</Russian>
+            <German>Der Verschluss ist nicht leer</German>
+            <Korean>폐쇄기가 비어 있지 않습니다</Korean>
+            <Japanese>閉鎖機が空ではありません</Japanese>
+            <Chinese>砲閂內仍有彈藥</Chinese>
+            <Chinesesimp>炮闩内仍有弹药</Chinesesimp>
+            <Turkish>Kama boş değil</Turkish>
+            <Hungarian>A zár nem üres</Hungarian>
+            <Ukrainian>Затвор не порожній</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Hint_Elevation">
             <English>Elevation: %1 mils</English>
+            <Czech>Náměr: %1 dílců</Czech>
+            <French>Hausse : %1 millièmes</French>
+            <Spanish>Elevación: %1 milésimas</Spanish>
+            <Italian>Alzo: %1 millesimi</Italian>
+            <Polish>Podniesienie: %1 tysięcznych</Polish>
+            <Portuguese>Elevação: %1 milésimos</Portuguese>
+            <Russian>Угол возвышения: %1 тыс.</Russian>
+            <German>Rohrerhöhung: %1 Strich</German>
+            <Korean>사각: %1 밀</Korean>
+            <Japanese>仰角: %1 ミル</Japanese>
+            <Chinese>仰角：%1 密位</Chinese>
+            <Chinesesimp>仰角：%1 密位</Chinesesimp>
+            <Turkish>Yükseliş: %1 milyem</Turkish>
+            <Hungarian>Csőemelés: %1 vonás</Hungarian>
+            <Ukrainian>Кут підвищення: %1 тис.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_Hint_ShellTooFar">
             <English>The shell is too far away from the breech</English>
+            <Czech>Granát je příliš daleko od závěru</Czech>
+            <French>L'obus est trop loin de la culasse</French>
+            <Spanish>El proyectil está demasiado lejos del cierre</Spanish>
+            <Italian>Il proietto è troppo lontano dall'otturatore</Italian>
+            <Polish>Pocisk jest zbyt daleko od zamka</Polish>
+            <Portuguese>O projétil está longe demais da culatra</Portuguese>
+            <Russian>Снаряд слишком далеко от затвора</Russian>
+            <German>Die Granate ist zu weit vom Verschluss entfernt</German>
+            <Korean>포탄이 폐쇄기에서 너무 멉니다</Korean>
+            <Japanese>砲弾が閉鎖機から離れすぎています</Japanese>
+            <Chinese>砲彈離砲閂太遠</Chinese>
+            <Chinesesimp>炮弹离炮闩太远</Chinesesimp>
+            <Turkish>Mermi kamadan çok uzakta</Turkish>
+            <Hungarian>A lövedék túl messze van a zártól</Hungarian>
+            <Ukrainian>Снаряд занадто далеко від затвора</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_howitzer_105mm_base_DisplayName">
             <English>M101 105mm Howitzer</English>
+            <Czech>Houfnice M101 105mm</Czech>
+            <French>Obusier M101 105mm</French>
+            <Spanish>Obús M101 105mm</Spanish>
+            <Italian>Obice M101 105mm</Italian>
+            <Polish>Haubica M101 105mm</Polish>
+            <Portuguese>Obuseiro M101 105mm</Portuguese>
+            <Russian>Гаубица M101 105 мм</Russian>
+            <German>M101 105mm Haubitze</German>
+            <Korean>M101 105mm 곡사포</Korean>
+            <Japanese>M101 105mm 榴弾砲</Japanese>
+            <Chinese>M101 105mm 榴彈砲</Chinese>
+            <Chinesesimp>M101 105mm 榴弹炮</Chinesesimp>
+            <Turkish>M101 105mm Obüs</Turkish>
+            <Hungarian>M101 105mm tarack</Hungarian>
+            <Ukrainian>Гаубиця M101 105 мм</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_prop_prc77_01_DisplayName">
             <English>PRC-77 Radio (Shot, Over!)</English>
+            <Czech>Radiostanice PRC-77 (Shot, Over!)</Czech>
+            <French>Radio PRC-77 (Shot, Over!)</French>
+            <Spanish>Radio PRC-77 (Shot, Over!)</Spanish>
+            <Italian>Radio PRC-77 (Shot, Over!)</Italian>
+            <Polish>Radiostacja PRC-77 (Shot, Over!)</Polish>
+            <Portuguese>Rádio PRC-77 (Shot, Over!)</Portuguese>
+            <Russian>Радиостанция PRC-77 (Shot, Over!)</Russian>
+            <German>PRC-77 Funkgerät (Shot, Over!)</German>
+            <Korean>PRC-77 무전기 (Shot, Over!)</Korean>
+            <Japanese>PRC-77 無線機 (Shot, Over!)</Japanese>
+            <Chinese>PRC-77 無線電 (Shot, Over!)</Chinese>
+            <Chinesesimp>PRC-77 无线电 (Shot, Over!)</Chinesesimp>
+            <Turkish>PRC-77 Telsiz (Shot, Over!)</Turkish>
+            <Hungarian>PRC-77 rádió (Shot, Over!)</Hungarian>
+            <Ukrainian>Радіостанція PRC-77 (Shot, Over!)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_rto_pack_DisplayName">
             <English>FDC Backpack (Shot, Over!)</English>
+            <Czech>Batoh FDC (Shot, Over!)</Czech>
+            <French>Sac à dos FDC (Shot, Over!)</French>
+            <Spanish>Mochila FDC (Shot, Over!)</Spanish>
+            <Italian>Zaino FDC (Shot, Over!)</Italian>
+            <Polish>Plecak FDC (Shot, Over!)</Polish>
+            <Portuguese>Mochila FDC (Shot, Over!)</Portuguese>
+            <Russian>Рюкзак FDC (Shot, Over!)</Russian>
+            <German>FDC-Rucksack (Shot, Over!)</German>
+            <Korean>FDC 배낭 (Shot, Over!)</Korean>
+            <Japanese>FDC バックパック (Shot, Over!)</Japanese>
+            <Chinese>FDC 背包 (Shot, Over!)</Chinese>
+            <Chinesesimp>FDC 背包 (Shot, Over!)</Chinesesimp>
+            <Turkish>FDC Sırt Çantası (Shot, Over!)</Turkish>
+            <Hungarian>FDC hátizsák (Shot, Over!)</Hungarian>
+            <Ukrainian>Рюкзак FDC (Shot, Over!)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_static_m101_02_base_DisplayName">
             <English>M101 Howitzer (Shot, Over!)</English>
+            <Czech>Houfnice M101 (Shot, Over!)</Czech>
+            <French>Obusier M101 (Shot, Over!)</French>
+            <Spanish>Obús M101 (Shot, Over!)</Spanish>
+            <Italian>Obice M101 (Shot, Over!)</Italian>
+            <Polish>Haubica M101 (Shot, Over!)</Polish>
+            <Portuguese>Obuseiro M101 (Shot, Over!)</Portuguese>
+            <Russian>Гаубица M101 (Shot, Over!)</Russian>
+            <German>M101 Haubitze (Shot, Over!)</German>
+            <Korean>M101 곡사포 (Shot, Over!)</Korean>
+            <Japanese>M101 榴弾砲 (Shot, Over!)</Japanese>
+            <Chinese>M101 榴彈砲 (Shot, Over!)</Chinese>
+            <Chinesesimp>M101 榴弹炮 (Shot, Over!)</Chinesesimp>
+            <Turkish>M101 Obüs (Shot, Over!)</Turkish>
+            <Hungarian>M101 tarack (Shot, Over!)</Hungarian>
+            <Ukrainian>Гаубиця M101 (Shot, Over!)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_m101_static_m101_sights_DisplayName">
             <English>M101 Howitzer, Sights Only (Shot, Over!)</English>
+            <Czech>Houfnice M101, pouze zaměřovače (Shot, Over!)</Czech>
+            <French>Obusier M101, viseurs seuls (Shot, Over!)</French>
+            <Spanish>Obús M101, solo miras (Shot, Over!)</Spanish>
+            <Italian>Obice M101, solo mirini (Shot, Over!)</Italian>
+            <Polish>Haubica M101, tylko celowniki (Shot, Over!)</Polish>
+            <Portuguese>Obuseiro M101, apenas miras (Shot, Over!)</Portuguese>
+            <Russian>Гаубица M101, только прицелы (Shot, Over!)</Russian>
+            <German>M101 Haubitze, nur Visier (Shot, Over!)</German>
+            <Korean>M101 곡사포, 조준경 전용 (Shot, Over!)</Korean>
+            <Japanese>M101 榴弾砲、照準器のみ (Shot, Over!)</Japanese>
+            <Chinese>M101 榴彈砲，僅瞄準具 (Shot, Over!)</Chinese>
+            <Chinesesimp>M101 榴弹炮，仅瞄准具 (Shot, Over!)</Chinesesimp>
+            <Turkish>M101 Obüs, Yalnızca Nişangâh (Shot, Over!)</Turkish>
+            <Hungarian>M101 tarack, csak irányzék (Shot, Over!)</Hungarian>
+            <Ukrainian>Гаубиця M101, лише приціли (Shot, Over!)</Ukrainian>
         </Key>
     </Package>
 </Project>

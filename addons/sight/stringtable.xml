@@ -3,54 +3,309 @@
     <Package name="sight">
         <Key ID="STR_shot_over_sight_Action_Close">
             <English>Close Sights</English>
+            <Czech>Zavřít zaměřovač</Czech>
+            <French>Fermer les viseurs</French>
+            <Spanish>Cerrar miras</Spanish>
+            <Italian>Chiudi mirini</Italian>
+            <Polish>Zamknij celowniki</Polish>
+            <Portuguese>Fechar miras</Portuguese>
+            <Russian>Закрыть прицел</Russian>
+            <German>Visier schließen</German>
+            <Korean>조준경 닫기</Korean>
+            <Japanese>照準器を閉じる</Japanese>
+            <Chinese>關閉瞄準具</Chinese>
+            <Chinesesimp>关闭瞄准具</Chinesesimp>
+            <Turkish>Nişangâhı Kapat</Turkish>
+            <Hungarian>Irányzék bezárása</Hungarian>
+            <Ukrainian>Закрити приціл</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Action_EmplaceStakes">
             <English>Emplace Aiming Stakes</English>
+            <Czech>Postavit záměrné tyče</Czech>
+            <French>Planter les jalons de pointage</French>
+            <Spanish>Colocar piquetes de puntería</Spanish>
+            <Italian>Posiziona paline di puntamento</Italian>
+            <Polish>Ustaw tyczki celownicze</Polish>
+            <Portuguese>Colocar balizas de pontaria</Portuguese>
+            <Russian>Установить вехи наводки</Russian>
+            <German>Richtlatten aufstellen</German>
+            <Korean>겨냥대 설치</Korean>
+            <Japanese>照準棹を設置</Japanese>
+            <Chinese>架設瞄準標桿</Chinese>
+            <Chinesesimp>架设瞄准标杆</Chinesesimp>
+            <Turkish>Nişan Kazıklarını Yerleştir</Turkish>
+            <Hungarian>Irányzókarók kitűzése</Hungarian>
+            <Ukrainian>Встановити віхи наведення</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Action_Open">
             <English>Look Through Sights</English>
+            <Czech>Podívat se zaměřovačem</Czech>
+            <French>Regarder dans les viseurs</French>
+            <Spanish>Mirar por las miras</Spanish>
+            <Italian>Guarda nei mirini</Italian>
+            <Polish>Spójrz przez celowniki</Polish>
+            <Portuguese>Olhar pelas miras</Portuguese>
+            <Russian>Смотреть в прицел</Russian>
+            <German>Durch das Visier blicken</German>
+            <Korean>조준경 보기</Korean>
+            <Japanese>照準器を覗く</Japanese>
+            <Chinese>透過瞄準具觀察</Chinese>
+            <Chinesesimp>通过瞄准具观察</Chinesesimp>
+            <Turkish>Nişangâhtan Bak</Turkish>
+            <Hungarian>Belenézés az irányzékba</Hungarian>
+            <Ukrainian>Дивитися в приціл</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Action_RecoverStakes">
             <English>Recover Aiming Stakes</English>
+            <Czech>Sebrat záměrné tyče</Czech>
+            <French>Récupérer les jalons de pointage</French>
+            <Spanish>Recoger piquetes de puntería</Spanish>
+            <Italian>Recupera paline di puntamento</Italian>
+            <Polish>Zbierz tyczki celownicze</Polish>
+            <Portuguese>Recolher balizas de pontaria</Portuguese>
+            <Russian>Снять вехи наводки</Russian>
+            <German>Richtlatten einholen</German>
+            <Korean>겨냥대 회수</Korean>
+            <Japanese>照準棹を回収</Japanese>
+            <Chinese>回收瞄準標桿</Chinese>
+            <Chinesesimp>回收瞄准标杆</Chinesesimp>
+            <Turkish>Nişan Kazıklarını Topla</Turkish>
+            <Hungarian>Irányzókarók felszedése</Hungarian>
+            <Ukrainian>Зняти віхи наведення</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_AzimuthOfLay">
             <English>AZ OF LAY %1</English>
+            <Czech>AZ. ZÁKL. SMĚRU %1</Czech>
+            <French>AZ. POINTAGE %1</French>
+            <Spanish>AZ. PUNTERÍA %1</Spanish>
+            <Italian>AZ. PUNTAMENTO %1</Italian>
+            <Polish>AZ. PODST. %1</Polish>
+            <Portuguese>AZ. PONTARIA %1</Portuguese>
+            <Russian>АЗ. НАВОДКИ %1</Russian>
+            <German>GRUNDRICHTUNG %1</German>
+            <Korean>방렬 방위각 %1</Korean>
+            <Japanese>基準方位角 %1</Japanese>
+            <Chinese>基準方位角 %1</Chinese>
+            <Chinesesimp>基准方位角 %1</Chinesesimp>
+            <Turkish>ATIŞ SEMTİ %1</Turkish>
+            <Hungarian>ALAPIRÁNY %1</Hungarian>
+            <Ukrainian>АЗ. НАВЕДЕННЯ %1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Deflection">
             <English>DEFLECTION</English>
+            <Czech>ÚHLOMĚR</Czech>
+            <French>DÉRIVE</French>
+            <Spanish>DERIVA</Spanish>
+            <Italian>DERIVA</Italian>
+            <Polish>KĄTOMIERZ</Polish>
+            <Portuguese>DERIVA</Portuguese>
+            <Russian>УГЛОМЕР</Russian>
+            <German>SEITE</German>
+            <Korean>편각</Korean>
+            <Japanese>方向分画</Japanese>
+            <Chinese>方向分劃</Chinese>
+            <Chinesesimp>方向分划</Chinesesimp>
+            <Turkish>SAPMA</Turkish>
+            <Hungarian>OLDALIRÁNY</Hungarian>
+            <Ukrainian>КУТОМІР</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Help">
             <English>The dials only turn the sights: lay the gun to match them</English>
+            <Czech>Bubny otáčejí jen zaměřovačem: nařiďte dělo podle nich</Czech>
+            <French>Les molettes ne tournent que les viseurs : pointez la pièce pour les faire correspondre</French>
+            <Spanish>Los diales solo giran las miras: apunta la pieza para que coincida</Spanish>
+            <Italian>Le manopole ruotano solo i mirini: punta il pezzo per farlo corrispondere</Italian>
+            <Polish>Pokrętła obracają tylko celowniki: wyceluj działo zgodnie z nimi</Polish>
+            <Portuguese>Os seletores giram apenas as miras: aponte a peça para coincidir</Portuguese>
+            <Russian>Лимбы вращают только прицел: наведите орудие по ним</Russian>
+            <German>Die Skalen drehen nur das Visier: Richte das Geschütz danach aus</German>
+            <Korean>다이얼은 조준경만 돌립니다: 화포를 이에 맞춰 방렬하십시오</Korean>
+            <Japanese>ダイヤルは照準器のみを回します: 砲をそれに合わせて照準してください</Japanese>
+            <Chinese>旋鈕只會轉動瞄準具：請依此瞄準火砲</Chinese>
+            <Chinesesimp>旋钮只会转动瞄准具：请据此瞄准火炮</Chinesesimp>
+            <Turkish>Kadranlar yalnızca nişangâhı döndürür: topu onlara göre tevcih edin</Turkish>
+            <Hungarian>A tárcsák csak az irányzékot forgatják: ehhez irányozd a löveget</Hungarian>
+            <Ukrainian>Лімби обертають лише приціл: наведіть гармату за ними</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_High">
             <English>HIGH</English>
+            <Czech>VYSOKO</Czech>
+            <French>HAUT</French>
+            <Spanish>ALTO</Spanish>
+            <Italian>ALTO</Italian>
+            <Polish>WYSOKO</Polish>
+            <Portuguese>ALTO</Portuguese>
+            <Russian>ВЫШЕ</Russian>
+            <German>HOCH</German>
+            <Korean>높음</Korean>
+            <Japanese>高</Japanese>
+            <Chinese>高</Chinese>
+            <Chinesesimp>高</Chinesesimp>
+            <Turkish>YÜKSEK</Turkish>
+            <Hungarian>MAGAS</Hungarian>
+            <Ukrainian>ВИЩЕ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Hint_StakesEmplaced">
             <English>Aiming stakes emplaced at deflection %1. Azimuth of lay: %2 mils, for the FDC notebook.</English>
+            <Czech>Záměrné tyče postaveny na úhloměru %1. Azimut základního směru: %2 dílců, pro zápisník FDC.</Czech>
+            <French>Jalons plantés à la dérive %1. Azimut de pointage : %2 millièmes, pour le carnet FDC.</French>
+            <Spanish>Piquetes colocados en deriva %1. Azimut de puntería: %2 milésimas, para el cuaderno FDC.</Spanish>
+            <Italian>Paline posizionate a deriva %1. Azimut di puntamento: %2 millesimi, per il taccuino FDC.</Italian>
+            <Polish>Tyczki ustawione na kątomierzu %1. Azymut podstawowy: %2 tysięcznych, do notatnika FDC.</Polish>
+            <Portuguese>Balizas colocadas na deriva %1. Azimute de pontaria: %2 milésimos, para o caderno FDC.</Portuguese>
+            <Russian>Вехи установлены на угломере %1. Азимут наводки: %2 тыс., для блокнота FDC.</Russian>
+            <German>Richtlatten bei Seite %1 aufgestellt. Grundrichtung: %2 Strich, für das FDC-Notizbuch.</German>
+            <Korean>겨냥대를 편각 %1에 설치했습니다. 방렬 방위각: %2밀 (FDC 수첩용).</Korean>
+            <Japanese>照準棹を方向分画 %1 に設置しました。基準方位角: %2 ミル（FDC ノート用）。</Japanese>
+            <Chinese>瞄準標桿已架設於方向分劃 %1。基準方位角：%2 密位，供 FDC 筆記本使用。</Chinese>
+            <Chinesesimp>瞄准标杆已架设于方向分划 %1。基准方位角：%2 密位，供 FDC 笔记本使用。</Chinesesimp>
+            <Turkish>Nişan kazıkları %1 sapmasına yerleştirildi. Atış semti: %2 milyem, FDC defteri için.</Turkish>
+            <Hungarian>Irányzókarók kitűzve %1 oldalirányon. Alapirány: %2 vonás, az FDC jegyzetfüzethez.</Hungarian>
+            <Ukrainian>Віхи встановлено на кутомірі %1. Азимут наведення: %2 тис., для блокнота FDC.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Keybind_DeflectionDown">
             <English>Sights: Deflection Down</English>
+            <Czech>Zaměřovač: úhloměr dolů</Czech>
+            <French>Viseurs : diminuer la dérive</French>
+            <Spanish>Miras: reducir deriva</Spanish>
+            <Italian>Mirini: riduci deriva</Italian>
+            <Polish>Celowniki: kątomierz w dół</Polish>
+            <Portuguese>Miras: reduzir deriva</Portuguese>
+            <Russian>Прицел: угломер меньше</Russian>
+            <German>Visier: Seite verringern</German>
+            <Korean>조준경: 편각 감소</Korean>
+            <Japanese>照準器: 方向分画を下げる</Japanese>
+            <Chinese>瞄準具：減少方向分劃</Chinese>
+            <Chinesesimp>瞄准具：减少方向分划</Chinesesimp>
+            <Turkish>Nişangâh: Sapma Azalt</Turkish>
+            <Hungarian>Irányzék: oldalirány le</Hungarian>
+            <Ukrainian>Приціл: кутомір менше</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Keybind_DeflectionUp">
             <English>Sights: Deflection Up</English>
+            <Czech>Zaměřovač: úhloměr nahoru</Czech>
+            <French>Viseurs : augmenter la dérive</French>
+            <Spanish>Miras: aumentar deriva</Spanish>
+            <Italian>Mirini: aumenta deriva</Italian>
+            <Polish>Celowniki: kątomierz w górę</Polish>
+            <Portuguese>Miras: aumentar deriva</Portuguese>
+            <Russian>Прицел: угломер больше</Russian>
+            <German>Visier: Seite erhöhen</German>
+            <Korean>조준경: 편각 증가</Korean>
+            <Japanese>照準器: 方向分画を上げる</Japanese>
+            <Chinese>瞄準具：增加方向分劃</Chinese>
+            <Chinesesimp>瞄准具：增加方向分划</Chinesesimp>
+            <Turkish>Nişangâh: Sapma Artır</Turkish>
+            <Hungarian>Irányzék: oldalirány fel</Hungarian>
+            <Ukrainian>Приціл: кутомір більше</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Keybind_QuadrantDown">
             <English>Sights: Quadrant Down</English>
+            <Czech>Zaměřovač: kvadrant dolů</Czech>
+            <French>Viseurs : baisser le quadrant</French>
+            <Spanish>Miras: bajar cuadrante</Spanish>
+            <Italian>Mirini: abbassa quadrante</Italian>
+            <Polish>Celowniki: kwadrant w dół</Polish>
+            <Portuguese>Miras: baixar quadrante</Portuguese>
+            <Russian>Прицел: квадрант ниже</Russian>
+            <German>Visier: Quadrant senken</German>
+            <Korean>조준경: 사분의 감소</Korean>
+            <Japanese>照準器: 象限儀を下げる</Japanese>
+            <Chinese>瞄準具：降低象限儀</Chinese>
+            <Chinesesimp>瞄准具：降低象限仪</Chinesesimp>
+            <Turkish>Nişangâh: Kuadrant Azalt</Turkish>
+            <Hungarian>Irányzék: kvadráns le</Hungarian>
+            <Ukrainian>Приціл: квадрант нижче</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Keybind_QuadrantUp">
             <English>Sights: Quadrant Up</English>
+            <Czech>Zaměřovač: kvadrant nahoru</Czech>
+            <French>Viseurs : relever le quadrant</French>
+            <Spanish>Miras: subir cuadrante</Spanish>
+            <Italian>Mirini: alza quadrante</Italian>
+            <Polish>Celowniki: kwadrant w górę</Polish>
+            <Portuguese>Miras: subir quadrante</Portuguese>
+            <Russian>Прицел: квадрант выше</Russian>
+            <German>Visier: Quadrant erhöhen</German>
+            <Korean>조준경: 사분의 증가</Korean>
+            <Japanese>照準器: 象限儀を上げる</Japanese>
+            <Chinese>瞄準具：升高象限儀</Chinese>
+            <Chinesesimp>瞄准具：升高象限仪</Chinesesimp>
+            <Turkish>Nişangâh: Kuadrant Artır</Turkish>
+            <Hungarian>Irányzék: kvadráns fel</Hungarian>
+            <Ukrainian>Приціл: квадрант вище</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Keybind_Toggle">
             <English>Toggle Gun Sights</English>
+            <Czech>Přepnout zaměřovač děla</Czech>
+            <French>Basculer les viseurs de la pièce</French>
+            <Spanish>Alternar miras de la pieza</Spanish>
+            <Italian>Attiva/disattiva mirini del pezzo</Italian>
+            <Polish>Przełącz celowniki działa</Polish>
+            <Portuguese>Alternar miras da peça</Portuguese>
+            <Russian>Переключить прицел орудия</Russian>
+            <German>Geschützvisier umschalten</German>
+            <Korean>화포 조준경 전환</Korean>
+            <Japanese>砲の照準器を切替</Japanese>
+            <Chinese>切換火砲瞄準具</Chinese>
+            <Chinesesimp>切换火炮瞄准具</Chinesesimp>
+            <Turkish>Top Nişangâhını Aç/Kapat</Turkish>
+            <Hungarian>Löveg irányzékának váltása</Hungarian>
+            <Ukrainian>Перемкнути приціл гармати</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Level">
             <English>LEVEL</English>
+            <Czech>V ROVINĚ</Czech>
+            <French>NIVEAU</French>
+            <Spanish>NIVEL</Spanish>
+            <Italian>IN BOLLA</Italian>
+            <Polish>POZIOM</Polish>
+            <Portuguese>NÍVEL</Portuguese>
+            <Russian>РОВНО</Russian>
+            <German>EBEN</German>
+            <Korean>수평</Korean>
+            <Japanese>水平</Japanese>
+            <Chinese>水平</Chinese>
+            <Chinesesimp>水平</Chinesesimp>
+            <Turkish>DÜZ</Turkish>
+            <Hungarian>VÍZSZINT</Hungarian>
+            <Ukrainian>РІВНО</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Low">
             <English>LOW</English>
+            <Czech>NÍZKO</Czech>
+            <French>BAS</French>
+            <Spanish>BAJO</Spanish>
+            <Italian>BASSO</Italian>
+            <Polish>NISKO</Polish>
+            <Portuguese>BAIXO</Portuguese>
+            <Russian>НИЖЕ</Russian>
+            <German>TIEF</German>
+            <Korean>낮음</Korean>
+            <Japanese>低</Japanese>
+            <Chinese>低</Chinese>
+            <Chinesesimp>低</Chinesesimp>
+            <Turkish>ALÇAK</Turkish>
+            <Hungarian>ALACSONY</Hungarian>
+            <Ukrainian>НИЖЧЕ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_sight_Quadrant">
             <English>QUADRANT</English>
+            <Czech>KVADRANT</Czech>
+            <French>QUADRANT</French>
+            <Spanish>CUADRANTE</Spanish>
+            <Italian>QUADRANTE</Italian>
+            <Polish>KWADRANT</Polish>
+            <Portuguese>QUADRANTE</Portuguese>
+            <Russian>КВАДРАНТ</Russian>
+            <German>QUADRANT</German>
+            <Korean>사분의</Korean>
+            <Japanese>象限儀</Japanese>
+            <Chinese>象限儀</Chinese>
+            <Chinesesimp>象限仪</Chinesesimp>
+            <Turkish>KUADRANT</Turkish>
+            <Hungarian>KVADRÁNS</Hungarian>
+            <Ukrainian>КВАДРАНТ</Ukrainian>
         </Key>
     </Package>
 </Project>

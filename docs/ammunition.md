@@ -11,7 +11,7 @@ The gunline is stocked from containers, through pallets and crates, down to the 
 | **M546 105mm FRAG Shell** | Fragmentation |
 | **M60 105mm WP Shell** | White phosphorus |
 | **M60 105mm Smoke Shell** | Smoke |
-| **M314 105mm LUME Shell** | Illumination |
+| **M314 105mm ILLUM Shell** | Illumination |
 | **M444 105mm ICM Shell** | Cluster munition (ICM) |
 
 A shell is carried with ACE's carry action. Its charge is set on the shell itself (interaction on the shell → **Interactions** → **Set Charge**); the charge is kept when the shell is put down or handed over. Loading is described on [The M101 Howitzer](gun.md#firing-a-round).
@@ -39,4 +39,4 @@ A **x 504 Cargo Container** holds **252 crates** (504 rounds) of one type. It sh
 - **Take** (crate): a crate, put on the ground in front of you.
 - **Take** (pallet): a pallet next to you, as full as the container's stock allows: an x42 pallet while it has 21 crates left, then smaller ones.
 
-There are containers for HE, AB, FRAG, WP, Smoke and LUME.
+There are containers for HE, AB, FRAG, WP, Smoke and ILLUM.

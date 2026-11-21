@@ -3,189 +3,1119 @@
     <Package name="logistics">
         <Key ID="STR_shot_over_logistics_Action_Charge">
             <English>Charge %1</English>
+            <Czech>Náplň %1</Czech>
+            <French>Charge %1</French>
+            <Spanish>Carga %1</Spanish>
+            <Italian>Carica %1</Italian>
+            <Polish>Ładunek %1</Polish>
+            <Portuguese>Carga %1</Portuguese>
+            <Russian>Заряд %1</Russian>
+            <German>Ladung %1</German>
+            <Korean>장약 %1</Korean>
+            <Japanese>装薬 %1</Japanese>
+            <Chinese>裝藥 %1</Chinese>
+            <Chinesesimp>装药 %1</Chinesesimp>
+            <Turkish>%1. Şarj</Turkish>
+            <Hungarian>%1. töltet</Hungarian>
+            <Ukrainian>Заряд %1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_SetCharge">
             <English>Set Charge</English>
+            <Czech>Nastavit náplň</Czech>
+            <French>Régler la charge</French>
+            <Spanish>Ajustar carga</Spanish>
+            <Italian>Imposta carica</Italian>
+            <Polish>Ustaw ładunek</Polish>
+            <Portuguese>Ajustar carga</Portuguese>
+            <Russian>Установить заряд</Russian>
+            <German>Ladung einstellen</German>
+            <Korean>장약 설정</Korean>
+            <Japanese>装薬を設定</Japanese>
+            <Chinese>設定裝藥</Chinese>
+            <Chinesesimp>设置装药</Chinesesimp>
+            <Turkish>Şarjı Ayarla</Turkish>
+            <Hungarian>Töltet beállítása</Hungarian>
+            <Ukrainian>Встановити заряд</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_Shell">
             <English>M101 Shell</English>
+            <Czech>Granát M101</Czech>
+            <French>Obus M101</French>
+            <Spanish>Proyectil M101</Spanish>
+            <Italian>Proietto M101</Italian>
+            <Polish>Pocisk M101</Polish>
+            <Portuguese>Projétil M101</Portuguese>
+            <Russian>Снаряд M101</Russian>
+            <German>M101-Granate</German>
+            <Korean>M101 포탄</Korean>
+            <Japanese>M101 砲弾</Japanese>
+            <Chinese>M101 砲彈</Chinese>
+            <Chinesesimp>M101 炮弹</Chinesesimp>
+            <Turkish>M101 Mermisi</Turkish>
+            <Hungarian>M101 lövedék</Hungarian>
+            <Ukrainian>Снаряд M101</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_ShellFormat">
             <English>%1, Chg %2</English>
+            <Czech>%1, Npl. %2</Czech>
+            <French>%1, Ch. %2</French>
+            <Spanish>%1, Cg. %2</Spanish>
+            <Italian>%1, Car. %2</Italian>
+            <Polish>%1, Ład. %2</Polish>
+            <Portuguese>%1, Cg. %2</Portuguese>
+            <Russian>%1, Зар. %2</Russian>
+            <German>%1, Ldg. %2</German>
+            <Korean>%1, 장약 %2</Korean>
+            <Japanese>%1, 装薬 %2</Japanese>
+            <Chinese>%1, 裝藥 %2</Chinese>
+            <Chinesesimp>%1, 装药 %2</Chinesesimp>
+            <Turkish>%1, Şrj. %2</Turkish>
+            <Hungarian>%1, Tölt. %2</Hungarian>
+            <Ukrainian>%1, Зар. %2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_TakeCrate">
             <English>Take Crate</English>
+            <Czech>Vzít bednu</Czech>
+            <French>Prendre une caisse</French>
+            <Spanish>Coger caja</Spanish>
+            <Italian>Prendi cassa</Italian>
+            <Polish>Weź skrzynię</Polish>
+            <Portuguese>Pegar caixa</Portuguese>
+            <Russian>Взять ящик</Russian>
+            <German>Kiste nehmen</German>
+            <Korean>탄약 상자 꺼내기</Korean>
+            <Japanese>弾薬箱を取る</Japanese>
+            <Chinese>取出彈藥箱</Chinese>
+            <Chinesesimp>取出弹药箱</Chinesesimp>
+            <Turkish>Sandık Al</Turkish>
+            <Hungarian>Láda elvétele</Hungarian>
+            <Ukrainian>Взяти ящик</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_TakeFormat">
             <English>Take %1</English>
+            <Czech>Vzít: %1</Czech>
+            <French>Prendre %1</French>
+            <Spanish>Coger %1</Spanish>
+            <Italian>Prendi %1</Italian>
+            <Polish>Weź %1</Polish>
+            <Portuguese>Pegar %1</Portuguese>
+            <Russian>Взять: %1</Russian>
+            <German>%1 nehmen</German>
+            <Korean>%1 꺼내기</Korean>
+            <Japanese>%1を取る</Japanese>
+            <Chinese>取出 %1</Chinese>
+            <Chinesesimp>取出 %1</Chinesesimp>
+            <Turkish>Al: %1</Turkish>
+            <Hungarian>Elvétel: %1</Hungarian>
+            <Ukrainian>Взяти: %1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_TakeFormatStock">
             <English>Take %1 (%2 left)</English>
+            <Czech>Vzít: %1 (zbývá %2)</Czech>
+            <French>Prendre %1 (%2 restants)</French>
+            <Spanish>Coger %1 (quedan %2)</Spanish>
+            <Italian>Prendi %1 (%2 rimasti)</Italian>
+            <Polish>Weź %1 (pozostało: %2)</Polish>
+            <Portuguese>Pegar %1 (restam %2)</Portuguese>
+            <Russian>Взять: %1 (осталось: %2)</Russian>
+            <German>%1 nehmen (%2 übrig)</German>
+            <Korean>%1 꺼내기 (%2 남음)</Korean>
+            <Japanese>%1を取る（残り%2）</Japanese>
+            <Chinese>取出 %1 (剩餘 %2)</Chinese>
+            <Chinesesimp>取出 %1 (剩余 %2)</Chinesesimp>
+            <Turkish>Al: %1 (%2 kaldı)</Turkish>
+            <Hungarian>Elvétel: %1 (%2 maradt)</Hungarian>
+            <Ukrainian>Взяти: %1 (залишилось: %2)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_TakePallet">
             <English>Take Pallet</English>
+            <Czech>Vzít paletu</Czech>
+            <French>Prendre une palette</French>
+            <Spanish>Coger palé</Spanish>
+            <Italian>Prendi pallet</Italian>
+            <Polish>Weź paletę</Polish>
+            <Portuguese>Pegar palete</Portuguese>
+            <Russian>Взять поддон</Russian>
+            <German>Palette nehmen</German>
+            <Korean>팔레트 꺼내기</Korean>
+            <Japanese>パレットを取る</Japanese>
+            <Chinese>取出棧板</Chinese>
+            <Chinesesimp>取出托盘</Chinesesimp>
+            <Turkish>Palet Al</Turkish>
+            <Hungarian>Raklap elvétele</Hungarian>
+            <Ukrainian>Взяти піддон</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Action_UnpackCrate">
             <English>Unpack Crate</English>
+            <Czech>Vybalit bednu</Czech>
+            <French>Ouvrir la caisse</French>
+            <Spanish>Desembalar caja</Spanish>
+            <Italian>Apri cassa</Italian>
+            <Polish>Rozpakuj skrzynię</Polish>
+            <Portuguese>Abrir caixa</Portuguese>
+            <Russian>Распаковать ящик</Russian>
+            <German>Kiste auspacken</German>
+            <Korean>탄약 상자 개봉</Korean>
+            <Japanese>弾薬箱を開封</Japanese>
+            <Chinese>開啟彈藥箱</Chinese>
+            <Chinesesimp>打开弹药箱</Chinesesimp>
+            <Turkish>Sandığı Aç</Turkish>
+            <Hungarian>Láda kicsomagolása</Hungarian>
+            <Ukrainian>Розпакувати ящик</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Hint_LoadShell">
             <English>Load the shell at the open breech: interaction "Load Shell" or right click</English>
+            <Czech>Nabijte granát do otevřeného závěru: interakce "Nabít granát" nebo pravé tlačítko myši</Czech>
+            <French>Chargez l'obus par la culasse ouverte : interaction "Charger l'obus" ou clic droit</French>
+            <Spanish>Carga el proyectil en el cierre abierto: interacción "Cargar proyectil" o clic derecho</Spanish>
+            <Italian>Carica il proietto dall'otturatore aperto: interazione "Carica proietto" o clic destro</Italian>
+            <Polish>Załaduj pocisk przy otwartym zamku: interakcja "Załaduj pocisk" lub prawy przycisk myszy</Polish>
+            <Portuguese>Carregue o projétil pela culatra aberta: interação "Carregar projétil" ou clique direito</Portuguese>
+            <Russian>Зарядите снаряд в открытый затвор: взаимодействие "Зарядить снаряд" или правый клик</Russian>
+            <German>Granate am offenen Verschluss laden: Interaktion "Granate laden" oder Rechtsklick</German>
+            <Korean>열린 폐쇄기에 포탄 장전: 상호작용 "포탄 장전" 또는 우클릭</Korean>
+            <Japanese>開いた閉鎖機に砲弾を装填: インタラクション「砲弾を装填」または右クリック</Japanese>
+            <Chinese>在開啟的砲閂處裝填砲彈：互動「裝填砲彈」或按右鍵</Chinese>
+            <Chinesesimp>在打开的炮闩处装填炮弹：交互“装填炮弹”或点击右键</Chinesesimp>
+            <Turkish>Mermiyi açık kamaya yükleyin: "Mermiyi Yükle" etkileşimi veya sağ tık</Turkish>
+            <Hungarian>Töltsd be a lövedéket a nyitott zárnál: "Lövedék betöltése" interakció vagy jobb kattintás</Hungarian>
+            <Ukrainian>Зарядіть снаряд у відкритий затвор: взаємодія "Зарядити снаряд" або правий клік</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_Hint_NoHowitzer">
             <English>No howitzer nearby</English>
+            <Czech>Poblíž není žádná houfnice</Czech>
+            <French>Aucun obusier à proximité</French>
+            <Spanish>No hay ningún obús cerca</Spanish>
+            <Italian>Nessun obice nelle vicinanze</Italian>
+            <Polish>Brak haubicy w pobliżu</Polish>
+            <Portuguese>Nenhum obuseiro por perto</Portuguese>
+            <Russian>Рядом нет гаубицы</Russian>
+            <German>Keine Haubitze in der Nähe</German>
+            <Korean>근처에 곡사포가 없습니다</Korean>
+            <Japanese>近くに榴弾砲がありません</Japanese>
+            <Chinese>附近沒有榴彈砲</Chinese>
+            <Chinesesimp>附近没有榴弹炮</Chinesesimp>
+            <Turkish>Yakında obüs yok</Turkish>
+            <Hungarian>Nincs tarack a közelben</Hungarian>
+            <Ukrainian>Поблизу немає гаубиці</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_container_x504_DisplayName">
             <English>M1 105mm AB x 504 Cargo Container</English>
+            <Czech>Kontejner M1 105mm AB x 504</Czech>
+            <French>Conteneur M1 105mm AB x 504</French>
+            <Spanish>Contenedor de carga M1 105mm AB x 504</Spanish>
+            <Italian>Container M1 105mm AB x 504</Italian>
+            <Polish>Kontener M1 105mm AB x 504</Polish>
+            <Portuguese>Contêiner M1 105mm AB x 504</Portuguese>
+            <Russian>Контейнер M1 105 мм AB x 504</Russian>
+            <German>M1 105mm AB x 504 Frachtcontainer</German>
+            <Korean>M1 105mm AB x 504 화물 컨테이너</Korean>
+            <Japanese>M1 105mm AB x 504 貨物コンテナ</Japanese>
+            <Chinese>M1 105mm AB x 504 貨櫃</Chinese>
+            <Chinesesimp>M1 105mm AB x 504 货运集装箱</Chinesesimp>
+            <Turkish>M1 105mm AB x 504 Konteyner</Turkish>
+            <Hungarian>M1 105mm AB x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M1 105 мм AB x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_crate_DisplayName">
             <English>M1 105mm AB x2 Crate</English>
+            <Czech>Bedna M1 105mm AB x2</Czech>
+            <French>Caisse M1 105mm AB x2</French>
+            <Spanish>Caja M1 105mm AB x2</Spanish>
+            <Italian>Cassa M1 105mm AB x2</Italian>
+            <Polish>Skrzynia M1 105mm AB x2</Polish>
+            <Portuguese>Caixa M1 105mm AB x2</Portuguese>
+            <Russian>Ящик M1 105 мм AB x2</Russian>
+            <German>M1 105mm AB x2 Kiste</German>
+            <Korean>M1 105mm AB x2 탄약 상자</Korean>
+            <Japanese>M1 105mm AB x2 弾薬箱</Japanese>
+            <Chinese>M1 105mm AB x2 彈藥箱</Chinese>
+            <Chinesesimp>M1 105mm AB x2 弹药箱</Chinesesimp>
+            <Turkish>M1 105mm AB x2 Sandık</Turkish>
+            <Hungarian>M1 105mm AB x2 láda</Hungarian>
+            <Ukrainian>Ящик M1 105 мм AB x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_crate_open_DisplayName">
             <English>M1 105mm AB x2 Crate (Open)</English>
+            <Czech>Bedna M1 105mm AB x2 (otevřená)</Czech>
+            <French>Caisse M1 105mm AB x2 (ouverte)</French>
+            <Spanish>Caja M1 105mm AB x2 (abierta)</Spanish>
+            <Italian>Cassa M1 105mm AB x2 (aperta)</Italian>
+            <Polish>Skrzynia M1 105mm AB x2 (otwarta)</Polish>
+            <Portuguese>Caixa M1 105mm AB x2 (aberta)</Portuguese>
+            <Russian>Ящик M1 105 мм AB x2 (открыт)</Russian>
+            <German>M1 105mm AB x2 Kiste (offen)</German>
+            <Korean>M1 105mm AB x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M1 105mm AB x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M1 105mm AB x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M1 105mm AB x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M1 105mm AB x2 Sandık (Açık)</Turkish>
+            <Hungarian>M1 105mm AB x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M1 105 мм AB x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_pallet_x18_DisplayName">
             <English>M1 105mm AB x18 Pallet</English>
+            <Czech>Paleta M1 105mm AB x18</Czech>
+            <French>Palette M1 105mm AB x18</French>
+            <Spanish>Palé M1 105mm AB x18</Spanish>
+            <Italian>Pallet M1 105mm AB x18</Italian>
+            <Polish>Paleta M1 105mm AB x18</Polish>
+            <Portuguese>Palete M1 105mm AB x18</Portuguese>
+            <Russian>Поддон M1 105 мм AB x18</Russian>
+            <German>M1 105mm AB x18 Palette</German>
+            <Korean>M1 105mm AB x18 팔레트</Korean>
+            <Japanese>M1 105mm AB x18 パレット</Japanese>
+            <Chinese>M1 105mm AB x18 棧板</Chinese>
+            <Chinesesimp>M1 105mm AB x18 托盘</Chinesesimp>
+            <Turkish>M1 105mm AB x18 Palet</Turkish>
+            <Hungarian>M1 105mm AB x18 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм AB x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_pallet_x24_DisplayName">
             <English>M1 105mm AB x24 Pallet</English>
+            <Czech>Paleta M1 105mm AB x24</Czech>
+            <French>Palette M1 105mm AB x24</French>
+            <Spanish>Palé M1 105mm AB x24</Spanish>
+            <Italian>Pallet M1 105mm AB x24</Italian>
+            <Polish>Paleta M1 105mm AB x24</Polish>
+            <Portuguese>Palete M1 105mm AB x24</Portuguese>
+            <Russian>Поддон M1 105 мм AB x24</Russian>
+            <German>M1 105mm AB x24 Palette</German>
+            <Korean>M1 105mm AB x24 팔레트</Korean>
+            <Japanese>M1 105mm AB x24 パレット</Japanese>
+            <Chinese>M1 105mm AB x24 棧板</Chinese>
+            <Chinesesimp>M1 105mm AB x24 托盘</Chinesesimp>
+            <Turkish>M1 105mm AB x24 Palet</Turkish>
+            <Hungarian>M1 105mm AB x24 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм AB x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_ab_pallet_x42_DisplayName">
             <English>M1 105mm AB x42 Pallet</English>
+            <Czech>Paleta M1 105mm AB x42</Czech>
+            <French>Palette M1 105mm AB x42</French>
+            <Spanish>Palé M1 105mm AB x42</Spanish>
+            <Italian>Pallet M1 105mm AB x42</Italian>
+            <Polish>Paleta M1 105mm AB x42</Polish>
+            <Portuguese>Palete M1 105mm AB x42</Portuguese>
+            <Russian>Поддон M1 105 мм AB x42</Russian>
+            <German>M1 105mm AB x42 Palette</German>
+            <Korean>M1 105mm AB x42 팔레트</Korean>
+            <Japanese>M1 105mm AB x42 パレット</Japanese>
+            <Chinese>M1 105mm AB x42 棧板</Chinese>
+            <Chinesesimp>M1 105mm AB x42 托盘</Chinesesimp>
+            <Turkish>M1 105mm AB x42 Palet</Turkish>
+            <Hungarian>M1 105mm AB x42 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм AB x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_container_base_DisplayName">
             <English>M1 105mm HE x 504 Cargo Container</English>
+            <Czech>Kontejner M1 105mm HE x 504</Czech>
+            <French>Conteneur M1 105mm HE x 504</French>
+            <Spanish>Contenedor de carga M1 105mm HE x 504</Spanish>
+            <Italian>Container M1 105mm HE x 504</Italian>
+            <Polish>Kontener M1 105mm HE x 504</Polish>
+            <Portuguese>Contêiner M1 105mm HE x 504</Portuguese>
+            <Russian>Контейнер M1 105 мм HE x 504</Russian>
+            <German>M1 105mm HE x 504 Frachtcontainer</German>
+            <Korean>M1 105mm HE x 504 화물 컨테이너</Korean>
+            <Japanese>M1 105mm HE x 504 貨物コンテナ</Japanese>
+            <Chinese>M1 105mm HE x 504 貨櫃</Chinese>
+            <Chinesesimp>M1 105mm HE x 504 货运集装箱</Chinesesimp>
+            <Turkish>M1 105mm HE x 504 Konteyner</Turkish>
+            <Hungarian>M1 105mm HE x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M1 105 мм HE x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_container_x504_DisplayName">
             <English>M546 105mm FRAG x 504 Cargo Container</English>
+            <Czech>Kontejner M546 105mm FRAG x 504</Czech>
+            <French>Conteneur M546 105mm FRAG x 504</French>
+            <Spanish>Contenedor de carga M546 105mm FRAG x 504</Spanish>
+            <Italian>Container M546 105mm FRAG x 504</Italian>
+            <Polish>Kontener M546 105mm FRAG x 504</Polish>
+            <Portuguese>Contêiner M546 105mm FRAG x 504</Portuguese>
+            <Russian>Контейнер M546 105 мм FRAG x 504</Russian>
+            <German>M546 105mm FRAG x 504 Frachtcontainer</German>
+            <Korean>M546 105mm FRAG x 504 화물 컨테이너</Korean>
+            <Japanese>M546 105mm FRAG x 504 貨物コンテナ</Japanese>
+            <Chinese>M546 105mm FRAG x 504 貨櫃</Chinese>
+            <Chinesesimp>M546 105mm FRAG x 504 货运集装箱</Chinesesimp>
+            <Turkish>M546 105mm FRAG x 504 Konteyner</Turkish>
+            <Hungarian>M546 105mm FRAG x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M546 105 мм FRAG x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_crate_DisplayName">
             <English>M546 105mm FRAG x2 Crate</English>
+            <Czech>Bedna M546 105mm FRAG x2</Czech>
+            <French>Caisse M546 105mm FRAG x2</French>
+            <Spanish>Caja M546 105mm FRAG x2</Spanish>
+            <Italian>Cassa M546 105mm FRAG x2</Italian>
+            <Polish>Skrzynia M546 105mm FRAG x2</Polish>
+            <Portuguese>Caixa M546 105mm FRAG x2</Portuguese>
+            <Russian>Ящик M546 105 мм FRAG x2</Russian>
+            <German>M546 105mm FRAG x2 Kiste</German>
+            <Korean>M546 105mm FRAG x2 탄약 상자</Korean>
+            <Japanese>M546 105mm FRAG x2 弾薬箱</Japanese>
+            <Chinese>M546 105mm FRAG x2 彈藥箱</Chinese>
+            <Chinesesimp>M546 105mm FRAG x2 弹药箱</Chinesesimp>
+            <Turkish>M546 105mm FRAG x2 Sandık</Turkish>
+            <Hungarian>M546 105mm FRAG x2 láda</Hungarian>
+            <Ukrainian>Ящик M546 105 мм FRAG x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_crate_open_DisplayName">
             <English>M546 105mm FRAG x2 Crate (Open)</English>
+            <Czech>Bedna M546 105mm FRAG x2 (otevřená)</Czech>
+            <French>Caisse M546 105mm FRAG x2 (ouverte)</French>
+            <Spanish>Caja M546 105mm FRAG x2 (abierta)</Spanish>
+            <Italian>Cassa M546 105mm FRAG x2 (aperta)</Italian>
+            <Polish>Skrzynia M546 105mm FRAG x2 (otwarta)</Polish>
+            <Portuguese>Caixa M546 105mm FRAG x2 (aberta)</Portuguese>
+            <Russian>Ящик M546 105 мм FRAG x2 (открыт)</Russian>
+            <German>M546 105mm FRAG x2 Kiste (offen)</German>
+            <Korean>M546 105mm FRAG x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M546 105mm FRAG x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M546 105mm FRAG x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M546 105mm FRAG x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M546 105mm FRAG x2 Sandık (Açık)</Turkish>
+            <Hungarian>M546 105mm FRAG x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M546 105 мм FRAG x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_pallet_x18_DisplayName">
             <English>M546 105mm FRAG x18 Pallet</English>
+            <Czech>Paleta M546 105mm FRAG x18</Czech>
+            <French>Palette M546 105mm FRAG x18</French>
+            <Spanish>Palé M546 105mm FRAG x18</Spanish>
+            <Italian>Pallet M546 105mm FRAG x18</Italian>
+            <Polish>Paleta M546 105mm FRAG x18</Polish>
+            <Portuguese>Palete M546 105mm FRAG x18</Portuguese>
+            <Russian>Поддон M546 105 мм FRAG x18</Russian>
+            <German>M546 105mm FRAG x18 Palette</German>
+            <Korean>M546 105mm FRAG x18 팔레트</Korean>
+            <Japanese>M546 105mm FRAG x18 パレット</Japanese>
+            <Chinese>M546 105mm FRAG x18 棧板</Chinese>
+            <Chinesesimp>M546 105mm FRAG x18 托盘</Chinesesimp>
+            <Turkish>M546 105mm FRAG x18 Palet</Turkish>
+            <Hungarian>M546 105mm FRAG x18 raklap</Hungarian>
+            <Ukrainian>Піддон M546 105 мм FRAG x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_pallet_x24_DisplayName">
             <English>M546 105mm FRAG x24 Pallet</English>
+            <Czech>Paleta M546 105mm FRAG x24</Czech>
+            <French>Palette M546 105mm FRAG x24</French>
+            <Spanish>Palé M546 105mm FRAG x24</Spanish>
+            <Italian>Pallet M546 105mm FRAG x24</Italian>
+            <Polish>Paleta M546 105mm FRAG x24</Polish>
+            <Portuguese>Palete M546 105mm FRAG x24</Portuguese>
+            <Russian>Поддон M546 105 мм FRAG x24</Russian>
+            <German>M546 105mm FRAG x24 Palette</German>
+            <Korean>M546 105mm FRAG x24 팔레트</Korean>
+            <Japanese>M546 105mm FRAG x24 パレット</Japanese>
+            <Chinese>M546 105mm FRAG x24 棧板</Chinese>
+            <Chinesesimp>M546 105mm FRAG x24 托盘</Chinesesimp>
+            <Turkish>M546 105mm FRAG x24 Palet</Turkish>
+            <Hungarian>M546 105mm FRAG x24 raklap</Hungarian>
+            <Ukrainian>Піддон M546 105 мм FRAG x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_frag_pallet_x42_DisplayName">
             <English>M546 105mm FRAG x42 Pallet</English>
+            <Czech>Paleta M546 105mm FRAG x42</Czech>
+            <French>Palette M546 105mm FRAG x42</French>
+            <Spanish>Palé M546 105mm FRAG x42</Spanish>
+            <Italian>Pallet M546 105mm FRAG x42</Italian>
+            <Polish>Paleta M546 105mm FRAG x42</Polish>
+            <Portuguese>Palete M546 105mm FRAG x42</Portuguese>
+            <Russian>Поддон M546 105 мм FRAG x42</Russian>
+            <German>M546 105mm FRAG x42 Palette</German>
+            <Korean>M546 105mm FRAG x42 팔레트</Korean>
+            <Japanese>M546 105mm FRAG x42 パレット</Japanese>
+            <Chinese>M546 105mm FRAG x42 棧板</Chinese>
+            <Chinesesimp>M546 105mm FRAG x42 托盘</Chinesesimp>
+            <Turkish>M546 105mm FRAG x42 Palet</Turkish>
+            <Hungarian>M546 105mm FRAG x42 raklap</Hungarian>
+            <Ukrainian>Піддон M546 105 мм FRAG x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_he_container_x504_DisplayName">
             <English>M1 105mm HE x 504 Cargo Container</English>
+            <Czech>Kontejner M1 105mm HE x 504</Czech>
+            <French>Conteneur M1 105mm HE x 504</French>
+            <Spanish>Contenedor de carga M1 105mm HE x 504</Spanish>
+            <Italian>Container M1 105mm HE x 504</Italian>
+            <Polish>Kontener M1 105mm HE x 504</Polish>
+            <Portuguese>Contêiner M1 105mm HE x 504</Portuguese>
+            <Russian>Контейнер M1 105 мм HE x 504</Russian>
+            <German>M1 105mm HE x 504 Frachtcontainer</German>
+            <Korean>M1 105mm HE x 504 화물 컨테이너</Korean>
+            <Japanese>M1 105mm HE x 504 貨物コンテナ</Japanese>
+            <Chinese>M1 105mm HE x 504 貨櫃</Chinese>
+            <Chinesesimp>M1 105mm HE x 504 货运集装箱</Chinesesimp>
+            <Turkish>M1 105mm HE x 504 Konteyner</Turkish>
+            <Hungarian>M1 105mm HE x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M1 105 мм HE x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_he_crate_DisplayName">
             <English>M1 105mm HE x2 Crate</English>
+            <Czech>Bedna M1 105mm HE x2</Czech>
+            <French>Caisse M1 105mm HE x2</French>
+            <Spanish>Caja M1 105mm HE x2</Spanish>
+            <Italian>Cassa M1 105mm HE x2</Italian>
+            <Polish>Skrzynia M1 105mm HE x2</Polish>
+            <Portuguese>Caixa M1 105mm HE x2</Portuguese>
+            <Russian>Ящик M1 105 мм HE x2</Russian>
+            <German>M1 105mm HE x2 Kiste</German>
+            <Korean>M1 105mm HE x2 탄약 상자</Korean>
+            <Japanese>M1 105mm HE x2 弾薬箱</Japanese>
+            <Chinese>M1 105mm HE x2 彈藥箱</Chinese>
+            <Chinesesimp>M1 105mm HE x2 弹药箱</Chinesesimp>
+            <Turkish>M1 105mm HE x2 Sandık</Turkish>
+            <Hungarian>M1 105mm HE x2 láda</Hungarian>
+            <Ukrainian>Ящик M1 105 мм HE x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_he_crate_open_DisplayName">
             <English>M1 105mm HE x2 Crate (Open)</English>
+            <Czech>Bedna M1 105mm HE x2 (otevřená)</Czech>
+            <French>Caisse M1 105mm HE x2 (ouverte)</French>
+            <Spanish>Caja M1 105mm HE x2 (abierta)</Spanish>
+            <Italian>Cassa M1 105mm HE x2 (aperta)</Italian>
+            <Polish>Skrzynia M1 105mm HE x2 (otwarta)</Polish>
+            <Portuguese>Caixa M1 105mm HE x2 (aberta)</Portuguese>
+            <Russian>Ящик M1 105 мм HE x2 (открыт)</Russian>
+            <German>M1 105mm HE x2 Kiste (offen)</German>
+            <Korean>M1 105mm HE x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M1 105mm HE x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M1 105mm HE x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M1 105mm HE x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M1 105mm HE x2 Sandık (Açık)</Turkish>
+            <Hungarian>M1 105mm HE x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M1 105 мм HE x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_he_pallet_x18_DisplayName">
             <English>M1 105mm HE x18 Pallet</English>
+            <Czech>Paleta M1 105mm HE x18</Czech>
+            <French>Palette M1 105mm HE x18</French>
+            <Spanish>Palé M1 105mm HE x18</Spanish>
+            <Italian>Pallet M1 105mm HE x18</Italian>
+            <Polish>Paleta M1 105mm HE x18</Polish>
+            <Portuguese>Palete M1 105mm HE x18</Portuguese>
+            <Russian>Поддон M1 105 мм HE x18</Russian>
+            <German>M1 105mm HE x18 Palette</German>
+            <Korean>M1 105mm HE x18 팔레트</Korean>
+            <Japanese>M1 105mm HE x18 パレット</Japanese>
+            <Chinese>M1 105mm HE x18 棧板</Chinese>
+            <Chinesesimp>M1 105mm HE x18 托盘</Chinesesimp>
+            <Turkish>M1 105mm HE x18 Palet</Turkish>
+            <Hungarian>M1 105mm HE x18 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм HE x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_he_pallet_x24_DisplayName">
             <English>M1 105mm HE x24 Pallet</English>
+            <Czech>Paleta M1 105mm HE x24</Czech>
+            <French>Palette M1 105mm HE x24</French>
+            <Spanish>Palé M1 105mm HE x24</Spanish>
+            <Italian>Pallet M1 105mm HE x24</Italian>
+            <Polish>Paleta M1 105mm HE x24</Polish>
+            <Portuguese>Palete M1 105mm HE x24</Portuguese>
+            <Russian>Поддон M1 105 мм HE x24</Russian>
+            <German>M1 105mm HE x24 Palette</German>
+            <Korean>M1 105mm HE x24 팔레트</Korean>
+            <Japanese>M1 105mm HE x24 パレット</Japanese>
+            <Chinese>M1 105mm HE x24 棧板</Chinese>
+            <Chinesesimp>M1 105mm HE x24 托盘</Chinesesimp>
+            <Turkish>M1 105mm HE x24 Palet</Turkish>
+            <Hungarian>M1 105mm HE x24 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм HE x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_icm_crate_DisplayName">
             <English>M444 105mm ICM x2 Crate</English>
+            <Czech>Bedna M444 105mm ICM x2</Czech>
+            <French>Caisse M444 105mm ICM x2</French>
+            <Spanish>Caja M444 105mm ICM x2</Spanish>
+            <Italian>Cassa M444 105mm ICM x2</Italian>
+            <Polish>Skrzynia M444 105mm ICM x2</Polish>
+            <Portuguese>Caixa M444 105mm ICM x2</Portuguese>
+            <Russian>Ящик M444 105 мм ICM x2</Russian>
+            <German>M444 105mm ICM x2 Kiste</German>
+            <Korean>M444 105mm ICM x2 탄약 상자</Korean>
+            <Japanese>M444 105mm ICM x2 弾薬箱</Japanese>
+            <Chinese>M444 105mm ICM x2 彈藥箱</Chinese>
+            <Chinesesimp>M444 105mm ICM x2 弹药箱</Chinesesimp>
+            <Turkish>M444 105mm ICM x2 Sandık</Turkish>
+            <Hungarian>M444 105mm ICM x2 láda</Hungarian>
+            <Ukrainian>Ящик M444 105 мм ICM x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_icm_crate_open_DisplayName">
             <English>M444 105mm ICM x2 Crate (Open)</English>
+            <Czech>Bedna M444 105mm ICM x2 (otevřená)</Czech>
+            <French>Caisse M444 105mm ICM x2 (ouverte)</French>
+            <Spanish>Caja M444 105mm ICM x2 (abierta)</Spanish>
+            <Italian>Cassa M444 105mm ICM x2 (aperta)</Italian>
+            <Polish>Skrzynia M444 105mm ICM x2 (otwarta)</Polish>
+            <Portuguese>Caixa M444 105mm ICM x2 (aberta)</Portuguese>
+            <Russian>Ящик M444 105 мм ICM x2 (открыт)</Russian>
+            <German>M444 105mm ICM x2 Kiste (offen)</German>
+            <Korean>M444 105mm ICM x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M444 105mm ICM x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M444 105mm ICM x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M444 105mm ICM x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M444 105mm ICM x2 Sandık (Açık)</Turkish>
+            <Hungarian>M444 105mm ICM x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M444 105 мм ICM x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_icm_pallet_x18_DisplayName">
             <English>M444 105mm ICM x18 Pallet</English>
+            <Czech>Paleta M444 105mm ICM x18</Czech>
+            <French>Palette M444 105mm ICM x18</French>
+            <Spanish>Palé M444 105mm ICM x18</Spanish>
+            <Italian>Pallet M444 105mm ICM x18</Italian>
+            <Polish>Paleta M444 105mm ICM x18</Polish>
+            <Portuguese>Palete M444 105mm ICM x18</Portuguese>
+            <Russian>Поддон M444 105 мм ICM x18</Russian>
+            <German>M444 105mm ICM x18 Palette</German>
+            <Korean>M444 105mm ICM x18 팔레트</Korean>
+            <Japanese>M444 105mm ICM x18 パレット</Japanese>
+            <Chinese>M444 105mm ICM x18 棧板</Chinese>
+            <Chinesesimp>M444 105mm ICM x18 托盘</Chinesesimp>
+            <Turkish>M444 105mm ICM x18 Palet</Turkish>
+            <Hungarian>M444 105mm ICM x18 raklap</Hungarian>
+            <Ukrainian>Піддон M444 105 мм ICM x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_icm_pallet_x24_DisplayName">
             <English>M444 105mm ICM x24 Pallet</English>
+            <Czech>Paleta M444 105mm ICM x24</Czech>
+            <French>Palette M444 105mm ICM x24</French>
+            <Spanish>Palé M444 105mm ICM x24</Spanish>
+            <Italian>Pallet M444 105mm ICM x24</Italian>
+            <Polish>Paleta M444 105mm ICM x24</Polish>
+            <Portuguese>Palete M444 105mm ICM x24</Portuguese>
+            <Russian>Поддон M444 105 мм ICM x24</Russian>
+            <German>M444 105mm ICM x24 Palette</German>
+            <Korean>M444 105mm ICM x24 팔레트</Korean>
+            <Japanese>M444 105mm ICM x24 パレット</Japanese>
+            <Chinese>M444 105mm ICM x24 棧板</Chinese>
+            <Chinesesimp>M444 105mm ICM x24 托盘</Chinesesimp>
+            <Turkish>M444 105mm ICM x24 Palet</Turkish>
+            <Hungarian>M444 105mm ICM x24 raklap</Hungarian>
+            <Ukrainian>Піддон M444 105 мм ICM x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_icm_pallet_x42_DisplayName">
             <English>M444 105mm ICM x42 Pallet</English>
+            <Czech>Paleta M444 105mm ICM x42</Czech>
+            <French>Palette M444 105mm ICM x42</French>
+            <Spanish>Palé M444 105mm ICM x42</Spanish>
+            <Italian>Pallet M444 105mm ICM x42</Italian>
+            <Polish>Paleta M444 105mm ICM x42</Polish>
+            <Portuguese>Palete M444 105mm ICM x42</Portuguese>
+            <Russian>Поддон M444 105 мм ICM x42</Russian>
+            <German>M444 105mm ICM x42 Palette</German>
+            <Korean>M444 105mm ICM x42 팔레트</Korean>
+            <Japanese>M444 105mm ICM x42 パレット</Japanese>
+            <Chinese>M444 105mm ICM x42 棧板</Chinese>
+            <Chinesesimp>M444 105mm ICM x42 托盘</Chinesesimp>
+            <Turkish>M444 105mm ICM x42 Palet</Turkish>
+            <Hungarian>M444 105mm ICM x42 raklap</Hungarian>
+            <Ukrainian>Піддон M444 105 мм ICM x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_container_x504_DisplayName">
-            <English>M314 105mm LUME x 504 Cargo Container</English>
+            <English>M314 105mm ILLUM x 504 Cargo Container</English>
+            <Czech>Kontejner M314 105mm ILLUM x 504</Czech>
+            <French>Conteneur M314 105mm ILLUM x 504</French>
+            <Spanish>Contenedor de carga M314 105mm ILLUM x 504</Spanish>
+            <Italian>Container M314 105mm ILLUM x 504</Italian>
+            <Polish>Kontener M314 105mm ILLUM x 504</Polish>
+            <Portuguese>Contêiner M314 105mm ILLUM x 504</Portuguese>
+            <Russian>Контейнер M314 105 мм ILLUM x 504</Russian>
+            <German>M314 105mm ILLUM x 504 Frachtcontainer</German>
+            <Korean>M314 105mm ILLUM x 504 화물 컨테이너</Korean>
+            <Japanese>M314 105mm ILLUM x 504 貨物コンテナ</Japanese>
+            <Chinese>M314 105mm ILLUM x 504 貨櫃</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x 504 货运集装箱</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x 504 Konteyner</Turkish>
+            <Hungarian>M314 105mm ILLUM x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M314 105 мм ILLUM x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_crate_DisplayName">
-            <English>M314 105mm LUME x2 Crate</English>
+            <English>M314 105mm ILLUM x2 Crate</English>
+            <Czech>Bedna M314 105mm ILLUM x2</Czech>
+            <French>Caisse M314 105mm ILLUM x2</French>
+            <Spanish>Caja M314 105mm ILLUM x2</Spanish>
+            <Italian>Cassa M314 105mm ILLUM x2</Italian>
+            <Polish>Skrzynia M314 105mm ILLUM x2</Polish>
+            <Portuguese>Caixa M314 105mm ILLUM x2</Portuguese>
+            <Russian>Ящик M314 105 мм ILLUM x2</Russian>
+            <German>M314 105mm ILLUM x2 Kiste</German>
+            <Korean>M314 105mm ILLUM x2 탄약 상자</Korean>
+            <Japanese>M314 105mm ILLUM x2 弾薬箱</Japanese>
+            <Chinese>M314 105mm ILLUM x2 彈藥箱</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x2 弹药箱</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x2 Sandık</Turkish>
+            <Hungarian>M314 105mm ILLUM x2 láda</Hungarian>
+            <Ukrainian>Ящик M314 105 мм ILLUM x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_crate_open_DisplayName">
-            <English>M314 105mm LUME x2 Crate (Open)</English>
+            <English>M314 105mm ILLUM x2 Crate (Open)</English>
+            <Czech>Bedna M314 105mm ILLUM x2 (otevřená)</Czech>
+            <French>Caisse M314 105mm ILLUM x2 (ouverte)</French>
+            <Spanish>Caja M314 105mm ILLUM x2 (abierta)</Spanish>
+            <Italian>Cassa M314 105mm ILLUM x2 (aperta)</Italian>
+            <Polish>Skrzynia M314 105mm ILLUM x2 (otwarta)</Polish>
+            <Portuguese>Caixa M314 105mm ILLUM x2 (aberta)</Portuguese>
+            <Russian>Ящик M314 105 мм ILLUM x2 (открыт)</Russian>
+            <German>M314 105mm ILLUM x2 Kiste (offen)</German>
+            <Korean>M314 105mm ILLUM x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M314 105mm ILLUM x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M314 105mm ILLUM x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x2 Sandık (Açık)</Turkish>
+            <Hungarian>M314 105mm ILLUM x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M314 105 мм ILLUM x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_pallet_x18_DisplayName">
-            <English>M314 105mm LUME x18 Pallet</English>
+            <English>M314 105mm ILLUM x18 Pallet</English>
+            <Czech>Paleta M314 105mm ILLUM x18</Czech>
+            <French>Palette M314 105mm ILLUM x18</French>
+            <Spanish>Palé M314 105mm ILLUM x18</Spanish>
+            <Italian>Pallet M314 105mm ILLUM x18</Italian>
+            <Polish>Paleta M314 105mm ILLUM x18</Polish>
+            <Portuguese>Palete M314 105mm ILLUM x18</Portuguese>
+            <Russian>Поддон M314 105 мм ILLUM x18</Russian>
+            <German>M314 105mm ILLUM x18 Palette</German>
+            <Korean>M314 105mm ILLUM x18 팔레트</Korean>
+            <Japanese>M314 105mm ILLUM x18 パレット</Japanese>
+            <Chinese>M314 105mm ILLUM x18 棧板</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x18 托盘</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x18 Palet</Turkish>
+            <Hungarian>M314 105mm ILLUM x18 raklap</Hungarian>
+            <Ukrainian>Піддон M314 105 мм ILLUM x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_pallet_x24_DisplayName">
-            <English>M314 105mm LUME x24 Pallet</English>
+            <English>M314 105mm ILLUM x24 Pallet</English>
+            <Czech>Paleta M314 105mm ILLUM x24</Czech>
+            <French>Palette M314 105mm ILLUM x24</French>
+            <Spanish>Palé M314 105mm ILLUM x24</Spanish>
+            <Italian>Pallet M314 105mm ILLUM x24</Italian>
+            <Polish>Paleta M314 105mm ILLUM x24</Polish>
+            <Portuguese>Palete M314 105mm ILLUM x24</Portuguese>
+            <Russian>Поддон M314 105 мм ILLUM x24</Russian>
+            <German>M314 105mm ILLUM x24 Palette</German>
+            <Korean>M314 105mm ILLUM x24 팔레트</Korean>
+            <Japanese>M314 105mm ILLUM x24 パレット</Japanese>
+            <Chinese>M314 105mm ILLUM x24 棧板</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x24 托盘</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x24 Palet</Turkish>
+            <Hungarian>M314 105mm ILLUM x24 raklap</Hungarian>
+            <Ukrainian>Піддон M314 105 мм ILLUM x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_illum_pallet_x42_DisplayName">
-            <English>M314 105mm LUME x42 Pallet</English>
+            <English>M314 105mm ILLUM x42 Pallet</English>
+            <Czech>Paleta M314 105mm ILLUM x42</Czech>
+            <French>Palette M314 105mm ILLUM x42</French>
+            <Spanish>Palé M314 105mm ILLUM x42</Spanish>
+            <Italian>Pallet M314 105mm ILLUM x42</Italian>
+            <Polish>Paleta M314 105mm ILLUM x42</Polish>
+            <Portuguese>Palete M314 105mm ILLUM x42</Portuguese>
+            <Russian>Поддон M314 105 мм ILLUM x42</Russian>
+            <German>M314 105mm ILLUM x42 Palette</German>
+            <Korean>M314 105mm ILLUM x42 팔레트</Korean>
+            <Japanese>M314 105mm ILLUM x42 パレット</Japanese>
+            <Chinese>M314 105mm ILLUM x42 棧板</Chinese>
+            <Chinesesimp>M314 105mm ILLUM x42 托盘</Chinesesimp>
+            <Turkish>M314 105mm ILLUM x42 Palet</Turkish>
+            <Hungarian>M314 105mm ILLUM x42 raklap</Hungarian>
+            <Ukrainian>Піддон M314 105 мм ILLUM x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_pallet_base_DisplayName">
             <English>M1 105mm HE x42 Pallet</English>
+            <Czech>Paleta M1 105mm HE x42</Czech>
+            <French>Palette M1 105mm HE x42</French>
+            <Spanish>Palé M1 105mm HE x42</Spanish>
+            <Italian>Pallet M1 105mm HE x42</Italian>
+            <Polish>Paleta M1 105mm HE x42</Polish>
+            <Portuguese>Palete M1 105mm HE x42</Portuguese>
+            <Russian>Поддон M1 105 мм HE x42</Russian>
+            <German>M1 105mm HE x42 Palette</German>
+            <Korean>M1 105mm HE x42 팔레트</Korean>
+            <Japanese>M1 105mm HE x42 パレット</Japanese>
+            <Chinese>M1 105mm HE x42 棧板</Chinese>
+            <Chinesesimp>M1 105mm HE x42 托盘</Chinesesimp>
+            <Turkish>M1 105mm HE x42 Palet</Turkish>
+            <Hungarian>M1 105mm HE x42 raklap</Hungarian>
+            <Ukrainian>Піддон M1 105 мм HE x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_DisplayName">
             <English>M1 105mm HE Shell</English>
+            <Czech>Granát M1 105mm HE</Czech>
+            <French>Obus M1 105mm HE</French>
+            <Spanish>Proyectil M1 105mm HE</Spanish>
+            <Italian>Proietto M1 105mm HE</Italian>
+            <Polish>Pocisk M1 105mm HE</Polish>
+            <Portuguese>Projétil M1 105mm HE</Portuguese>
+            <Russian>Снаряд M1 105 мм HE</Russian>
+            <German>M1 105mm HE-Granate</German>
+            <Korean>M1 105mm HE 포탄</Korean>
+            <Japanese>M1 105mm HE 砲弾</Japanese>
+            <Chinese>M1 105mm HE 砲彈</Chinese>
+            <Chinesesimp>M1 105mm HE 炮弹</Chinesesimp>
+            <Turkish>M1 105mm HE Mermisi</Turkish>
+            <Hungarian>M1 105mm HE lövedék</Hungarian>
+            <Ukrainian>Снаряд M1 105 мм HE</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_ab_DisplayName">
             <English>M1 105mm AB Shell</English>
+            <Czech>Granát M1 105mm AB</Czech>
+            <French>Obus M1 105mm AB</French>
+            <Spanish>Proyectil M1 105mm AB</Spanish>
+            <Italian>Proietto M1 105mm AB</Italian>
+            <Polish>Pocisk M1 105mm AB</Polish>
+            <Portuguese>Projétil M1 105mm AB</Portuguese>
+            <Russian>Снаряд M1 105 мм AB</Russian>
+            <German>M1 105mm AB-Granate</German>
+            <Korean>M1 105mm AB 포탄</Korean>
+            <Japanese>M1 105mm AB 砲弾</Japanese>
+            <Chinese>M1 105mm AB 砲彈</Chinese>
+            <Chinesesimp>M1 105mm AB 炮弹</Chinesesimp>
+            <Turkish>M1 105mm AB Mermisi</Turkish>
+            <Hungarian>M1 105mm AB lövedék</Hungarian>
+            <Ukrainian>Снаряд M1 105 мм AB</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_casing_DisplayName">
             <English>105mm Shell Casing (Empty)</English>
+            <Czech>Nábojnice 105mm (prázdná)</Czech>
+            <French>Douille de 105mm (vide)</French>
+            <Spanish>Vaina de 105mm (vacía)</Spanish>
+            <Italian>Bossolo da 105mm (vuoto)</Italian>
+            <Polish>Łuska 105mm (pusta)</Polish>
+            <Portuguese>Estojo de 105mm (vazio)</Portuguese>
+            <Russian>Гильза 105 мм (пустая)</Russian>
+            <German>105mm Kartuschhülse (leer)</German>
+            <Korean>105mm 탄피 (빈 것)</Korean>
+            <Japanese>105mm 薬莢（空）</Japanese>
+            <Chinese>105mm 彈殼 (空)</Chinese>
+            <Chinesesimp>105mm 弹壳 (空)</Chinesesimp>
+            <Turkish>105mm Kovan (Boş)</Turkish>
+            <Hungarian>105mm hüvely (üres)</Hungarian>
+            <Ukrainian>Гільза 105 мм (порожня)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_frag_DisplayName">
             <English>M546 105mm FRAG Shell</English>
+            <Czech>Granát M546 105mm FRAG</Czech>
+            <French>Obus M546 105mm FRAG</French>
+            <Spanish>Proyectil M546 105mm FRAG</Spanish>
+            <Italian>Proietto M546 105mm FRAG</Italian>
+            <Polish>Pocisk M546 105mm FRAG</Polish>
+            <Portuguese>Projétil M546 105mm FRAG</Portuguese>
+            <Russian>Снаряд M546 105 мм FRAG</Russian>
+            <German>M546 105mm FRAG-Granate</German>
+            <Korean>M546 105mm FRAG 포탄</Korean>
+            <Japanese>M546 105mm FRAG 砲弾</Japanese>
+            <Chinese>M546 105mm FRAG 砲彈</Chinese>
+            <Chinesesimp>M546 105mm FRAG 炮弹</Chinesesimp>
+            <Turkish>M546 105mm FRAG Mermisi</Turkish>
+            <Hungarian>M546 105mm FRAG lövedék</Hungarian>
+            <Ukrainian>Снаряд M546 105 мм FRAG</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_he_DisplayName">
             <English>M1 105mm HE Shell</English>
+            <Czech>Granát M1 105mm HE</Czech>
+            <French>Obus M1 105mm HE</French>
+            <Spanish>Proyectil M1 105mm HE</Spanish>
+            <Italian>Proietto M1 105mm HE</Italian>
+            <Polish>Pocisk M1 105mm HE</Polish>
+            <Portuguese>Projétil M1 105mm HE</Portuguese>
+            <Russian>Снаряд M1 105 мм HE</Russian>
+            <German>M1 105mm HE-Granate</German>
+            <Korean>M1 105mm HE 포탄</Korean>
+            <Japanese>M1 105mm HE 砲弾</Japanese>
+            <Chinese>M1 105mm HE 砲彈</Chinese>
+            <Chinesesimp>M1 105mm HE 炮弹</Chinesesimp>
+            <Turkish>M1 105mm HE Mermisi</Turkish>
+            <Hungarian>M1 105mm HE lövedék</Hungarian>
+            <Ukrainian>Снаряд M1 105 мм HE</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_icm_DisplayName">
             <English>M444 105mm ICM Shell</English>
+            <Czech>Granát M444 105mm ICM</Czech>
+            <French>Obus M444 105mm ICM</French>
+            <Spanish>Proyectil M444 105mm ICM</Spanish>
+            <Italian>Proietto M444 105mm ICM</Italian>
+            <Polish>Pocisk M444 105mm ICM</Polish>
+            <Portuguese>Projétil M444 105mm ICM</Portuguese>
+            <Russian>Снаряд M444 105 мм ICM</Russian>
+            <German>M444 105mm ICM-Granate</German>
+            <Korean>M444 105mm ICM 포탄</Korean>
+            <Japanese>M444 105mm ICM 砲弾</Japanese>
+            <Chinese>M444 105mm ICM 砲彈</Chinese>
+            <Chinesesimp>M444 105mm ICM 炮弹</Chinesesimp>
+            <Turkish>M444 105mm ICM Mermisi</Turkish>
+            <Hungarian>M444 105mm ICM lövedék</Hungarian>
+            <Ukrainian>Снаряд M444 105 мм ICM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_illum_DisplayName">
-            <English>M314 105mm LUME Shell</English>
+            <English>M314 105mm ILLUM Shell</English>
+            <Czech>Granát M314 105mm ILLUM</Czech>
+            <French>Obus M314 105mm ILLUM</French>
+            <Spanish>Proyectil M314 105mm ILLUM</Spanish>
+            <Italian>Proietto M314 105mm ILLUM</Italian>
+            <Polish>Pocisk M314 105mm ILLUM</Polish>
+            <Portuguese>Projétil M314 105mm ILLUM</Portuguese>
+            <Russian>Снаряд M314 105 мм ILLUM</Russian>
+            <German>M314 105mm ILLUM-Granate</German>
+            <Korean>M314 105mm ILLUM 포탄</Korean>
+            <Japanese>M314 105mm ILLUM 砲弾</Japanese>
+            <Chinese>M314 105mm ILLUM 砲彈</Chinese>
+            <Chinesesimp>M314 105mm ILLUM 炮弹</Chinesesimp>
+            <Turkish>M314 105mm ILLUM Mermisi</Turkish>
+            <Hungarian>M314 105mm ILLUM lövedék</Hungarian>
+            <Ukrainian>Снаряд M314 105 мм ILLUM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_smk_DisplayName">
             <English>M60 105mm Smoke Shell</English>
+            <Czech>Granát M60 105mm Dýmový</Czech>
+            <French>Obus M60 105mm Fumigène</French>
+            <Spanish>Proyectil M60 105mm Humo</Spanish>
+            <Italian>Proietto M60 105mm Fumogeno</Italian>
+            <Polish>Pocisk M60 105mm Dymny</Polish>
+            <Portuguese>Projétil M60 105mm Fumaça</Portuguese>
+            <Russian>Снаряд M60 105 мм дымовой</Russian>
+            <German>M60 105mm Nebel-Granate</German>
+            <Korean>M60 105mm 연막 포탄</Korean>
+            <Japanese>M60 105mm 発煙 砲弾</Japanese>
+            <Chinese>M60 105mm 煙幕 砲彈</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 炮弹</Chinesesimp>
+            <Turkish>M60 105mm Sis Mermisi</Turkish>
+            <Hungarian>M60 105mm Füst lövedék</Hungarian>
+            <Ukrainian>Снаряд M60 105 мм димовий</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_shell_wp_DisplayName">
             <English>M60 105mm WP Shell</English>
+            <Czech>Granát M60 105mm WP</Czech>
+            <French>Obus M60 105mm WP</French>
+            <Spanish>Proyectil M60 105mm WP</Spanish>
+            <Italian>Proietto M60 105mm WP</Italian>
+            <Polish>Pocisk M60 105mm WP</Polish>
+            <Portuguese>Projétil M60 105mm WP</Portuguese>
+            <Russian>Снаряд M60 105 мм WP</Russian>
+            <German>M60 105mm WP-Granate</German>
+            <Korean>M60 105mm WP 포탄</Korean>
+            <Japanese>M60 105mm WP 砲弾</Japanese>
+            <Chinese>M60 105mm WP 砲彈</Chinese>
+            <Chinesesimp>M60 105mm WP 炮弹</Chinesesimp>
+            <Turkish>M60 105mm WP Mermisi</Turkish>
+            <Hungarian>M60 105mm WP lövedék</Hungarian>
+            <Ukrainian>Снаряд M60 105 мм WP</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smk_container_x504_DisplayName">
             <English>M60 105mm Smoke x 504 Cargo Container</English>
+            <Czech>Kontejner M60 105mm Dýmový x 504</Czech>
+            <French>Conteneur M60 105mm Fumigène x 504</French>
+            <Spanish>Contenedor de carga M60 105mm Humo x 504</Spanish>
+            <Italian>Container M60 105mm Fumogeno x 504</Italian>
+            <Polish>Kontener M60 105mm Dymny x 504</Polish>
+            <Portuguese>Contêiner M60 105mm Fumaça x 504</Portuguese>
+            <Russian>Контейнер M60 105 мм дымовой x 504</Russian>
+            <German>M60 105mm Nebel x 504 Frachtcontainer</German>
+            <Korean>M60 105mm 연막 x 504 화물 컨테이너</Korean>
+            <Japanese>M60 105mm 発煙 x 504 貨物コンテナ</Japanese>
+            <Chinese>M60 105mm 煙幕 x 504 貨櫃</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x 504 货运集装箱</Chinesesimp>
+            <Turkish>M60 105mm Sis x 504 Konteyner</Turkish>
+            <Hungarian>M60 105mm Füst x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M60 105 мм димовий x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smk_pallet_x18_DisplayName">
             <English>M60 105mm Smoke x18 Pallet</English>
+            <Czech>Paleta M60 105mm Dýmový x18</Czech>
+            <French>Palette M60 105mm Fumigène x18</French>
+            <Spanish>Palé M60 105mm Humo x18</Spanish>
+            <Italian>Pallet M60 105mm Fumogeno x18</Italian>
+            <Polish>Paleta M60 105mm Dymny x18</Polish>
+            <Portuguese>Palete M60 105mm Fumaça x18</Portuguese>
+            <Russian>Поддон M60 105 мм дымовой x18</Russian>
+            <German>M60 105mm Nebel x18 Palette</German>
+            <Korean>M60 105mm 연막 x18 팔레트</Korean>
+            <Japanese>M60 105mm 発煙 x18 パレット</Japanese>
+            <Chinese>M60 105mm 煙幕 x18 棧板</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x18 托盘</Chinesesimp>
+            <Turkish>M60 105mm Sis x18 Palet</Turkish>
+            <Hungarian>M60 105mm Füst x18 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм димовий x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smk_pallet_x24_DisplayName">
             <English>M60 105mm Smoke x24 Pallet</English>
+            <Czech>Paleta M60 105mm Dýmový x24</Czech>
+            <French>Palette M60 105mm Fumigène x24</French>
+            <Spanish>Palé M60 105mm Humo x24</Spanish>
+            <Italian>Pallet M60 105mm Fumogeno x24</Italian>
+            <Polish>Paleta M60 105mm Dymny x24</Polish>
+            <Portuguese>Palete M60 105mm Fumaça x24</Portuguese>
+            <Russian>Поддон M60 105 мм дымовой x24</Russian>
+            <German>M60 105mm Nebel x24 Palette</German>
+            <Korean>M60 105mm 연막 x24 팔레트</Korean>
+            <Japanese>M60 105mm 発煙 x24 パレット</Japanese>
+            <Chinese>M60 105mm 煙幕 x24 棧板</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x24 托盘</Chinesesimp>
+            <Turkish>M60 105mm Sis x24 Palet</Turkish>
+            <Hungarian>M60 105mm Füst x24 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм димовий x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smk_pallet_x42_DisplayName">
             <English>M60 105mm Smoke x42 Pallet</English>
+            <Czech>Paleta M60 105mm Dýmový x42</Czech>
+            <French>Palette M60 105mm Fumigène x42</French>
+            <Spanish>Palé M60 105mm Humo x42</Spanish>
+            <Italian>Pallet M60 105mm Fumogeno x42</Italian>
+            <Polish>Paleta M60 105mm Dymny x42</Polish>
+            <Portuguese>Palete M60 105mm Fumaça x42</Portuguese>
+            <Russian>Поддон M60 105 мм дымовой x42</Russian>
+            <German>M60 105mm Nebel x42 Palette</German>
+            <Korean>M60 105mm 연막 x42 팔레트</Korean>
+            <Japanese>M60 105mm 発煙 x42 パレット</Japanese>
+            <Chinese>M60 105mm 煙幕 x42 棧板</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x42 托盘</Chinesesimp>
+            <Turkish>M60 105mm Sis x42 Palet</Turkish>
+            <Hungarian>M60 105mm Füst x42 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм димовий x42</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smoke_crate_DisplayName">
             <English>M60 105mm Smoke x2 Crate</English>
+            <Czech>Bedna M60 105mm Dýmový x2</Czech>
+            <French>Caisse M60 105mm Fumigène x2</French>
+            <Spanish>Caja M60 105mm Humo x2</Spanish>
+            <Italian>Cassa M60 105mm Fumogeno x2</Italian>
+            <Polish>Skrzynia M60 105mm Dymny x2</Polish>
+            <Portuguese>Caixa M60 105mm Fumaça x2</Portuguese>
+            <Russian>Ящик M60 105 мм дымовой x2</Russian>
+            <German>M60 105mm Nebel x2 Kiste</German>
+            <Korean>M60 105mm 연막 x2 탄약 상자</Korean>
+            <Japanese>M60 105mm 発煙 x2 弾薬箱</Japanese>
+            <Chinese>M60 105mm 煙幕 x2 彈藥箱</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x2 弹药箱</Chinesesimp>
+            <Turkish>M60 105mm Sis x2 Sandık</Turkish>
+            <Hungarian>M60 105mm Füst x2 láda</Hungarian>
+            <Ukrainian>Ящик M60 105 мм димовий x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_smoke_crate_open_DisplayName">
             <English>M60 105mm Smoke x2 Crate (Open)</English>
+            <Czech>Bedna M60 105mm Dýmový x2 (otevřená)</Czech>
+            <French>Caisse M60 105mm Fumigène x2 (ouverte)</French>
+            <Spanish>Caja M60 105mm Humo x2 (abierta)</Spanish>
+            <Italian>Cassa M60 105mm Fumogeno x2 (aperta)</Italian>
+            <Polish>Skrzynia M60 105mm Dymny x2 (otwarta)</Polish>
+            <Portuguese>Caixa M60 105mm Fumaça x2 (aberta)</Portuguese>
+            <Russian>Ящик M60 105 мм дымовой x2 (открыт)</Russian>
+            <German>M60 105mm Nebel x2 Kiste (offen)</German>
+            <Korean>M60 105mm 연막 x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M60 105mm 発煙 x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M60 105mm 煙幕 x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M60 105mm 烟幕 x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M60 105mm Sis x2 Sandık (Açık)</Turkish>
+            <Hungarian>M60 105mm Füst x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M60 105 мм димовий x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_container_x504_DisplayName">
             <English>M60 105mm WP x 504 Cargo Container</English>
+            <Czech>Kontejner M60 105mm WP x 504</Czech>
+            <French>Conteneur M60 105mm WP x 504</French>
+            <Spanish>Contenedor de carga M60 105mm WP x 504</Spanish>
+            <Italian>Container M60 105mm WP x 504</Italian>
+            <Polish>Kontener M60 105mm WP x 504</Polish>
+            <Portuguese>Contêiner M60 105mm WP x 504</Portuguese>
+            <Russian>Контейнер M60 105 мм WP x 504</Russian>
+            <German>M60 105mm WP x 504 Frachtcontainer</German>
+            <Korean>M60 105mm WP x 504 화물 컨테이너</Korean>
+            <Japanese>M60 105mm WP x 504 貨物コンテナ</Japanese>
+            <Chinese>M60 105mm WP x 504 貨櫃</Chinese>
+            <Chinesesimp>M60 105mm WP x 504 货运集装箱</Chinesesimp>
+            <Turkish>M60 105mm WP x 504 Konteyner</Turkish>
+            <Hungarian>M60 105mm WP x 504 konténer</Hungarian>
+            <Ukrainian>Контейнер M60 105 мм WP x 504</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_crate_DisplayName">
             <English>M60 105mm WP x2 Crate</English>
+            <Czech>Bedna M60 105mm WP x2</Czech>
+            <French>Caisse M60 105mm WP x2</French>
+            <Spanish>Caja M60 105mm WP x2</Spanish>
+            <Italian>Cassa M60 105mm WP x2</Italian>
+            <Polish>Skrzynia M60 105mm WP x2</Polish>
+            <Portuguese>Caixa M60 105mm WP x2</Portuguese>
+            <Russian>Ящик M60 105 мм WP x2</Russian>
+            <German>M60 105mm WP x2 Kiste</German>
+            <Korean>M60 105mm WP x2 탄약 상자</Korean>
+            <Japanese>M60 105mm WP x2 弾薬箱</Japanese>
+            <Chinese>M60 105mm WP x2 彈藥箱</Chinese>
+            <Chinesesimp>M60 105mm WP x2 弹药箱</Chinesesimp>
+            <Turkish>M60 105mm WP x2 Sandık</Turkish>
+            <Hungarian>M60 105mm WP x2 láda</Hungarian>
+            <Ukrainian>Ящик M60 105 мм WP x2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_crate_open_DisplayName">
             <English>M60 105mm WP x2 Crate (Open)</English>
+            <Czech>Bedna M60 105mm WP x2 (otevřená)</Czech>
+            <French>Caisse M60 105mm WP x2 (ouverte)</French>
+            <Spanish>Caja M60 105mm WP x2 (abierta)</Spanish>
+            <Italian>Cassa M60 105mm WP x2 (aperta)</Italian>
+            <Polish>Skrzynia M60 105mm WP x2 (otwarta)</Polish>
+            <Portuguese>Caixa M60 105mm WP x2 (aberta)</Portuguese>
+            <Russian>Ящик M60 105 мм WP x2 (открыт)</Russian>
+            <German>M60 105mm WP x2 Kiste (offen)</German>
+            <Korean>M60 105mm WP x2 탄약 상자 (개봉됨)</Korean>
+            <Japanese>M60 105mm WP x2 弾薬箱（開封済み）</Japanese>
+            <Chinese>M60 105mm WP x2 彈藥箱 (已開啟)</Chinese>
+            <Chinesesimp>M60 105mm WP x2 弹药箱 (已打开)</Chinesesimp>
+            <Turkish>M60 105mm WP x2 Sandık (Açık)</Turkish>
+            <Hungarian>M60 105mm WP x2 láda (nyitott)</Hungarian>
+            <Ukrainian>Ящик M60 105 мм WP x2 (відкритий)</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_pallet_x18_DisplayName">
             <English>M60 105mm WP x18 Pallet</English>
+            <Czech>Paleta M60 105mm WP x18</Czech>
+            <French>Palette M60 105mm WP x18</French>
+            <Spanish>Palé M60 105mm WP x18</Spanish>
+            <Italian>Pallet M60 105mm WP x18</Italian>
+            <Polish>Paleta M60 105mm WP x18</Polish>
+            <Portuguese>Palete M60 105mm WP x18</Portuguese>
+            <Russian>Поддон M60 105 мм WP x18</Russian>
+            <German>M60 105mm WP x18 Palette</German>
+            <Korean>M60 105mm WP x18 팔레트</Korean>
+            <Japanese>M60 105mm WP x18 パレット</Japanese>
+            <Chinese>M60 105mm WP x18 棧板</Chinese>
+            <Chinesesimp>M60 105mm WP x18 托盘</Chinesesimp>
+            <Turkish>M60 105mm WP x18 Palet</Turkish>
+            <Hungarian>M60 105mm WP x18 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм WP x18</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_pallet_x24_DisplayName">
             <English>M60 105mm WP x24 Pallet</English>
+            <Czech>Paleta M60 105mm WP x24</Czech>
+            <French>Palette M60 105mm WP x24</French>
+            <Spanish>Palé M60 105mm WP x24</Spanish>
+            <Italian>Pallet M60 105mm WP x24</Italian>
+            <Polish>Paleta M60 105mm WP x24</Polish>
+            <Portuguese>Palete M60 105mm WP x24</Portuguese>
+            <Russian>Поддон M60 105 мм WP x24</Russian>
+            <German>M60 105mm WP x24 Palette</German>
+            <Korean>M60 105mm WP x24 팔레트</Korean>
+            <Japanese>M60 105mm WP x24 パレット</Japanese>
+            <Chinese>M60 105mm WP x24 棧板</Chinese>
+            <Chinesesimp>M60 105mm WP x24 托盘</Chinesesimp>
+            <Turkish>M60 105mm WP x24 Palet</Turkish>
+            <Hungarian>M60 105mm WP x24 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм WP x24</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_logistics_m101_wp_pallet_x42_DisplayName">
             <English>M60 105mm WP x42 Pallet</English>
+            <Czech>Paleta M60 105mm WP x42</Czech>
+            <French>Palette M60 105mm WP x42</French>
+            <Spanish>Palé M60 105mm WP x42</Spanish>
+            <Italian>Pallet M60 105mm WP x42</Italian>
+            <Polish>Paleta M60 105mm WP x42</Polish>
+            <Portuguese>Palete M60 105mm WP x42</Portuguese>
+            <Russian>Поддон M60 105 мм WP x42</Russian>
+            <German>M60 105mm WP x42 Palette</German>
+            <Korean>M60 105mm WP x42 팔레트</Korean>
+            <Japanese>M60 105mm WP x42 パレット</Japanese>
+            <Chinese>M60 105mm WP x42 棧板</Chinese>
+            <Chinesesimp>M60 105mm WP x42 托盘</Chinesesimp>
+            <Turkish>M60 105mm WP x42 Palet</Turkish>
+            <Hungarian>M60 105mm WP x42 raklap</Hungarian>
+            <Ukrainian>Піддон M60 105 мм WP x42</Ukrainian>
         </Key>
     </Package>
 </Project>
