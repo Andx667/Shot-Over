@@ -3,21 +3,111 @@
     <Package name="main">
         <Key ID="STR_shot_over_main_EditorCategory">
             <English>Shot, Over!</English>
+            <Czech>Shot, Over!</Czech>
+            <French>Shot, Over!</French>
+            <Spanish>Shot, Over!</Spanish>
+            <Italian>Shot, Over!</Italian>
+            <Polish>Shot, Over!</Polish>
+            <Portuguese>Shot, Over!</Portuguese>
+            <Russian>Shot, Over!</Russian>
+            <German>Shot, Over!</German>
+            <Korean>Shot, Over!</Korean>
+            <Japanese>Shot, Over!</Japanese>
+            <Chinese>Shot, Over!</Chinese>
+            <Chinesesimp>Shot, Over!</Chinesesimp>
+            <Turkish>Shot, Over!</Turkish>
+            <Hungarian>Shot, Over!</Hungarian>
+            <Ukrainian>Shot, Over!</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_main_EditorSubcategory_Ammunition">
             <English>Ammunition</English>
+            <Czech>Munice</Czech>
+            <French>Munitions</French>
+            <Spanish>Munición</Spanish>
+            <Italian>Munizioni</Italian>
+            <Polish>Amunicja</Polish>
+            <Portuguese>Munição</Portuguese>
+            <Russian>Боеприпасы</Russian>
+            <German>Munition</German>
+            <Korean>탄약</Korean>
+            <Japanese>弾薬</Japanese>
+            <Chinese>彈藥</Chinese>
+            <Chinesesimp>弹药</Chinesesimp>
+            <Turkish>Mühimmat</Turkish>
+            <Hungarian>Lőszer</Hungarian>
+            <Ukrainian>Боєприпаси</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_main_EditorSubcategory_Guns">
             <English>Shot, Over!</English>
+            <Czech>Shot, Over!</Czech>
+            <French>Shot, Over!</French>
+            <Spanish>Shot, Over!</Spanish>
+            <Italian>Shot, Over!</Italian>
+            <Polish>Shot, Over!</Polish>
+            <Portuguese>Shot, Over!</Portuguese>
+            <Russian>Shot, Over!</Russian>
+            <German>Shot, Over!</German>
+            <Korean>Shot, Over!</Korean>
+            <Japanese>Shot, Over!</Japanese>
+            <Chinese>Shot, Over!</Chinese>
+            <Chinesesimp>Shot, Over!</Chinesesimp>
+            <Turkish>Shot, Over!</Turkish>
+            <Hungarian>Shot, Over!</Hungarian>
+            <Ukrainian>Shot, Over!</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_main_EditorSubcategory_Supplies">
             <English>Supplies</English>
+            <Czech>Zásoby</Czech>
+            <French>Ravitaillement</French>
+            <Spanish>Suministros</Spanish>
+            <Italian>Rifornimenti</Italian>
+            <Polish>Zaopatrzenie</Polish>
+            <Portuguese>Suprimentos</Portuguese>
+            <Russian>Снабжение</Russian>
+            <German>Versorgung</German>
+            <Korean>보급품</Korean>
+            <Japanese>補給品</Japanese>
+            <Chinese>補給品</Chinese>
+            <Chinesesimp>补给品</Chinesesimp>
+            <Turkish>İkmal</Turkish>
+            <Hungarian>Ellátmány</Hungarian>
+            <Ukrainian>Постачання</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_main_shot_over_DisplayName">
             <English>shot_over</English>
+            <Czech>shot_over</Czech>
+            <French>shot_over</French>
+            <Spanish>shot_over</Spanish>
+            <Italian>shot_over</Italian>
+            <Polish>shot_over</Polish>
+            <Portuguese>shot_over</Portuguese>
+            <Russian>shot_over</Russian>
+            <German>shot_over</German>
+            <Korean>shot_over</Korean>
+            <Japanese>shot_over</Japanese>
+            <Chinese>shot_over</Chinese>
+            <Chinesesimp>shot_over</Chinesesimp>
+            <Turkish>shot_over</Turkish>
+            <Hungarian>shot_over</Hungarian>
+            <Ukrainian>shot_over</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_main_shot_over_Vehicles_DisplayName">
             <English>shot_over Vehicles</English>
+            <Czech>shot_over Vozidla</Czech>
+            <French>shot_over Véhicules</French>
+            <Spanish>shot_over Vehículos</Spanish>
+            <Italian>shot_over Veicoli</Italian>
+            <Polish>shot_over Pojazdy</Polish>
+            <Portuguese>shot_over Veículos</Portuguese>
+            <Russian>shot_over Техника</Russian>
+            <German>shot_over Fahrzeuge</German>
+            <Korean>shot_over 차량</Korean>
+            <Japanese>shot_over 車両</Japanese>
+            <Chinese>shot_over 載具</Chinese>
+            <Chinesesimp>shot_over 载具</Chinesesimp>
+            <Turkish>shot_over Araçlar</Turkish>
+            <Hungarian>shot_over Járművek</Hungarian>
+            <Ukrainian>shot_over Техніка</Ukrainian>
         </Key>
     </Package>
 </Project>

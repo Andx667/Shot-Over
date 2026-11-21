@@ -19,10 +19,12 @@ version, and start a fresh empty [Unreleased] section above it. -->
 - Sight - The crew can emplace aiming stakes at the gun; the gun's azimuth of lay shows in a hint and in the sights (#38) by Andx
 - FCS - The FDC notebook takes the gun's azimuth of lay and gives the deflection for the gunner's sights (#38) by Andx
 - M101 - "Sights Only" variants of both guns without ACE's AZ/EL readout, for missions where the gunner lays by the sights alone (#39) by Andx
+- Main - All names, actions and hints are translated into German, Spanish, French, Italian, Polish, Portuguese, Russian, Ukrainian, Czech, Hungarian, Turkish, Japanese, Korean and Chinese (#50) by Andx
 
 ### Changed
 
 - M101 - The gun elevates slower (about 40 mils per second) so the elevation can be laid to the mil with Page Up/Down (#37) by Andx
+- Logistics - Illumination rounds are now called ILLUM instead of LUME (#50) by Andx
 
 ### Removed
 

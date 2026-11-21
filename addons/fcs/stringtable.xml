@@ -3,123 +3,723 @@
     <Package name="fcs">
         <Key ID="STR_shot_over_fcs_Action_HideNotebook">
             <English>Hide FDC Notebook</English>
+            <Czech>Skrýt zápisník FDC</Czech>
+            <French>Masquer le carnet FDC</French>
+            <Spanish>Ocultar cuaderno FDC</Spanish>
+            <Italian>Nascondi taccuino FDC</Italian>
+            <Polish>Ukryj notatnik FDC</Polish>
+            <Portuguese>Ocultar caderno FDC</Portuguese>
+            <Russian>Скрыть блокнот FDC</Russian>
+            <German>FDC-Notizbuch ausblenden</German>
+            <Korean>FDC 수첩 숨기기</Korean>
+            <Japanese>FDC ノートを隠す</Japanese>
+            <Chinese>隱藏 FDC 筆記本</Chinese>
+            <Chinesesimp>隐藏 FDC 笔记本</Chinesesimp>
+            <Turkish>FDC Defterini Gizle</Turkish>
+            <Hungarian>FDC jegyzetfüzet elrejtése</Hungarian>
+            <Ukrainian>Сховати блокнот FDC</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Action_OpenNotebook">
             <English>Open FDC Notebook</English>
+            <Czech>Otevřít zápisník FDC</Czech>
+            <French>Ouvrir le carnet FDC</French>
+            <Spanish>Abrir cuaderno FDC</Spanish>
+            <Italian>Apri taccuino FDC</Italian>
+            <Polish>Otwórz notatnik FDC</Polish>
+            <Portuguese>Abrir caderno FDC</Portuguese>
+            <Russian>Открыть блокнот FDC</Russian>
+            <German>FDC-Notizbuch öffnen</German>
+            <Korean>FDC 수첩 열기</Korean>
+            <Japanese>FDC ノートを開く</Japanese>
+            <Chinese>開啟 FDC 筆記本</Chinese>
+            <Chinesesimp>打开 FDC 笔记本</Chinesesimp>
+            <Turkish>FDC Defterini Aç</Turkish>
+            <Hungarian>FDC jegyzetfüzet megnyitása</Hungarian>
+            <Ukrainian>Відкрити блокнот FDC</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Column_Charge">
             <English>Charge</English>
+            <Czech>Náplň</Czech>
+            <French>Charge</French>
+            <Spanish>Carga</Spanish>
+            <Italian>Carica</Italian>
+            <Polish>Ładunek</Polish>
+            <Portuguese>Carga</Portuguese>
+            <Russian>Заряд</Russian>
+            <German>Ladung</German>
+            <Korean>장약</Korean>
+            <Japanese>装薬</Japanese>
+            <Chinese>裝藥</Chinese>
+            <Chinesesimp>装药</Chinesesimp>
+            <Turkish>Şarj</Turkish>
+            <Hungarian>Töltet</Hungarian>
+            <Ukrainian>Заряд</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Column_Elevation">
             <English>Elevation</English>
+            <Czech>Náměr</Czech>
+            <French>Hausse</French>
+            <Spanish>Elevación</Spanish>
+            <Italian>Alzo</Italian>
+            <Polish>Celownik</Polish>
+            <Portuguese>Elevação</Portuguese>
+            <Russian>Прицел</Russian>
+            <German>Erhöhung</German>
+            <Korean>사각</Korean>
+            <Japanese>射角</Japanese>
+            <Chinese>射角</Chinese>
+            <Chinesesimp>射角</Chinesesimp>
+            <Turkish>Yükseliş</Turkish>
+            <Hungarian>Csőemelés</Hungarian>
+            <Ukrainian>Приціл</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Column_TOF">
             <English>TOF</English>
+            <Czech>Č. letu</Czech>
+            <French>T. vol</French>
+            <Spanish>T. vuelo</Spanish>
+            <Italian>T. volo</Italian>
+            <Polish>Cz. lotu</Polish>
+            <Portuguese>T. voo</Portuguese>
+            <Russian>Вр. пол.</Russian>
+            <German>Flugz.</German>
+            <Korean>비행시간</Korean>
+            <Japanese>飛翔時間</Japanese>
+            <Chinese>飛行時間</Chinese>
+            <Chinesesimp>飞行时间</Chinesesimp>
+            <Turkish>Uçuş</Turkish>
+            <Hungarian>Rep. idő</Hungarian>
+            <Ukrainian>Час пол.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Firemission">
             <English>FIREMISSION %1/%2</English>
+            <Czech>PALEBNÝ ÚKOL %1/%2</Czech>
+            <French>MISSION DE TIR %1/%2</French>
+            <Spanish>MISIÓN DE FUEGO %1/%2</Spanish>
+            <Italian>MISSIONE DI FUOCO %1/%2</Italian>
+            <Polish>ZADANIE OGNIOWE %1/%2</Polish>
+            <Portuguese>MISSÃO DE TIRO %1/%2</Portuguese>
+            <Russian>ОГНЕВАЯ ЗАДАЧА %1/%2</Russian>
+            <German>FEUERAUFTRAG %1/%2</German>
+            <Korean>사격 임무 %1/%2</Korean>
+            <Japanese>射撃任務 %1/%2</Japanese>
+            <Chinese>射擊任務 %1/%2</Chinese>
+            <Chinesesimp>射击任务 %1/%2</Chinesesimp>
+            <Turkish>ATIŞ GÖREVİ %1/%2</Turkish>
+            <Hungarian>TŰZFELADAT %1/%2</Hungarian>
+            <Ukrainian>ВОГНЕВЕ ЗАВДАННЯ %1/%2</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Format_Meters">
             <English>%1m</English>
+            <Czech>%1 m</Czech>
+            <French>%1 m</French>
+            <Spanish>%1 m</Spanish>
+            <Italian>%1 m</Italian>
+            <Polish>%1 m</Polish>
+            <Portuguese>%1 m</Portuguese>
+            <Russian>%1 м</Russian>
+            <German>%1 m</German>
+            <Korean>%1 m</Korean>
+            <Japanese>%1 m</Japanese>
+            <Chinese>%1 公尺</Chinese>
+            <Chinesesimp>%1 米</Chinesesimp>
+            <Turkish>%1 m</Turkish>
+            <Hungarian>%1 m</Hungarian>
+            <Ukrainian>%1 м</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Format_Mils">
             <English>%1 mils</English>
+            <Czech>%1 dílců</Czech>
+            <French>%1 millièmes</French>
+            <Spanish>%1 milésimas</Spanish>
+            <Italian>%1 millesimi</Italian>
+            <Polish>%1 tysięcznych</Polish>
+            <Portuguese>%1 milésimos</Portuguese>
+            <Russian>%1 тыс.</Russian>
+            <German>%1 Strich</German>
+            <Korean>%1 밀</Korean>
+            <Japanese>%1 ミル</Japanese>
+            <Chinese>%1 密位</Chinese>
+            <Chinesesimp>%1 密位</Chinesesimp>
+            <Turkish>%1 milyem</Turkish>
+            <Hungarian>%1 vonás</Hungarian>
+            <Ukrainian>%1 тис.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Keybind_CloseNotebook">
             <English>Close FDC Notebook</English>
+            <Czech>Zavřít zápisník FDC</Czech>
+            <French>Fermer le carnet FDC</French>
+            <Spanish>Cerrar cuaderno FDC</Spanish>
+            <Italian>Chiudi taccuino FDC</Italian>
+            <Polish>Zamknij notatnik FDC</Polish>
+            <Portuguese>Fechar caderno FDC</Portuguese>
+            <Russian>Закрыть блокнот FDC</Russian>
+            <German>FDC-Notizbuch schließen</German>
+            <Korean>FDC 수첩 닫기</Korean>
+            <Japanese>FDC ノートを閉じる</Japanese>
+            <Chinese>關閉 FDC 筆記本</Chinese>
+            <Chinesesimp>关闭 FDC 笔记本</Chinesesimp>
+            <Turkish>FDC Defterini Kapat</Turkish>
+            <Hungarian>FDC jegyzetfüzet bezárása</Hungarian>
+            <Ukrainian>Закрити блокнот FDC</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Keybind_ToggleNotebook">
             <English>Open FDC Notebook</English>
+            <Czech>Otevřít zápisník FDC</Czech>
+            <French>Ouvrir le carnet FDC</French>
+            <Spanish>Abrir cuaderno FDC</Spanish>
+            <Italian>Apri taccuino FDC</Italian>
+            <Polish>Otwórz notatnik FDC</Polish>
+            <Portuguese>Abrir caderno FDC</Portuguese>
+            <Russian>Открыть блокнот FDC</Russian>
+            <German>FDC-Notizbuch öffnen</German>
+            <Korean>FDC 수첩 열기</Korean>
+            <Japanese>FDC ノートを開く</Japanese>
+            <Chinese>開啟 FDC 筆記本</Chinese>
+            <Chinesesimp>打开 FDC 笔记本</Chinesesimp>
+            <Turkish>FDC Defterini Aç</Turkish>
+            <Hungarian>FDC jegyzetfüzet megnyitása</Hungarian>
+            <Ukrainian>Відкрити блокнот FDC</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_OwnNear">
             <English>We're near %1</English>
+            <Czech>Jsme u %1</Czech>
+            <French>Nous sommes près de %1</French>
+            <Spanish>Estamos cerca de %1</Spanish>
+            <Italian>Siamo vicino a %1</Italian>
+            <Polish>Jesteśmy przy %1</Polish>
+            <Portuguese>Estamos perto de %1</Portuguese>
+            <Russian>Мы у %1</Russian>
+            <German>Wir sind bei %1</German>
+            <Korean>현재 위치: %1 인근</Korean>
+            <Japanese>現在地: %1 付近</Japanese>
+            <Chinese>我方位於 %1 附近</Chinese>
+            <Chinesesimp>我方位于 %1 附近</Chinesesimp>
+            <Turkish>%1 yakınındayız</Turkish>
+            <Hungarian>%1 közelében vagyunk</Hungarian>
+            <Ukrainian>Ми біля %1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_Airburst">
             <English>Airburst</English>
+            <Czech>Vzdušný</Czech>
+            <French>Fusant</French>
+            <Spanish>Espoleta aérea</Spanish>
+            <Italian>Scoppio aereo</Italian>
+            <Polish>Powietrzny</Polish>
+            <Portuguese>Explosão aérea</Portuguese>
+            <Russian>Воздушный</Russian>
+            <German>Luftzerleger</German>
+            <Korean>공중폭발</Korean>
+            <Japanese>空中爆発</Japanese>
+            <Chinese>空爆</Chinese>
+            <Chinesesimp>空爆</Chinesesimp>
+            <Turkish>Havada Patlama</Turkish>
+            <Hungarian>Légrobbanás</Hungarian>
+            <Ukrainian>Повітряний</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_FRAG">
             <English>FRAG</English>
+            <Czech>FRAG</Czech>
+            <French>FRAG</French>
+            <Spanish>FRAG</Spanish>
+            <Italian>FRAG</Italian>
+            <Polish>FRAG</Polish>
+            <Portuguese>FRAG</Portuguese>
+            <Russian>FRAG</Russian>
+            <German>FRAG</German>
+            <Korean>FRAG</Korean>
+            <Japanese>FRAG</Japanese>
+            <Chinese>FRAG</Chinese>
+            <Chinesesimp>FRAG</Chinesesimp>
+            <Turkish>FRAG</Turkish>
+            <Hungarian>FRAG</Hungarian>
+            <Ukrainian>FRAG</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_HE">
             <English>HE</English>
+            <Czech>HE</Czech>
+            <French>HE</French>
+            <Spanish>HE</Spanish>
+            <Italian>HE</Italian>
+            <Polish>HE</Polish>
+            <Portuguese>HE</Portuguese>
+            <Russian>HE</Russian>
+            <German>HE</German>
+            <Korean>HE</Korean>
+            <Japanese>HE</Japanese>
+            <Chinese>HE</Chinese>
+            <Chinesesimp>HE</Chinesesimp>
+            <Turkish>HE</Turkish>
+            <Hungarian>HE</Hungarian>
+            <Ukrainian>HE</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_ICM">
             <English>ICM</English>
+            <Czech>ICM</Czech>
+            <French>ICM</French>
+            <Spanish>ICM</Spanish>
+            <Italian>ICM</Italian>
+            <Polish>ICM</Polish>
+            <Portuguese>ICM</Portuguese>
+            <Russian>ICM</Russian>
+            <German>ICM</German>
+            <Korean>ICM</Korean>
+            <Japanese>ICM</Japanese>
+            <Chinese>ICM</Chinese>
+            <Chinesesimp>ICM</Chinesesimp>
+            <Turkish>ICM</Turkish>
+            <Hungarian>ICM</Hungarian>
+            <Ukrainian>ICM</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_Lume">
-            <English>Lume</English>
+            <English>Illum</English>
+            <Czech>Illum</Czech>
+            <French>Illum</French>
+            <Spanish>Illum</Spanish>
+            <Italian>Illum</Italian>
+            <Polish>Illum</Polish>
+            <Portuguese>Illum</Portuguese>
+            <Russian>Illum</Russian>
+            <German>Illum</German>
+            <Korean>Illum</Korean>
+            <Japanese>Illum</Japanese>
+            <Chinese>Illum</Chinese>
+            <Chinesesimp>Illum</Chinesesimp>
+            <Turkish>Illum</Turkish>
+            <Hungarian>Illum</Hungarian>
+            <Ukrainian>Illum</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_Smoke">
             <English>Smoke</English>
+            <Czech>Dýmový</Czech>
+            <French>Fumigène</French>
+            <Spanish>Humo</Spanish>
+            <Italian>Fumogeno</Italian>
+            <Polish>Dymny</Polish>
+            <Portuguese>Fumaça</Portuguese>
+            <Russian>Дымовой</Russian>
+            <German>Nebel</German>
+            <Korean>연막</Korean>
+            <Japanese>発煙</Japanese>
+            <Chinese>煙幕</Chinese>
+            <Chinesesimp>烟幕</Chinesesimp>
+            <Turkish>Sis</Turkish>
+            <Hungarian>Füst</Hungarian>
+            <Ukrainian>Димовий</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_Shell_WP">
             <English>WP</English>
+            <Czech>WP</Czech>
+            <French>WP</French>
+            <Spanish>WP</Spanish>
+            <Italian>WP</Italian>
+            <Polish>WP</Polish>
+            <Portuguese>WP</Portuguese>
+            <Russian>WP</Russian>
+            <German>WP</German>
+            <Korean>WP</Korean>
+            <Japanese>WP</Japanese>
+            <Chinese>WP</Chinese>
+            <Chinesesimp>WP</Chinesesimp>
+            <Turkish>WP</Turkish>
+            <Hungarian>WP</Hungarian>
+            <Ukrainian>WP</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_TargetNear">
             <English>Tgt near %1</English>
+            <Czech>Cíl u %1</Czech>
+            <French>Cible près de %1</French>
+            <Spanish>Obj. cerca de %1</Spanish>
+            <Italian>Bers. vicino a %1</Italian>
+            <Polish>Cel przy %1</Polish>
+            <Portuguese>Alvo perto de %1</Portuguese>
+            <Russian>Цель у %1</Russian>
+            <German>Ziel bei %1</German>
+            <Korean>표적: %1 인근</Korean>
+            <Japanese>目標: %1 付近</Japanese>
+            <Chinese>目標位於 %1 附近</Chinese>
+            <Chinesesimp>目标位于 %1 附近</Chinesesimp>
+            <Turkish>Hedef %1 yakını</Turkish>
+            <Hungarian>Cél: %1 közelében</Hungarian>
+            <Ukrainian>Ціль біля %1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_AzimuthOfLay_Text">
             <English>Az. of Lay</English>
+            <Czech>Az. zákl.</Czech>
+            <French>Az. point.</French>
+            <Spanish>Az. punt.</Spanish>
+            <Italian>Az. punt.</Italian>
+            <Polish>Az. podst.</Polish>
+            <Portuguese>Az. pont.</Portuguese>
+            <Russian>Аз. нав.</Russian>
+            <German>Grundr.</German>
+            <Korean>방렬 방위</Korean>
+            <Japanese>基準方位</Japanese>
+            <Chinese>基準方位</Chinese>
+            <Chinesesimp>基准方位</Chinesesimp>
+            <Turkish>Atış Semti</Turkish>
+            <Hungarian>Alapir.</Hungarian>
+            <Ukrainian>Аз. нав.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_ButtonBase_Text">
             <English>BACK</English>
+            <Czech>ZPĚT</Czech>
+            <French>RETOUR</French>
+            <Spanish>ATRÁS</Spanish>
+            <Italian>INDIETRO</Italian>
+            <Polish>WSTECZ</Polish>
+            <Portuguese>VOLTAR</Portuguese>
+            <Russian>НАЗАД</Russian>
+            <German>ZURÜCK</German>
+            <Korean>이전</Korean>
+            <Japanese>戻る</Japanese>
+            <Chinese>返回</Chinese>
+            <Chinesesimp>返回</Chinesesimp>
+            <Turkish>GERİ</Turkish>
+            <Hungarian>VISSZA</Hungarian>
+            <Ukrainian>НАЗАД</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_Deflection_Text">
             <English>Deflection:</English>
+            <Czech>Úhloměr:</Czech>
+            <French>Dérive :</French>
+            <Spanish>Deriva:</Spanish>
+            <Italian>Deriva:</Italian>
+            <Polish>Kątomierz:</Polish>
+            <Portuguese>Deriva:</Portuguese>
+            <Russian>Угломер:</Russian>
+            <German>Seite:</German>
+            <Korean>편각:</Korean>
+            <Japanese>方向分画:</Japanese>
+            <Chinese>方向分劃：</Chinese>
+            <Chinesesimp>方向分划：</Chinesesimp>
+            <Turkish>Sapma:</Turkish>
+            <Hungarian>Oldalirány:</Hungarian>
+            <Ukrainian>Кутомір:</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1001_Text">
             <English>TARGET INFO</English>
+            <Czech>ÚDAJE CÍLE</Czech>
+            <French>INFOS CIBLE</French>
+            <Spanish>DATOS OBJETIVO</Spanish>
+            <Italian>DATI BERSAGLIO</Italian>
+            <Polish>DANE CELU</Polish>
+            <Portuguese>DADOS DO ALVO</Portuguese>
+            <Russian>ДАННЫЕ ЦЕЛИ</Russian>
+            <German>ZIELDATEN</German>
+            <Korean>표적 정보</Korean>
+            <Japanese>目標情報</Japanese>
+            <Chinese>目標資訊</Chinese>
+            <Chinesesimp>目标信息</Chinesesimp>
+            <Turkish>HEDEF BİLGİ</Turkish>
+            <Hungarian>CÉLADATOK</Hungarian>
+            <Ukrainian>ДАНІ ЦІЛІ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1003_Text">
             <English>Elevation</English>
+            <Czech>Výška</Czech>
+            <French>Altitude</French>
+            <Spanish>Altitud</Spanish>
+            <Italian>Quota</Italian>
+            <Polish>Wys.</Polish>
+            <Portuguese>Altitude</Portuguese>
+            <Russian>Высота</Russian>
+            <German>Höhe</German>
+            <Korean>고도</Korean>
+            <Japanese>標高</Japanese>
+            <Chinese>海拔</Chinese>
+            <Chinesesimp>海拔</Chinesesimp>
+            <Turkish>Rakım</Turkish>
+            <Hungarian>Mag.</Hungarian>
+            <Ukrainian>Висота</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1004_Text">
             <English>FIRING UNIT</English>
+            <Czech>PALEBNÁ J.</Czech>
+            <French>UNITÉ TIR</French>
+            <Spanish>UNIDAD TIRO</Spanish>
+            <Italian>UNITÀ FUOCO</Italian>
+            <Polish>JEDN. OGN.</Polish>
+            <Portuguese>UNID. TIRO</Portuguese>
+            <Russian>ОРУДИЕ</Russian>
+            <German>GESCHÜTZ</German>
+            <Korean>사격 부대</Korean>
+            <Japanese>射撃部隊</Japanese>
+            <Chinese>射擊單位</Chinese>
+            <Chinesesimp>射击单位</Chinesesimp>
+            <Turkish>ATEŞ BRL.</Turkish>
+            <Hungarian>TÜZELŐ E.</Hungarian>
+            <Ukrainian>ГАРМАТА</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1005_Text">
             <English>Target Grid</English>
+            <Czech>Souř. cíle</Czech>
+            <French>Coord. cible</French>
+            <Spanish>Coord. obj.</Spanish>
+            <Italian>Coord. bers.</Italian>
+            <Polish>Koord. celu</Polish>
+            <Portuguese>Coord. alvo</Portuguese>
+            <Russian>Коорд. цели</Russian>
+            <German>Ziel-Koord.</German>
+            <Korean>표적 좌표</Korean>
+            <Japanese>目標座標</Japanese>
+            <Chinese>目標座標</Chinese>
+            <Chinesesimp>目标坐标</Chinesesimp>
+            <Turkish>Hedef Kord.</Turkish>
+            <Hungarian>Cél koord.</Hungarian>
+            <Ukrainian>Коорд. цілі</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1006_Text">
             <English>Elevation</English>
+            <Czech>Výška</Czech>
+            <French>Altitude</French>
+            <Spanish>Altitud</Spanish>
+            <Italian>Quota</Italian>
+            <Polish>Wys.</Polish>
+            <Portuguese>Altitude</Portuguese>
+            <Russian>Высота</Russian>
+            <German>Höhe</German>
+            <Korean>고도</Korean>
+            <Japanese>標高</Japanese>
+            <Chinese>海拔</Chinese>
+            <Chinesesimp>海拔</Chinesesimp>
+            <Turkish>Rakım</Turkish>
+            <Hungarian>Mag.</Hungarian>
+            <Ukrainian>Висота</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1007_Text">
             <English>Shell Type</English>
+            <Czech>Typ granátu</Czech>
+            <French>Type d'obus</French>
+            <Spanish>Tipo proy.</Spanish>
+            <Italian>Tipo proiet.</Italian>
+            <Polish>Typ pocisku</Polish>
+            <Portuguese>Tipo proj.</Portuguese>
+            <Russian>Тип снаряда</Russian>
+            <German>Granatart</German>
+            <Korean>탄종</Korean>
+            <Japanese>弾種</Japanese>
+            <Chinese>彈種</Chinese>
+            <Chinesesimp>弹种</Chinesesimp>
+            <Turkish>Mermi Tipi</Turkish>
+            <Hungarian>Lövedék</Hungarian>
+            <Ukrainian>Тип снаряда</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1008_Text">
             <English>NOTES</English>
+            <Czech>POZNÁMKY</Czech>
+            <French>NOTES</French>
+            <Spanish>NOTAS</Spanish>
+            <Italian>NOTE</Italian>
+            <Polish>NOTATKI</Polish>
+            <Portuguese>NOTAS</Portuguese>
+            <Russian>ЗАМЕТКИ</Russian>
+            <German>NOTIZEN</German>
+            <Korean>메모</Korean>
+            <Japanese>メモ</Japanese>
+            <Chinese>備註</Chinese>
+            <Chinesesimp>备注</Chinesesimp>
+            <Turkish>NOTLAR</Turkish>
+            <Hungarian>JEGYZET</Hungarian>
+            <Ukrainian>НОТАТКИ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1009_Text">
             <English>CALC</English>
+            <Czech>VÝP.</Czech>
+            <French>CALC</French>
+            <Spanish>CALC</Spanish>
+            <Italian>CALC</Italian>
+            <Polish>OBL.</Polish>
+            <Portuguese>CALC</Portuguese>
+            <Russian>РАСЧ</Russian>
+            <German>BER.</German>
+            <Korean>계산</Korean>
+            <Japanese>計算</Japanese>
+            <Chinese>計算</Chinese>
+            <Chinesesimp>计算</Chinesesimp>
+            <Turkish>HSP</Turkish>
+            <Hungarian>SZÁM</Hungarian>
+            <Ukrainian>РОЗР</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1010_Text">
             <English>SOLUTION</English>
+            <Czech>ŘEŠENÍ</Czech>
+            <French>SOLUTION</French>
+            <Spanish>SOLUCIÓN</Spanish>
+            <Italian>SOLUZIONE</Italian>
+            <Polish>NASTAWY</Polish>
+            <Portuguese>SOLUÇÃO</Portuguese>
+            <Russian>УСТАНОВКИ</Russian>
+            <German>SCHIESSDATEN</German>
+            <Korean>사격 제원</Korean>
+            <Japanese>射撃諸元</Japanese>
+            <Chinese>射擊諸元</Chinese>
+            <Chinesesimp>射击诸元</Chinesesimp>
+            <Turkish>ÇÖZÜM</Turkish>
+            <Hungarian>MEGOLDÁS</Hungarian>
+            <Ukrainian>УСТАНОВКИ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1012_Text">
             <English>NEXT</English>
+            <Czech>DÁLE</Czech>
+            <French>SUIV.</French>
+            <Spanish>SIG.</Spanish>
+            <Italian>AVANTI</Italian>
+            <Polish>DALEJ</Polish>
+            <Portuguese>PRÓX.</Portuguese>
+            <Russian>ДАЛЕЕ</Russian>
+            <German>WEITER</German>
+            <Korean>다음</Korean>
+            <Japanese>次へ</Japanese>
+            <Chinese>下一步</Chinese>
+            <Chinesesimp>下一步</Chinesesimp>
+            <Turkish>İLERİ</Turkish>
+            <Hungarian>TOVÁBB</Hungarian>
+            <Ukrainian>ДАЛІ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1013_Text">
             <English>Direction:</English>
+            <Czech>Směr:</Czech>
+            <French>Direction :</French>
+            <Spanish>Dirección:</Spanish>
+            <Italian>Direzione:</Italian>
+            <Polish>Kierunek:</Polish>
+            <Portuguese>Direção:</Portuguese>
+            <Russian>Направление:</Russian>
+            <German>Richtung:</German>
+            <Korean>방향:</Korean>
+            <Japanese>方向:</Japanese>
+            <Chinese>方向：</Chinese>
+            <Chinesesimp>方向：</Chinesesimp>
+            <Turkish>Yön:</Turkish>
+            <Hungarian>Irány:</Hungarian>
+            <Ukrainian>Напрямок:</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_RscText_1015_Text">
             <English>Distance:</English>
+            <Czech>Vzdálenost:</Czech>
+            <French>Distance :</French>
+            <Spanish>Distancia:</Spanish>
+            <Italian>Distanza:</Italian>
+            <Polish>Odległość:</Polish>
+            <Portuguese>Distância:</Portuguese>
+            <Russian>Дальность:</Russian>
+            <German>Entfernung:</German>
+            <Korean>거리:</Korean>
+            <Japanese>距離:</Japanese>
+            <Chinese>距離：</Chinese>
+            <Chinesesimp>距离：</Chinesesimp>
+            <Turkish>Mesafe:</Turkish>
+            <Hungarian>Távolság:</Hungarian>
+            <Ukrainian>Дальність:</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_TextBase_Text">
             <English>Own Grid</English>
+            <Czech>Vl. souř.</Czech>
+            <French>Coord. prop.</French>
+            <Spanish>Coord. prop.</Spanish>
+            <Italian>Coord. prop.</Italian>
+            <Polish>Wł. koord.</Polish>
+            <Portuguese>Coord. própria</Portuguese>
+            <Russian>Свои коорд.</Russian>
+            <German>Eig. Koord.</German>
+            <Korean>자기 좌표</Korean>
+            <Japanese>自己座標</Japanese>
+            <Chinese>我方座標</Chinese>
+            <Chinesesimp>我方坐标</Chinesesimp>
+            <Turkish>Kendi Kord.</Turkish>
+            <Hungarian>Saját koord.</Hungarian>
+            <Ukrainian>Свої коорд.</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_TitleBase_Text">
             <English>FIREMISSION 1/1</English>
+            <Czech>PALEBNÝ ÚKOL 1/1</Czech>
+            <French>MISSION DE TIR 1/1</French>
+            <Spanish>MISIÓN DE FUEGO 1/1</Spanish>
+            <Italian>MISSIONE DI FUOCO 1/1</Italian>
+            <Polish>ZADANIE OGNIOWE 1/1</Polish>
+            <Portuguese>MISSÃO DE TIRO 1/1</Portuguese>
+            <Russian>ОГНЕВАЯ ЗАДАЧА 1/1</Russian>
+            <German>FEUERAUFTRAG 1/1</German>
+            <Korean>사격 임무 1/1</Korean>
+            <Japanese>射撃任務 1/1</Japanese>
+            <Chinese>射擊任務 1/1</Chinese>
+            <Chinesesimp>射击任务 1/1</Chinesesimp>
+            <Turkish>ATIŞ GÖREVİ 1/1</Turkish>
+            <Hungarian>TŰZFELADAT 1/1</Hungarian>
+            <Ukrainian>ВОГНЕВЕ ЗАВДАННЯ 1/1</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_minimized_RscText_1012_Text">
             <English>NEXT</English>
+            <Czech>DÁLE</Czech>
+            <French>SUIV.</French>
+            <Spanish>SIG.</Spanish>
+            <Italian>AVANTI</Italian>
+            <Polish>DALEJ</Polish>
+            <Portuguese>PRÓX.</Portuguese>
+            <Russian>ДАЛЕЕ</Russian>
+            <German>WEITER</German>
+            <Korean>다음</Korean>
+            <Japanese>次へ</Japanese>
+            <Chinese>下一步</Chinese>
+            <Chinesesimp>下一步</Chinesesimp>
+            <Turkish>İLERİ</Turkish>
+            <Hungarian>TOVÁBB</Hungarian>
+            <Ukrainian>ДАЛІ</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_minimized_RscText_1013_Text">
             <English>Direction:</English>
+            <Czech>Směr:</Czech>
+            <French>Direction :</French>
+            <Spanish>Dirección:</Spanish>
+            <Italian>Direzione:</Italian>
+            <Polish>Kierunek:</Polish>
+            <Portuguese>Direção:</Portuguese>
+            <Russian>Направление:</Russian>
+            <German>Richtung:</German>
+            <Korean>방향:</Korean>
+            <Japanese>方向:</Japanese>
+            <Chinese>方向：</Chinese>
+            <Chinesesimp>方向：</Chinesesimp>
+            <Turkish>Yön:</Turkish>
+            <Hungarian>Irány:</Hungarian>
+            <Ukrainian>Напрямок:</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_minimized_RscText_1015_Text">
             <English>Distance:</English>
+            <Czech>Vzdálenost:</Czech>
+            <French>Distance :</French>
+            <Spanish>Distancia:</Spanish>
+            <Italian>Distanza:</Italian>
+            <Polish>Odległość:</Polish>
+            <Portuguese>Distância:</Portuguese>
+            <Russian>Дальность:</Russian>
+            <German>Entfernung:</German>
+            <Korean>거리:</Korean>
+            <Japanese>距離:</Japanese>
+            <Chinese>距離：</Chinese>
+            <Chinesesimp>距离：</Chinesesimp>
+            <Turkish>Mesafe:</Turkish>
+            <Hungarian>Távolság:</Hungarian>
+            <Ukrainian>Дальність:</Ukrainian>
         </Key>
         <Key ID="STR_shot_over_fcs_calculator_minimized_TitleBase_Text">
             <English>SOLUTION</English>
+            <Czech>ŘEŠENÍ</Czech>
+            <French>SOLUTION</French>
+            <Spanish>SOLUCIÓN</Spanish>
+            <Italian>SOLUZIONE</Italian>
+            <Polish>NASTAWY</Polish>
+            <Portuguese>SOLUÇÃO</Portuguese>
+            <Russian>УСТАНОВКИ</Russian>
+            <German>SCHIESSDATEN</German>
+            <Korean>사격 제원</Korean>
+            <Japanese>射撃諸元</Japanese>
+            <Chinese>射擊諸元</Chinese>
+            <Chinesesimp>射击诸元</Chinesesimp>
+            <Turkish>ÇÖZÜM</Turkish>
+            <Hungarian>MEGOLDÁS</Hungarian>
+            <Ukrainian>УСТАНОВКИ</Ukrainian>
         </Key>
     </Package>
 </Project>
