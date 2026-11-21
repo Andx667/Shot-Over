@@ -16,6 +16,8 @@ Created by YannikH and toadball of the original ITC team (with Yax); this versio
 - **Seven shell types** (HE, airburst, FRAG, WP, smoke, illumination, ICM) with five charges
 - **Logistics**: shells in crates, crates on pallets, pallets out of cargo containers, all carried, dragged and loaded with ACE
 - **FDC notebook**: direction, distance, and charge, elevation and time of flight for every charge, from the gun's and the target's grid and elevation; several fire missions, and a minimized view for the gunline
+- **Gun sights**: a panoramic telescope and quadrant for the gunner, with aiming stakes and the deflection from the FDC notebook
+- **Translated** into 15 languages
 - **In Eden and Zeus**; optional ACRE2 radio on the PRC-77 prop
 
 # Documentation

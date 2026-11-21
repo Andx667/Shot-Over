@@ -13,6 +13,8 @@ version, and start a fresh empty [Unreleased] section above it. -->
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-21
+
 ### Added
 
 - Sight - The M101 gunner can lay the gun with its sights: a panoramic telescope with deflection dial and tape, and a quadrant with a level bubble (#37) by Andx

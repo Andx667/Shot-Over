@@ -8,8 +8,8 @@
     <a href="https://github.com/Andx667/Shot-Over/issues">
         <img src="https://img.shields.io/github/issues-raw/Andx667/Shot-Over.svg?style=flat-square&label=Issues" alt="Shot, Over! Issues">
     </a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=0">
-        <img src="https://img.shields.io/steam/downloads/0.svg?style=flat-square&label=Downloads" alt="Shot, Over! Downloads">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3842554264">
+        <img src="https://img.shields.io/steam/downloads/3842554264.svg?style=flat-square&label=Downloads" alt="Shot, Over! Downloads">
     </a>
     <a href="https://github.com/Andx667/Shot-Over/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="Shot, Over! License">
@@ -23,14 +23,11 @@ __Requires__ [CBA_A3](https://github.com/CBATeam/CBA_A3), [ACE3](https://github.
 
 __Shot, Over!__ makes crewing the M101 howitzer of S.O.G. Prairie Fire a gunline job: carry the shells, set the charge, load the breech by hand, and work out the firing data in the FDC notebook.
 
-> [!NOTE]
-> Work in progress, not released yet. See the [issues](https://github.com/Andx667/Shot-Over/issues) for the road to the first release.
-
 Shot, Over! was created by YannikH and toadball of the original ITC team (with Yax) and never released. This version continues it; YannikH invited that in [itc-addons/ITC_Land_Systems#24](https://github.com/itc-addons/ITC_Land_Systems/issues/24). The original code is at [YannikH/Shot-Over](https://github.com/YannikH/Shot-Over).
 
 The project is entirely __open-source__ and any contributions are welcome.
 
-Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=0>
+Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3842554264>
 Discord: <https://discord.gg/ag4v6kxYAa>
 
 ## Features
@@ -39,6 +36,8 @@ Discord: <https://discord.gg/ag4v6kxYAa>
 - **Seven shell types** (HE, airburst, FRAG, WP, smoke, illumination, ICM) with five charges
 - **Logistics**: shells in crates, crates on pallets, pallets out of cargo containers, all carried, dragged and loaded with ACE
 - **FDC notebook**: direction, distance, and charge, elevation and time of flight for every charge, from the gun's and the target's grid and elevation; several fire missions, and a minimized view for the gunline
+- **Gun sights**: a panoramic telescope and quadrant for the gunner, with aiming stakes and the deflection from the FDC notebook
+- **Translated** into 15 languages
 - **In Eden and Zeus**; optional ACRE2 radio on the PRC-77 prop
 
 Documentation: <https://andx667.github.io/Shot-Over/>
